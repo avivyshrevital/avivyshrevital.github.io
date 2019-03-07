@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "RevitalHe",
+    "name": "Revital-English",
     "currentPage": "index-old.html",
     "theme": {
       "name": "spacem",
@@ -21,7 +21,7 @@
     },
     "versionFirst": "3.12.1",
     "uniqCompNum": 258,
-    "versionPublish": "4.8.4",
+    "versionPublish": "4.9.5",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/hopetoseeyousooncoverfront-128x197-1.png",
@@ -37,7 +37,8 @@
     "siteUrl": "http://revital-sh.com",
     "sitemapSwitcherAuto": "on",
     "sitemapSwitcher": "on",
-    "siteFonts": []
+    "siteFonts": [],
+    "gdpr": ""
   },
   "pages": {
     "Reviews.html": {
