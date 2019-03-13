@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Revital-English",
-    "currentPage": "its-just-your-imagination.html",
+    "currentPage": "index-old.html",
     "theme": {
       "name": "spacem",
       "title": "SpaceM",
@@ -17,12 +17,10 @@
         "textFont": "Lato",
         "isRoundedButtons": true
       },
-      "additionalSetColors": [
-        "#fffbfb"
-      ]
+      "additionalSetColors": []
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 260,
+    "uniqCompNum": 258,
     "versionPublish": "4.9.5",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -11328,61 +11326,6 @@
           ],
           "_name": "title4",
           "_anchor": "title4-6p"
-        },
-        {
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "1",
-            "showTitle": true,
-            "showSubtitle": true,
-            "showButtons": false,
-            "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/download-419x120.jpg",
-            "bgColorRadio": true,
-            "bgColor": "#fffbfb",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#151515",
-            "overlayOpacity": 0.35
-          },
-          "media": {
-            "image": {
-              "class": "mbr-figure__img",
-              "src": "@THEME_PATH@/components/_images/info.jpg"
-            },
-            "video": {
-              "active": true,
-              "src": "https://www.youtube.com/watch?v=CluVGS25Kb0",
-              "class": "mbr-figure__img",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            }
-          },
-          "title": "<span style=\"font-weight: normal;\"><i><a href=\"https://www.kirkusreviews.com/book-reviews/revital-shiri-horowitz/its-just-your-imagination/\" target=\"_blank\">KIRKUS REVIEW</a></i></span>",
-          "text": "An Israeli author offers advice on breaking free from familial cycles of manipulation and conditional love.<br><br>Shiri-Horowitz (Hope to See You Soon, 2014, etc.) grew up with a possessive, critical mother. It’s a vicious cycle, she argues: Women who lacked a mother’s unconditional love repeat the same pattern of treatment when they become parents. Her own mother “remained hurt, and hurtful. She copied her mother’s maternal paradigm.” The first chapter helpfully sets out the 10 characteristics of narcissistic mothers. These include concern with appearances, jealousy between mother and daughter, and a lack of respect for the child’s individual identity. In this framework, the father is often a passive partner who tries feebly to make peace. Shiri-Horowitz describes her father as “weak,” “overshadowed,” and absent-seeming. Emotional neglect is a powerful force, the author contends, and contrasts with the seeming perfection of a family seen from the outside: Her mother kept up a convincing facade, with her home and children well-kempt. No one could have guessed there was emotional abuse behind the scenes. At times, this edged into physical abuse, as when her mother threw her to the floor while verbally disowning her. Shiri-Horowitz capably weaves telling incidents from her own history with the psychological insights she has gained into narcissism. She stresses the importance of setting boundaries and finding your own voice, such as by writing a letter to your childhood self. A final poem is especially effective at dramatizing the battle of wills between mother and daughter: “Mom, you do not know / Where you start and where I / End—you are not me and I am not you.” This volume will undoubtedly be helpful to readers who recognize their own families here. It’s a  short and well-structured work, though it repeats some facts (for example, the author’s mother hurling her to the floor). The book is also heavily indebted to Karyl McBride’s Will I Ever Be Good Enough? Healing the Daughters of Narcissistic Mothers.<br><br>A succinct and useful self-help guide for those who have been emotionally damaged by narcissists.",
-          "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">learn more</a>",
-          "alias": "spacem/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header1",
-          "_styles": {
-            "P": {
-              "text-align": "left",
-              "font-size": "16px",
-              "color": "#222222"
-            },
-            "SPAN": {
-              "font-size": "32px",
-              "color": "#222222"
-            }
-          },
-          "_anchor": "header1-77"
         },
         {
           "_params": {

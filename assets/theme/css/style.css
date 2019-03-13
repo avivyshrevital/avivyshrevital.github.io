@@ -5501,7 +5501,7 @@ b, strong {font-weight: bold;}
  .menu2 .nav-list {background: #222;}
 
   .menu2 .nav.navbar-nav.nav-dropdown{background: #222 !important;}
-  .menu2 .navbar-nav {padding: 10px 0px;overflow: auto; display: block !important; position: fixed; top: 0; bottom: 0;}
+  .menu2 .navbar-nav {padding: 200px 0px;overflow: auto; display: block !important; position: fixed; top: 0; bottom: 0;}
   .menu2 .link {font-size: 34px !important; line-height: 34px; font-weight: 700; font-family: 'Montserrat', sans-serif; display: inline-block; float: none; text-transform: uppercase; border: 2px solid rgba(255,255,255,0); padding: 0px; position: relative; margin: 20px;}
   .menu2 .link:after {right: -30px;}
   .menu2 .nav-item.dropdown.open {background: transparent;}
@@ -5511,8 +5511,8 @@ b, strong {font-weight: bold;}
   .menu2 .dropdown-item {font-size: 24px !important; line-height: 34px; font-weight: 700; font-family: 'Montserrat', sans-serif;}
 }
 @media (max-width: 480px) {
-  .menu2 .link {font-size: 15px !important; line-height: 25px;}
-  .menu2 .navbar-nav .nav-item {margin: 0 0 2px;}
+  .menu2 .link {font-size: 25px !important; line-height: 25px;}
+  .menu2 .navbar-nav .nav-item {margin: 0 0 15px;}
 }
 @media (max-height: 600px) and (max-width: 992px) {
   .menu2 .navbar-nav {padding: 100px 0px;}
@@ -5533,7 +5533,7 @@ b, strong {font-weight: bold;}
 .menu4 .navbar-toggler { width: 15px; z-index: 7000; display: block; position: relative; top: inherit; padding: 0px; line-height: inherit; font-size: 0px; height: 15px; margin: auto;}
 
 .menu4 .nav.navbar-nav.nav-dropdown{background: #fff !important;}
-.menu4 .navbar-nav {padding: 10px 0px;overflow: auto; display: block !important; position: fixed; top: 0; bottom: 0;}
+.menu4 .navbar-nav {padding: 200px 0px;overflow: auto; display: block !important; position: fixed; top: 0; bottom: 0;}
 .menu4 .link {font-size: 34px !important; line-height: 34px; font-weight: 700; font-family: 'Montserrat', sans-serif; display: inline-block; float: none; text-transform: uppercase; border: 2px solid rgba(255,255,255,0); padding: 0px; position: relative; margin: 20px;}
 .menu4 .link:after {right: -30px;}
 .menu4 .nav-item.dropdown.open {background: transparent;}
@@ -5544,8 +5544,8 @@ b, strong {font-weight: bold;}
 
 }
 @media (max-width: 480px) {
-  .menu4 .link {font-size: 15px !important; line-height: 25px;}
-  .menu4 .navbar-nav .nav-item {margin: 0 0 2px;}
+  .menu4 .link {font-size: 25px !important; line-height: 25px;}
+  .menu4 .navbar-nav .nav-item {margin: 0 0 15px;}
   .menu4 .navbar-toggler {top: 35px;}
 }
 @media (max-height: 600px) and (max-width: 992px) {
