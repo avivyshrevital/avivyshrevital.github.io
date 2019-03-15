@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Revital-English",
-    "currentPage": "its-just-your-imagination.html",
+    "currentPage": "index-old.html",
     "theme": {
       "name": "spacem",
       "title": "SpaceM",
@@ -40,7 +40,9 @@
     "sitemapSwitcherAuto": "on",
     "sitemapSwitcher": "on",
     "siteFonts": [],
-    "gdpr": ""
+    "gdpr": "",
+    "publishType": "local",
+    "publishPath": "file:///Users/avivyeshua/code/private/avivyshrevital.github.io"
   },
   "pages": {
     "Reviews.html": {
