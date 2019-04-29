@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Revital-Hebrew",
-    "currentPage": "workshop-on-the-subject-of-girls-for-narcissistic-mothers.html",
+    "currentPage": "index-old.html",
     "theme": {
       "name": "spacem",
       "title": "SpaceM",
@@ -23,13 +23,12 @@
         "#302c2c",
         "#f2f1f1",
         "#fffcfc",
-        "#fff9f9",
-        "#c2c2c2"
+        "#fff9f9"
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 431,
-    "versionPublish": "4.9.6",
+    "uniqCompNum": 425,
+    "versionPublish": "4.9.5",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/hopetoseeyousooncoverfront-128x197.png",
@@ -47,7 +46,7 @@
   "pages": {
     "Reviews.html": {
       "settings": {
-        "order": 4,
+        "order": 3,
         "title": "Revital Shiri-Horowitz | Reviews"
       },
       "components": [
@@ -147,7 +146,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://revital-sh.com/index.html\">english</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"lecture.html\">סדנאות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"articles.html\">ראיונות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"interviews.html\">אחד על אחד</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://cafe.themarker.com/blog/353435/\" target=\"_blank\">בלוג</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">צור קשר</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Reviews.html\">ביקורות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"events.html\">גלריה</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"biography.html\">ביוגרפיה</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ספרים</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://revital-sh.com/index.html\">english</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"lecture.html\">הרצאות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"articles.html\">ראיונות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"interviews.html\">אחד על אחד</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://cafe.themarker.com/blog/353435/\" target=\"_blank\">בלוג</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">צור קשר</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Reviews.html\">ביקורות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"events.html\">גלריה</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"biography.html\">ביוגרפיה</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ספרים</a></li>"
         },
         {
           "alias": "spacem/components",
@@ -463,7 +462,7 @@
       "settings": {
         "title": "Revital Shiri-Horowitz | biography",
         "meta_descr": "Revital Shiri-Horowitz biography",
-        "order": 15
+        "order": 16
       },
       "components": [
         {
@@ -561,7 +560,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://revital-sh.com/index.html\">english</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"lecture.html\">סדנאות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"articles.html\">ראיונות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"interviews.html\">אחד על אחד</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://cafe.themarker.com/blog/353435/\" target=\"_blank\">בלוג</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">צור קשר</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Reviews.html\">ביקורות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"events.html\">גלריה</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"biography.html\">ביוגרפיה</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ספרים</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://revital-sh.com/index.html\">english</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"lecture.html\">הרצאות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"articles.html\">ראיונות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"interviews.html\">אחד על אחד</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://cafe.themarker.com/blog/353435/\" target=\"_blank\">בלוג</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">צור קשר</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Reviews.html\">ביקורות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"events.html\">גלריה</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"biography.html\">ביוגרפיה</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ספרים</a></li>"
         },
         {
           "alias": "spacem/components",
@@ -779,7 +778,7 @@
       "settings": {
         "title": "events",
         "meta_descr": "",
-        "order": 6
+        "order": 5
       },
       "components": [
         {
@@ -1220,7 +1219,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://revital-sh.com/index.html\">english</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"lecture.html\">סדנאות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"articles.html\">ראיונות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"interviews.html\">אחד על אחד</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://cafe.themarker.com/blog/353435/\" target=\"_blank\">בלוג</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">צור קשר</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Reviews.html\">ביקורות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"events.html\">גלריה</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"biography.html\">ביוגרפיה</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ספרים</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://revital-sh.com/index.html\">english</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"lecture.html\">הרצאות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"articles.html\">ראיונות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"interviews.html\">אחד על אחד</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://cafe.themarker.com/blog/353435/\" target=\"_blank\">בלוג</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">צור קשר</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Reviews.html\">ביקורות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"events.html\">גלריה</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"biography.html\">ביוגרפיה</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ספרים</a></li>"
         }
       ]
     },
@@ -1228,7 +1227,7 @@
       "settings": {
         "title": "revital shiri horovitz contact",
         "meta_descr": "Revital shiri horovitz contact",
-        "order": 7
+        "order": 6
       },
       "components": [
         {
@@ -1326,7 +1325,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://revital-sh.com/index.html\">english</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"lecture.html\">סדנאות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"articles.html\">ראיונות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"interviews.html\">אחד על אחד</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://cafe.themarker.com/blog/353435/\" target=\"_blank\">בלוג</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">צור קשר</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Reviews.html\">ביקורות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"events.html\">גלריה</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"biography.html\">ביוגרפיה</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ספרים</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://revital-sh.com/index.html\">english</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"lecture.html\">הרצאות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"articles.html\">ראיונות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"interviews.html\">אחד על אחד</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://cafe.themarker.com/blog/353435/\" target=\"_blank\">בלוג</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">צור קשר</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Reviews.html\">ביקורות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"events.html\">גלריה</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"biography.html\">ביוגרפיה</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ספרים</a></li>"
         },
         {
           "media": {
@@ -1714,7 +1713,7 @@
       "settings": {
         "title": "Revital Shiri-Hotovitz | Interviews ",
         "meta_descr": "Revital Shiri-Hotovitz Interviews",
-        "order": 8
+        "order": 7
       },
       "components": [
         {
@@ -2446,7 +2445,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://revital-sh.com/index.html\">english</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"lecture.html\">סדנאות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"articles.html\">ראיונות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"interviews.html\">אחד על אחד</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://cafe.themarker.com/blog/353435/\" target=\"_blank\">בלוג</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">צור קשר</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Reviews.html\">ביקורות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"events.html\">גלריה</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"biography.html\">ביוגרפיה</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ספרים</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://revital-sh.com/index.html\">english</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"lecture.html\">הרצאות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"articles.html\">ראיונות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"interviews.html\">אחד על אחד</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://cafe.themarker.com/blog/353435/\" target=\"_blank\">בלוג</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">צור קשר</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Reviews.html\">ביקורות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"events.html\">גלריה</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"biography.html\">ביוגרפיה</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ספרים</a></li>"
         }
       ]
     },
@@ -2454,7 +2453,7 @@
       "settings": {
         "title": "Revital Shiri-Horovitz | Articles",
         "meta_descr": "Revital Shiri-Horovitz  Articles",
-        "order": 9
+        "order": 10
       },
       "components": [
         {
@@ -2552,7 +2551,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://revital-sh.com/index.html\">english</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"lecture.html\">סדנאות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"articles.html\">ראיונות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"interviews.html\">אחד על אחד</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://cafe.themarker.com/blog/353435/\" target=\"_blank\">בלוג</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">צור קשר</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Reviews.html\">ביקורות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"events.html\">גלריה</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"biography.html\">ביוגרפיה</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ספרים</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://revital-sh.com/index.html\">english</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"lecture.html\">הרצאות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"articles.html\">ראיונות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"interviews.html\">אחד על אחד</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://cafe.themarker.com/blog/353435/\" target=\"_blank\">בלוג</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">צור קשר</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Reviews.html\">ביקורות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"events.html\">גלריה</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"biography.html\">ביוגרפיה</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ספרים</a></li>"
         },
         {
           "alias": "spacem/components",
@@ -2832,7 +2831,7 @@
       "settings": {
         "meta_descr": "Revital shiri-horovitz | interview with author David",
         "title": "Revital shiri-horovitz | interview with author David",
-        "order": 13
+        "order": 14
       },
       "components": [
         {
@@ -3228,7 +3227,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://revital-sh.com/index.html\">english</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"lecture.html\">סדנאות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"articles.html\">ראיונות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"interviews.html\">אחד על אחד</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://cafe.themarker.com/blog/353435/\" target=\"_blank\">בלוג</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">צור קשר</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Reviews.html\">ביקורות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"events.html\">גלריה</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"biography.html\">ביוגרפיה</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ספרים</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://revital-sh.com/index.html\">english</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"lecture.html\">הרצאות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"articles.html\">ראיונות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"interviews.html\">אחד על אחד</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://cafe.themarker.com/blog/353435/\" target=\"_blank\">בלוג</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">צור קשר</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Reviews.html\">ביקורות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"events.html\">גלריה</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"biography.html\">ביוגרפיה</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ספרים</a></li>"
         }
       ]
     },
@@ -3236,7 +3235,7 @@
       "settings": {
         "meta_descr": "Revital shiri-horovitz | Interview with author Revital",
         "title": "Revital shiri-horovitz | Interview with author Revital",
-        "order": 14
+        "order": 15
       },
       "components": [
         {
@@ -3668,7 +3667,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://revital-sh.com/index.html\">english</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"lecture.html\">סדנאות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"articles.html\">ראיונות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"interviews.html\">אחד על אחד</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://cafe.themarker.com/blog/353435/\" target=\"_blank\">בלוג</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">צור קשר</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Reviews.html\">ביקורות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"events.html\">גלריה</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"biography.html\">ביוגרפיה</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ספרים</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://revital-sh.com/index.html\">english</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"lecture.html\">הרצאות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"articles.html\">ראיונות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"interviews.html\">אחד על אחד</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://cafe.themarker.com/blog/353435/\" target=\"_blank\">בלוג</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">צור קשר</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Reviews.html\">ביקורות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"events.html\">גלריה</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"biography.html\">ביוגרפיה</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ספרים</a></li>"
         }
       ]
     },
@@ -3676,7 +3675,7 @@
       "settings": {
         "meta_descr": "Revital shiri-horovitz | Interview with author sharit",
         "title": "Revital shiri-horovitz | Interview with author sharit",
-        "order": 28
+        "order": 29
       },
       "components": [
         {
@@ -4120,7 +4119,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://revital-sh.com/index.html\">english</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"lecture.html\">סדנאות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"articles.html\">ראיונות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"interviews.html\">אחד על אחד</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://cafe.themarker.com/blog/353435/\" target=\"_blank\">בלוג</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">צור קשר</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Reviews.html\">ביקורות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"events.html\">גלריה</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"biography.html\">ביוגרפיה</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ספרים</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://revital-sh.com/index.html\">english</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"lecture.html\">הרצאות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"articles.html\">ראיונות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"interviews.html\">אחד על אחד</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://cafe.themarker.com/blog/353435/\" target=\"_blank\">בלוג</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">צור קשר</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Reviews.html\">ביקורות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"events.html\">גלריה</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"biography.html\">ביוגרפיה</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ספרים</a></li>"
         }
       ]
     },
@@ -4128,7 +4127,7 @@
       "settings": {
         "meta_descr": "Revital shiri-horovitz | Interview with author Racheli Avraham Eitan",
         "title": "Revital shiri-horovitz | Interview with author Racheli Avraham Eitan",
-        "order": 16
+        "order": 17
       },
       "components": [
         {
@@ -4569,7 +4568,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://revital-sh.com/index.html\">english</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"lecture.html\">סדנאות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"articles.html\">ראיונות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"interviews.html\">אחד על אחד</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://cafe.themarker.com/blog/353435/\" target=\"_blank\">בלוג</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">צור קשר</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Reviews.html\">ביקורות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"events.html\">גלריה</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"biography.html\">ביוגרפיה</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ספרים</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://revital-sh.com/index.html\">english</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"lecture.html\">הרצאות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"articles.html\">ראיונות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"interviews.html\">אחד על אחד</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://cafe.themarker.com/blog/353435/\" target=\"_blank\">בלוג</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">צור קשר</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Reviews.html\">ביקורות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"events.html\">גלריה</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"biography.html\">ביוגרפיה</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ספרים</a></li>"
         }
       ]
     },
@@ -4577,7 +4576,7 @@
       "settings": {
         "meta_descr": "Revital shiri-horovitz | Interview with author Yaffa Wagner",
         "title": "Revital shiri-horovitz | Interview with author Yaffa Wagner",
-        "order": 17
+        "order": 18
       },
       "components": [
         {
@@ -5018,7 +5017,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://revital-sh.com/index.html\">english</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"lecture.html\">סדנאות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"articles.html\">ראיונות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"interviews.html\">אחד על אחד</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://cafe.themarker.com/blog/353435/\" target=\"_blank\">בלוג</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">צור קשר</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Reviews.html\">ביקורות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"events.html\">גלריה</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"biography.html\">ביוגרפיה</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ספרים</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://revital-sh.com/index.html\">english</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"lecture.html\">הרצאות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"articles.html\">ראיונות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"interviews.html\">אחד על אחד</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://cafe.themarker.com/blog/353435/\" target=\"_blank\">בלוג</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">צור קשר</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Reviews.html\">ביקורות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"events.html\">גלריה</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"biography.html\">ביוגרפיה</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ספרים</a></li>"
         }
       ]
     },
@@ -5026,7 +5025,7 @@
       "settings": {
         "meta_descr": "Revital shiri-horovitz | Interview with author Yamit Armbrister.",
         "title": "Revital shiri-horovitz | Interview with author Yamit Armbrister.",
-        "order": 18
+        "order": 19
       },
       "components": [
         {
@@ -5467,7 +5466,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://revital-sh.com/index.html\">english</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"lecture.html\">סדנאות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"articles.html\">ראיונות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"interviews.html\">אחד על אחד</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://cafe.themarker.com/blog/353435/\" target=\"_blank\">בלוג</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">צור קשר</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Reviews.html\">ביקורות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"events.html\">גלריה</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"biography.html\">ביוגרפיה</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ספרים</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://revital-sh.com/index.html\">english</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"lecture.html\">הרצאות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"articles.html\">ראיונות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"interviews.html\">אחד על אחד</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://cafe.themarker.com/blog/353435/\" target=\"_blank\">בלוג</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">צור קשר</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Reviews.html\">ביקורות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"events.html\">גלריה</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"biography.html\">ביוגרפיה</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ספרים</a></li>"
         }
       ]
     },
@@ -5475,7 +5474,7 @@
       "settings": {
         "meta_descr": "Revital shiri-horovitz | Interview with author Dorit Kedar.",
         "title": "Revital shiri-horovitz | Interview with author Dorit Kedar",
-        "order": 19
+        "order": 20
       },
       "components": [
         {
@@ -5916,7 +5915,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://revital-sh.com/index.html\">english</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"lecture.html\">סדנאות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"articles.html\">ראיונות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"interviews.html\">אחד על אחד</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://cafe.themarker.com/blog/353435/\" target=\"_blank\">בלוג</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">צור קשר</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Reviews.html\">ביקורות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"events.html\">גלריה</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"biography.html\">ביוגרפיה</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ספרים</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://revital-sh.com/index.html\">english</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"lecture.html\">הרצאות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"articles.html\">ראיונות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"interviews.html\">אחד על אחד</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://cafe.themarker.com/blog/353435/\" target=\"_blank\">בלוג</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">צור קשר</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Reviews.html\">ביקורות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"events.html\">גלריה</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"biography.html\">ביוגרפיה</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ספרים</a></li>"
         }
       ]
     },
@@ -5924,7 +5923,7 @@
       "settings": {
         "meta_descr": "Revital shiri-horovitz | Interview with author Anat Aderet",
         "title": "Revital shiri-horovitz | Interview with author Anat Aderet",
-        "order": 20
+        "order": 21
       },
       "components": [
         {
@@ -6275,7 +6274,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://revital-sh.com/index.html\">english</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"lecture.html\">סדנאות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"articles.html\">ראיונות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"interviews.html\">אחד על אחד</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://cafe.themarker.com/blog/353435/\" target=\"_blank\">בלוג</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">צור קשר</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Reviews.html\">ביקורות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"events.html\">גלריה</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"biography.html\">ביוגרפיה</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ספרים</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://revital-sh.com/index.html\">english</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"lecture.html\">הרצאות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"articles.html\">ראיונות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"interviews.html\">אחד על אחד</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://cafe.themarker.com/blog/353435/\" target=\"_blank\">בלוג</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">צור קשר</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Reviews.html\">ביקורות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"events.html\">גלריה</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"biography.html\">ביוגרפיה</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ספרים</a></li>"
         }
       ]
     },
@@ -6283,7 +6282,7 @@
       "settings": {
         "meta_descr": "רויטל שירי הורוביץ ראיון עם המשורר איתמר זהר ",
         "title": "רויטל שירי הורוביץ | ראיון עם המשורר איתמר זהר",
-        "order": 21
+        "order": 22
       },
       "components": [
         {
@@ -6634,7 +6633,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://revital-sh.com/index.html\">english</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"lecture.html\">סדנאות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"articles.html\">ראיונות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"interviews.html\">אחד על אחד</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://cafe.themarker.com/blog/353435/\" target=\"_blank\">בלוג</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">צור קשר</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Reviews.html\">ביקורות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"events.html\">גלריה</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"biography.html\">ביוגרפיה</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ספרים</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://revital-sh.com/index.html\">english</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"lecture.html\">הרצאות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"articles.html\">ראיונות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"interviews.html\">אחד על אחד</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://cafe.themarker.com/blog/353435/\" target=\"_blank\">בלוג</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">צור קשר</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Reviews.html\">ביקורות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"events.html\">גלריה</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"biography.html\">ביוגרפיה</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ספרים</a></li>"
         }
       ]
     },
@@ -6642,7 +6641,7 @@
       "settings": {
         "meta_descr": "רויטל שירי הורוביץ ראיון עם המשורר חיים ספטי ",
         "title": "רויטל שירי הורוביץ | ראיון עם המשורר חיים ספטי",
-        "order": 22
+        "order": 23
       },
       "components": [
         {
@@ -6993,7 +6992,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://revital-sh.com/index.html\">english</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"lecture.html\">סדנאות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"articles.html\">ראיונות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"interviews.html\">אחד על אחד</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://cafe.themarker.com/blog/353435/\" target=\"_blank\">בלוג</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">צור קשר</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Reviews.html\">ביקורות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"events.html\">גלריה</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"biography.html\">ביוגרפיה</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ספרים</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://revital-sh.com/index.html\">english</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"lecture.html\">הרצאות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"articles.html\">ראיונות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"interviews.html\">אחד על אחד</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://cafe.themarker.com/blog/353435/\" target=\"_blank\">בלוג</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">צור קשר</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Reviews.html\">ביקורות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"events.html\">גלריה</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"biography.html\">ביוגרפיה</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ספרים</a></li>"
         }
       ]
     },
@@ -7001,7 +7000,7 @@
       "settings": {
         "meta_descr": "רויטל שירי הורוביץ ראיון עם המשורר דוד יקותיאל",
         "title": "רויטל שירי הורוביץ | ראיון עם המשורר דוד יקותיאל",
-        "order": 23
+        "order": 24
       },
       "components": [
         {
@@ -7475,7 +7474,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://revital-sh.com/index.html\">english</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"lecture.html\">סדנאות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"articles.html\">ראיונות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"interviews.html\">אחד על אחד</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://cafe.themarker.com/blog/353435/\" target=\"_blank\">בלוג</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">צור קשר</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Reviews.html\">ביקורות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"events.html\">גלריה</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"biography.html\">ביוגרפיה</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ספרים</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://revital-sh.com/index.html\">english</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"lecture.html\">הרצאות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"articles.html\">ראיונות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"interviews.html\">אחד על אחד</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://cafe.themarker.com/blog/353435/\" target=\"_blank\">בלוג</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">צור קשר</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Reviews.html\">ביקורות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"events.html\">גלריה</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"biography.html\">ביוגרפיה</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ספרים</a></li>"
         }
       ]
     },
@@ -7483,7 +7482,7 @@
       "settings": {
         "meta_descr": "רויטל שירי הורוביץ ראיון עם המשורר שלומי חסקי",
         "title": "רויטל שירי הורוביץ | ראיון עם המשורר שלומי חסקי",
-        "order": 24
+        "order": 25
       },
       "components": [
         {
@@ -7834,7 +7833,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://revital-sh.com/index.html\">english</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"lecture.html\">סדנאות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"articles.html\">ראיונות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"interviews.html\">אחד על אחד</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://cafe.themarker.com/blog/353435/\" target=\"_blank\">בלוג</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">צור קשר</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Reviews.html\">ביקורות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"events.html\">גלריה</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"biography.html\">ביוגרפיה</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ספרים</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://revital-sh.com/index.html\">english</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"lecture.html\">הרצאות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"articles.html\">ראיונות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"interviews.html\">אחד על אחד</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://cafe.themarker.com/blog/353435/\" target=\"_blank\">בלוג</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">צור קשר</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Reviews.html\">ביקורות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"events.html\">גלריה</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"biography.html\">ביוגרפיה</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ספרים</a></li>"
         }
       ]
     },
@@ -7842,7 +7841,7 @@
       "settings": {
         "meta_descr": "רויטל שירי הורוביץ ראיון עם המשורר בלפור חקק",
         "title": "רויטל שירי הורוביץ | ראיון עם המשורר  בלפור חקק",
-        "order": 25
+        "order": 26
       },
       "components": [
         {
@@ -8283,7 +8282,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://revital-sh.com/index.html\">english</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"lecture.html\">סדנאות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"articles.html\">ראיונות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"interviews.html\">אחד על אחד</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://cafe.themarker.com/blog/353435/\" target=\"_blank\">בלוג</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">צור קשר</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Reviews.html\">ביקורות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"events.html\">גלריה</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"biography.html\">ביוגרפיה</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ספרים</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://revital-sh.com/index.html\">english</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"lecture.html\">הרצאות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"articles.html\">ראיונות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"interviews.html\">אחד על אחד</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://cafe.themarker.com/blog/353435/\" target=\"_blank\">בלוג</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">צור קשר</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Reviews.html\">ביקורות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"events.html\">גלריה</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"biography.html\">ביוגרפיה</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ספרים</a></li>"
         }
       ]
     },
@@ -8294,7 +8293,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 26
+        "order": 27
       },
       "components": [
         {
@@ -8392,7 +8391,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://revital-sh.com/index.html\">english</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"lecture.html\">סדנאות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"articles.html\">ראיונות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"interviews.html\">אחד על אחד</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://cafe.themarker.com/blog/353435/\" target=\"_blank\">בלוג</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">צור קשר</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Reviews.html\">ביקורות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"events.html\">גלריה</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"biography.html\">ביוגרפיה</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ספרים</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://revital-sh.com/index.html\">english</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"lecture.html\">הרצאות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"articles.html\">ראיונות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"interviews.html\">אחד על אחד</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://cafe.themarker.com/blog/353435/\" target=\"_blank\">בלוג</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">צור קשר</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Reviews.html\">ביקורות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"events.html\">גלריה</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"biography.html\">ביוגרפיה</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ספרים</a></li>"
         },
         {
           "alias": "spacem/components",
@@ -8606,7 +8605,7 @@
       "settings": {
         "meta_descr": "רויטל שירי הורוביץ ראיון עם הסופר זהר מנשס",
         "title": "רויטל שירי הורוביץ | ראיון עם הסופר זהר מנשס",
-        "order": 27
+        "order": 28
       },
       "components": [
         {
@@ -9046,7 +9045,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://revital-sh.com/index.html\">english</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"lecture.html\">סדנאות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"articles.html\">ראיונות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"interviews.html\">אחד על אחד</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://cafe.themarker.com/blog/353435/\" target=\"_blank\">בלוג</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">צור קשר</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Reviews.html\">ביקורות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"events.html\">גלריה</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"biography.html\">ביוגרפיה</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ספרים</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://revital-sh.com/index.html\">english</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"lecture.html\">הרצאות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"articles.html\">ראיונות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"interviews.html\">אחד על אחד</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://cafe.themarker.com/blog/353435/\" target=\"_blank\">בלוג</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">צור קשר</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Reviews.html\">ביקורות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"events.html\">גלריה</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"biography.html\">ביוגרפיה</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ספרים</a></li>"
         }
       ]
     },
@@ -9054,7 +9053,7 @@
       "settings": {
         "meta_descr": "Buy revital books directly",
         "title": "Buy revital books directly",
-        "order": 5
+        "order": 4
       },
       "components": [
         {
@@ -9152,7 +9151,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://revital-sh.com/index.html\">english</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"lecture.html\">סדנאות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"articles.html\">ראיונות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"interviews.html\">אחד על אחד</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://cafe.themarker.com/blog/353435/\" target=\"_blank\">בלוג</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">צור קשר</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Reviews.html\">ביקורות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"events.html\">גלריה</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"biography.html\">ביוגרפיה</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ספרים</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://revital-sh.com/index.html\">english</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"lecture.html\">הרצאות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"articles.html\">ראיונות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"interviews.html\">אחד על אחד</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://cafe.themarker.com/blog/353435/\" target=\"_blank\">בלוג</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">צור קשר</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Reviews.html\">ביקורות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"events.html\">גלריה</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"biography.html\">ביוגרפיה</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ספרים</a></li>"
         },
         {
           "alias": "spacem/components",
@@ -9539,7 +9538,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 10
+        "order": 11
       },
       "components": [
         {
@@ -9637,7 +9636,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://revital-sh.com/index.html\">english</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"lecture.html\">סדנאות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"articles.html\">ראיונות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"interviews.html\">אחד על אחד</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://cafe.themarker.com/blog/353435/\" target=\"_blank\">בלוג</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">צור קשר</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Reviews.html\">ביקורות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"events.html\">גלריה</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"biography.html\">ביוגרפיה</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ספרים</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://revital-sh.com/index.html\">english</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"lecture.html\">הרצאות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"articles.html\">ראיונות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"interviews.html\">אחד על אחד</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://cafe.themarker.com/blog/353435/\" target=\"_blank\">בלוג</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">צור קשר</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Reviews.html\">ביקורות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"events.html\">גלריה</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"biography.html\">ביוגרפיה</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ספרים</a></li>"
         },
         {
           "alias": "spacem/components",
@@ -10266,7 +10265,7 @@
     "index.html": {
       "settings": {
         "title": "רויטל שירי הורביץ ספרים",
-        "order": 3,
+        "order": 2,
         "meta_descr": "הספרים שנכתבו על ידי הסופרת והבלוגרית רויטל שירי הורוביץ"
       },
       "components": [
@@ -10365,7 +10364,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://revital-sh.com/index.html\">english</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"lecture.html\">סדנאות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"articles.html\">ראיונות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"interviews.html\">אחד על אחד</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://cafe.themarker.com/blog/353435/\" target=\"_blank\">בלוג</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">צור קשר</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Reviews.html\">ביקורות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"events.html\">גלריה</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"biography.html\">ביוגרפיה</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ספרים</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://revital-sh.com/index.html\">english</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"lecture.html\">הרצאות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"articles.html\">ראיונות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"interviews.html\">אחד על אחד</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://cafe.themarker.com/blog/353435/\" target=\"_blank\">בלוג</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">צור קשר</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Reviews.html\">ביקורות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"events.html\">גלריה</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"biography.html\">ביוגרפיה</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ספרים</a></li>"
         },
         {
           "title4": "<a href=\"http://mobirise.com\">mitchel jobs</a>",
@@ -10616,7 +10615,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 12
+        "order": 13
       },
       "components": [
         {
@@ -10713,7 +10712,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://revital-sh.com/index.html\">english</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"lecture.html\">סדנאות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"articles.html\">ראיונות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"interviews.html\">אחד על אחד</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://cafe.themarker.com/blog/353435/\" target=\"_blank\">בלוג</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">צור קשר</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Reviews.html\">ביקורות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"events.html\">גלריה</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"biography.html\">ביוגרפיה</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ספרים</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://revital-sh.com/index.html\">english</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"lecture.html\">הרצאות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"articles.html\">ראיונות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"interviews.html\">אחד על אחד</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://cafe.themarker.com/blog/353435/\" target=\"_blank\">בלוג</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">צור קשר</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Reviews.html\">ביקורות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"events.html\">גלריה</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"biography.html\">ביוגרפיה</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ספרים</a></li>",
           "_anchor": "menu2-9y",
           "_customCSS": "@media (max-width: 480px){\n .menu2 .navbar-nav {\n    padding: 10px 0px;\n    overflow: auto;\n    display: block !important;\n    position: fixed;\n    top: 0;\n    bottom: 0;\n    }\n    \n.menu2 .navbar-nav .nav-item {\n    margin: 0 0 0px;\n }\n.menu2 .link {\n    font-size: 15px !important;\n    line-height: 2px;\n }\n}\n"
         },
@@ -11529,7 +11528,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 11
+        "order": 12
       },
       "components": [
         {
@@ -11626,7 +11625,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://revital-sh.com/index.html\">english</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"lecture.html\">סדנאות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"articles.html\">ראיונות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"interviews.html\">אחד על אחד</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://cafe.themarker.com/blog/353435/\" target=\"_blank\">בלוג</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">צור קשר</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Reviews.html\">ביקורות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"events.html\">גלריה</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"biography.html\">ביוגרפיה</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ספרים</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://revital-sh.com/index.html\">english</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"lecture.html\">הרצאות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"articles.html\">ראיונות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"interviews.html\">אחד על אחד</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://cafe.themarker.com/blog/353435/\" target=\"_blank\">בלוג</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">צור קשר</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Reviews.html\">ביקורות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"events.html\">גלריה</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"biography.html\">ביוגרפיה</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ספרים</a></li>",
           "_anchor": "menu2-a2"
         },
         {
@@ -12171,675 +12170,6 @@
             },
             "P": {
               "text-align": "center"
-            }
-          },
-          "_customCSS": "direction:rtl;"
-        },
-        {
-          "_styles": {
-            ".mbr-section__container .mbr-section-title": {
-              "color": "#fff"
-            },
-            ".mbr-section__container .mbr-section-subtitle": {
-              "color": "#a0a0a0"
-            }
-          },
-          "_params": {
-            "firstType": "",
-            "secondType": "bg-primary",
-            "thirdType": "",
-            "fourthType": "hidden",
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "showButtons": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title1": "כניסה רגילה",
-          "title2": "כניסה + ספר",
-          "title3": "תשלום באמצעותPAYBOX",
-          "title4": "",
-          "subtitle1": "Description",
-          "subtitle2": "Description",
-          "subtitle3": "Description",
-          "subtitle4": "Description",
-          "label1": "Most Popular",
-          "label2": "הנמכר ביותר",
-          "label3": "Most Popular",
-          "label4": "Most Popular",
-          "currency1": "₪",
-          "currency2": "₪",
-          "currency3": "₪",
-          "currency4": "$",
-          "price1": "40",
-          "price2": "80",
-          "price3": "40-100",
-          "price4": "99",
-          "period1": "PayPal",
-          "period2": "PayPal",
-          "period3": "Paybox",
-          "period4": "Per Month",
-          "description1": "Mobirise is perfect for non-techies who are not familiar with web development.",
-          "description2": "Mobirise is perfect for non-techies who are not familiar with web development.",
-          "description3": "Mobirise is perfect for non-techies who are not familiar with web development.",
-          "description4": "Mobirise is perfect for non-techies who are not familiar with web development.",
-          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">הרצאה בנושא של נרקיסיזם במשפחה\n</li><li class=\"list-group-item\"><br></li></ul>",
-          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">הרצאה בנושא של נרקיסיזם במשפחה\n</li><li class=\"list-group-item\"><br></li></ul>",
-          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">הרצאה בנושא של נרקיסיזם במשפחה\n</li><li class=\"list-group-item\"><br></li></ul>",
-          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio iste dignissimos ullam alias quidem debitis!</li><li class=\"list-group-item\">Lorem ipsum dolor sit amet, consectetur adipisicing.</li><li class=\"list-group-item\">Rectetur adipisicing elit. Ab, un</li></ul>",
-          "button1": "<a data-app-btn=\"true\" href=\"lecture.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd\" target=\"_blank\">&nbsp;הרשמה נסגרה</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"lecture.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd\" target=\"_blank\">הרשמה נסגרה</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"lecture.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd\" target=\"_blank\">הרשמה נסגרה</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black\">view more</a>",
-          "alias": "spacem/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "pricing-table1",
-          "_anchor": "pricing-table1-b1",
-          "_customCSS": "direction:rtl;"
-        },
-        {
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "showTitle": true,
-            "showText": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
-            "parallax": false,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#151515",
-            "overlayOpacity": 0.5
-          },
-          "title": "&nbsp;הרצאה תתקיים בתאריך 05/02/2019 בשעה 20:00<br>&nbsp;אגודת הסופרים העבריים",
-          "text": "<b>כתובת: קפלן 6, 6473407 תל אביב, ישראל</b>",
-          "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">download now</a>",
-          "alias": "spacem/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "text1",
-          "_anchor": "text1-ba",
-          "_styles": {
-            "H3": {
-              "text-align": "center"
-            },
-            "P": {
-              "text-align": "center"
-            },
-            "B": {
-              "font-size": "22px"
-            }
-          },
-          "_customCSS": "direction:rtl;"
-        },
-        {
-          "_params": {
-            "googleMap": {
-              "address": "קפלן 6, 6473407 Tel Aviv, Israel",
-              "placeId": "ChIJDaVZAYNLHRURDMZHc47XHWI",
-              "state": "ok",
-              "stateDetails": ""
-            }
-          },
-          "alias": "spacem/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "map1",
-          "_anchor": "map1-b8"
-        },
-        {
-          "alias": "spacem/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_styles": {
-            "SPAN": {
-              "color": "#ffffff",
-              "font-size": "12px"
-            },
-            "P": {
-              "color": "#ffffff",
-              "text-align": "right"
-            },
-            "H4": {
-              "text-align": "right"
-            }
-          },
-          "_customCSS": "",
-          "_params": {
-            "paddingTop": 0,
-            "paddingBottom": 0,
-            "showMedia": true,
-            "parallax": false,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
-            "bgColorRadio": true,
-            "bgColor": "#212121",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#151515",
-            "overlayOpacity": 0.75
-          },
-          "media": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/revital-logo-1243x128.png",
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "adress": "",
-          "phone": "",
-          "email": "<p><b>Email:&nbsp;</b><a href=\"mailto:revital@revital-sh.com\" style=\"display: inline !important;\">revital@revital-sh.com</a><a href=\"http://\"><b></b></a></p>",
-          "titleNews": "Coming Events",
-          "mediaNews1": {
-            "image": {
-              "class": "resp-img",
-              "src": "@PROJECT_PATH@/assets/images/1446369666-1203x803.jpg",
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "textNews1": "<span class=\"date\">Las Vegas<br>November 14,2015 7:30 pm</span>",
-          "mediaNews2": {
-            "image": {
-              "class": "resp-img",
-              "src": "@PROJECT_PATH@/assets/images/5e018a65-82ea-4012-aeeb-e4ee7edb0f5e-960x720.jpg",
-              "active": true,
-              "link": "contact.html",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "textNews2": "<a href=\"http://mobirise.com\"><span style=\"font-size: 16px; font-weight: 400; background-color: inherit;\"></span></a><a href=\"contact.html\">השקת הספר \"את מדמיינת\" מאת רויטל שירי-הורוביץ</a><span style=\"font-size: 16px; font-weight: 400; background-color: inherit;\">23 לאפריל בשעה 19:00</span><br>",
-          "titleTweet": "<p>&nbsp;&nbsp;<span style=\"background-color: inherit;\">&nbsp;&nbsp;</span><span style=\"background-color: inherit; font-family: Arapey, sans-serif; font-weight: bold; line-height: 1.6em;\">ספרים</span></p>",
-          "tweet1": "<a href=\"http://mobirise.com\" class=\"adr-link\"></a>",
-          "tweet2": "<p>:להתראות בקרוב&nbsp;&nbsp; &nbsp;<a href=\"https://www.amazon.com/Hope-See-You-Soon-Hebrew/dp/1495108260/ref=asap_bc?ie=UTF8\" target=\"_blank\">Amazon לרכישת הספר<span style=\"font-size: 16px; line-height: 26px; background-color: inherit;\">&nbsp;</span></a><a href=\"http://mobirise.com\" class=\"adr-link\"></a><a href=\"http://www.amazon.com/Hope-See-Soon-Revital-Horowitz-ebook/dp/B00M29HQPE/ref=asap_bc?ie=UTF8\" target=\"_blank\">לרכישת הספר בפורמט דיגיטלי &nbsp;</a></p><p>בת עיראק<br><a href=\"http://www.booknet.co.il/prodtxt.asp?id=40916&amp;perur=4\" target=\"_blank\">לרכישת הספר בצומת ספרים</a></p><p><a href=\"http://www.booknet.co.il/prodtxt.asp?id=40916&amp;perur=4\" target=\"_blank\"></a><a href=\"http://bookme.co.il/Books/Item_Details.aspx?Barcode=86-423\" target=\"_blank\" style=\"display: inline !important;\">Bookme.co.il - לרכישת הספר ב</a></p><p><a href=\"http://bookme.co.il/Books/Item_Details.aspx?Barcode=86-423\" target=\"_blank\"></a><a href=\"http://bookme.co.il/Books/Item_Details.aspx?Barcode=86-423\" target=\"_blank\"></a><a href=\"http://www.booknet.co.il/prodtxt.asp?id=40916&amp;perur=4\" target=\"_blank\"></a></p>",
-          "tweet3": "<p></p><p><a href=\"http://mobirise.com\"><b></b></a><a href=\"http://mobirise.com\" class=\"adr-link\"><b></b></a></p>",
-          "tweet4": "",
-          "titleInst": "תמונות מאירועים",
-          "mediaInst1": {
-            "image": {
-              "class": "resp-img",
-              "src": "@PROJECT_PATH@/assets/images/1446369666-1203x803.jpg",
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "mediaInst2": {
-            "image": {
-              "class": "resp-img",
-              "src": "@PROJECT_PATH@/assets/images/dsc-1203x803.jpg",
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "mediaInst3": {
-            "image": {
-              "class": "resp-img",
-              "src": "@PROJECT_PATH@/assets/images/dsc-1-1203x803.jpg",
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "mediaInst4": {
-            "image": {
-              "class": "resp-img",
-              "src": "@PROJECT_PATH@/assets/images/dsc-2-1203x803.jpg",
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "mediaInst5": {
-            "image": {
-              "class": "resp-img",
-              "src": "@PROJECT_PATH@/assets/images/dsc-4-1203x803.jpg",
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "mediaInst6": {
-            "image": {
-              "class": "resp-img",
-              "src": "@PROJECT_PATH@/assets/images/dsc-3-1203x803.jpg",
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "copyright": "<i>2016 All rights reserved. Development by</i> Aviv Yeshua",
-          "_anchor": "footer1-az"
-        }
-      ]
-    },
-    "workshop-on-the-subject-of-girls-for-narcissistic-mothers.html": {
-      "settings": {
-        "title": "סדנא-למתחילים",
-        "order": 2
-      },
-      "components": [
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
-              "font-family": "'Lato', sans-serif"
-            },
-            ".link": {
-              "font-size": "0.9rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.975rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "#fff"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#080808"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#1a1a1a!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#222"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".navbar-toggler i, .navbar-toggler em, .navbar-toggler i:before, .navbar-toggler em:before, .navbar-toggler i:after, .navbar-toggler em:after": {
-              "background": "#ffffff"
-            },
-            ".navbar-toggler[aria-expanded=\"true\"] i, .navbar-toggler[aria-expanded=\"true\"] em": {
-              "background": "transparent"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "#fff"
-            },
-            ".link[aria-expanded=\"true\"]": {
-              "color": "#fff!important"
-            },
-            ".dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#222!important"
-            }
-          },
-          "alias": "spacem/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "menu2",
-          "_params": {
-            "logo": true,
-            "sticky": true,
-            "transparent": false,
-            "bgColor": "#222",
-            "fontSize": "0.9",
-            "fontName": {
-              "name": "Lato",
-              "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
-              "css": "'Lato', sans-serif"
-            },
-            "fontColor": "#ffffff",
-            "fontHoverColor": "#fff",
-            "fontActiveColor": "#222"
-          },
-          "contacts": "<a data-app-btn=\"true\" href=\"mailto:revital@revital-sh.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\" class=\"\"><span class=\"fa fa-envelope-o mbr-iconfont mbr-iconfont-btn\"></span>revital@revital-sh.com</a>",
-          "icons": " <a data-app-btn=\"true\" title=\"Facebook\" target=\"_blank\" href=\"https://m.facebook.com/Revital-Shiri-Horowitz-108002329286503/\" data-toolbar=\"-mbrFonts,-mbrFontSize\" class=\"\"><span class=\"fa fa-facebook-square mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(9, 96, 244);\"></span></a> <a data-app-btn=\"true\" title=\"Facebook\" target=\"_blank\" href=\"https://twitter.com/RevitalHorowitz\" data-toolbar=\"-mbrFonts,-mbrFontSize\" class=\"\"><span class=\"fa fa-twitter-square mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(9, 96, 244);\"></span></a>     ",
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/revital-logo-1243x128.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "index.html",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://revital-sh.com/index.html\">english</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"lecture.html\">הרצאות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"articles.html\">ראיונות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"interviews.html\">אחד על אחד</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://cafe.themarker.com/blog/353435/\" target=\"_blank\">בלוג</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">צור קשר</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Reviews.html\">ביקורות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"events.html\">גלריה</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"biography.html\">ביוגרפיה</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ספרים</a></li>",
-          "_anchor": "menu2-ay"
-        },
-        {
-          "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "3",
-            "showTitle": true,
-            "showSubtitle": true,
-            "showButtons": true,
-            "parallax": false,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg",
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#151515",
-            "overlayOpacity": 0.35
-          },
-          "media": {
-            "image": {
-              "class": "mbr-figure__img",
-              "src": "@THEME_PATH@/components/_images/info.jpg"
-            },
-            "video": {
-              "active": true,
-              "src": "https://www.youtube.com/watch?v=CluVGS25Kb0",
-              "class": "mbr-figure__img",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            }
-          },
-          "title": "<span style=\"font-weight: normal;\"><i>את(לא)מדמיינת</i></span>",
-          "text": "לראשונה בארץ, סדנא העוסקת בנושא של בנות לאמהות נרקסיסטיות !<br>בהנחייה משותפת של :<br><b>הסופרת רויטל שירי-הורוביץ</b> שחיה בארה\"ב, מחברת הספר \"את מדמיינת לגדול עם אמא נרקסיסטית – מסע בין תובנות\" <br><b>לילך ארזי-לוי</b>,  עו\"ס , מטפלת זוגית ומשפחתית מנחת קבוצות בכירה, עם ניסיון של למעלה מ – 20 שנה בעבודה עם נשים במשברי חיים שונים.",
-          "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">למידע נוסף</a>",
-          "alias": "spacem/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header1",
-          "_anchor": "header1-bu",
-          "_customCSS": "direction:rtl",
-          "_styles": {
-            "SPAN": {
-              "font-size": "46px"
-            }
-          }
-        },
-        {
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
-            "parallax": false,
-            "bgColorRadio": true,
-            "bgColor": "#222222",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#151515",
-            "overlayOpacity": 0.5
-          },
-          "title": "Text with heading",
-          "text": "<b>\"מעולם לא הרגשתי שהיא מכילה אותי, הרגשתי שאני נטל, הכל תמיד היה סובב סביבה ולי לא היה באמת מקום להשמיע את קולי\"</b><br>",
-          "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">download now</a>",
-          "alias": "spacem/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "text9",
-          "_anchor": "text9-bv",
-          "_customCSS": "direction:rtl;\n.page_head blockquote p {\n    display: inline-block;\n    text-align: center;\n    font-size: 32px;\n    line-height: 45px;\n    color:#eb5a1a ;\n    font-style: italic;\n}",
-          "_styles": {
-            "B": {
-              "color": "#eb5a1a"
-            }
-          }
-        },
-        {
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "showTitle": true,
-            "showText": false,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
-            "parallax": false,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#151515",
-            "overlayOpacity": 0.5
-          },
-          "title": "<span style=\"font-weight: normal;\">אם את באופן קבוע מנסה לזכות באהבה, בתשומת לב, ובאישור למי שאת, כמעט מול כל אדם שאת פוגשת, ייתכן וגדלת עם אמא נרקסיסטית.</span><div><span style=\"font-weight: normal;\">אם גם את שמעת משפטים כמו : \"את מגזימה\", \"את מדמיינת\" ויש פער בין מה שהרגשת למה שאמרו לך.  את לא לבד.</span></div><div><span style=\"font-weight: normal;\">&nbsp;הסדנא הזאת בדיוק בשבילך !</span></div><div><span style=\"font-weight: normal;\">&nbsp;המועד הראשון הסתיים והיה מוצלח ומעניין (רשמים מהמשתתפות בתחתית העמוד)</span></div><div><span style=\"font-weight: normal;\">מסתבר שזו תופעה מאוד נפוצה בקירבנו, מלווה ברגשות אשמה ומפחיד להעביר את זה הלאה לדורות הבאים.</span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">בסדנא נדבר על : מה זה אומר לגדול עם אמא נרקסיסטית ?</span></div><div><span style=\"font-weight: normal;\">מהם הסימנים המזהים לאימהות נרקסיסטיות ?</span></div><div><span style=\"font-weight: normal;\">כיצד ניתן להתמודד עם המציאות הזו ?</span></div><br><div><span style=\"font-weight: normal;\">נלמד איך לחיות בשלום עם עצמנו כי גם אנחנו ראויות לאהבה !&nbsp;</span></div><div><span style=\"font-weight: normal;\">&nbsp;נפתח מועד נוסף באזור השפלה 8.2.19 בשעה 9.00 בגדרה</span></div><div><span style=\"font-weight: normal;\">&nbsp;הסדנא תימשך כ- 3 שעות בקבוצה קטנה &nbsp;</span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">הסדנא  מיועדת לנשים מגיל 25 עד 120&nbsp;</span></div><div><span style=\"font-weight: normal;\">(מס' המקומות מוגבל)&nbsp;</span></div>",
-          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium eaque, nesciunt corporis atque eius vero doloremque, dolor voluptas ut voluptates fugit excepturi consequuntur recusandae magni, a nulla architecto quo repudiandae eum molestiae quidem libero odit sint. Recusandae maxime ut illo accusantium aut voluptatibus et quod dicta rerum praesentium alias aspernatur neque magnam reiciendis adipisci nesciunt in debitis maiores iure, mollitia impedit repudiandae quis. Blanditiis laborum explicabo asperiores sint quidem ex ipsam libero, deserunt pariatur eius expedita neque at aliquid voluptate esse unde molestias! Possimus id fuga nostrum dolore quo dolores, eos voluptatem, repellat nulla eligendi facilis deleniti, inventore quae officia.",
-          "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">download now</a>",
-          "alias": "spacem/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "text1",
-          "_anchor": "text1-bw",
-          "_customCSS": "direction:rtl;",
-          "_styles": {
-            "H3": {
-              "text-align": "center",
-              "font-size": "30px"
-            },
-            "P": {
-              "text-align": "right"
-            }
-          }
-        },
-        {
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "showTitle": true,
-            "showText": false,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
-            "parallax": false,
-            "bgColorRadio": true,
-            "bgColor": "#222222",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#151515",
-            "overlayOpacity": 0.5
-          },
-          "title": "קצת על הצוות שלנו",
-          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium eaque, nesciunt corporis atque eius vero doloremque, dolor voluptas ut voluptates fugit excepturi consequuntur recusandae magni, a nulla architecto quo repudiandae eum molestiae quidem libero odit sint. Recusandae maxime ut illo accusantium aut voluptatibus et quod dicta rerum praesentium alias aspernatur neque magnam reiciendis adipisci nesciunt in debitis maiores iure, mollitia impedit repudiandae quis. Blanditiis laborum explicabo asperiores sint quidem ex ipsam libero, deserunt pariatur eius expedita neque at aliquid voluptate esse unde molestias! Possimus id fuga nostrum dolore quo dolores, eos voluptatem, repellat nulla eligendi facilis deleniti, inventore quae officia.",
-          "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">download now</a>",
-          "alias": "spacem/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "text1",
-          "_anchor": "text1-by",
-          "_customCSS": "direction:rtl;",
-          "_styles": {
-            "H3": {
-              "text-align": "center",
-              "color": "#ffffff"
-            }
-          }
-        },
-        {
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "showTitle": true,
-            "showSubtitle": true,
-            "showText": true,
-            "showImages": true,
-            "showButtons": false,
-            "parallax": false,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/2.jpg",
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#151515",
-            "overlayOpacity": 0.75
-          },
-          "title1": "Anjelin Sparks",
-          "subtitle1": "Project manager",
-          "text1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum dolorem quo in, animi iste magnam, saepe accusantium veritatis vitae perferendis delectus eligendi officia nulla pariatur incidunt culpa vel doloribus rem.",
-          "media1": {
-            "image": {
-              "class": "mbr-figure__img",
-              "src": "@THEME_PATH@/components/_images/team_item_1.jpg",
-              "active": true
-            }
-          },
-          "icons1": "<a data-app-btn=\"true\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><span class=\"socicon socicon-google mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" title=\"Youtube\" target=\"_blank\" href=\"http://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\"></span></a> ",
-          "title2": "לילך ארזי-לוי",
-          "subtitle2": "עובדת סוציאלית, מטפלת זוגית ומשפחתית",
-          "text2": "עובדת סוציאלית, מטפלת זוגית ומשפחתית, בעלת  תואר M.A אמא לשלושה ילדים בוגרים, מייסדת ובעלים של \"קשרים\"-לשיפור ושימור קשרים משמעותיים בחיים. מנחת קבוצות ומרצה על מהות החיים בשילוב הומור, עם ניסיון של מעל 20 שנה בעבודה עם נשים במשברי חיים.<br><br>אני מאמין שלה \" לא באנו לעולם בשביל לסבול\"",
-          "media2": {
-            "image": {
-              "class": "mbr-figure__img",
-              "src": "@PROJECT_PATH@/assets/images/ll-243x233.png",
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
-            }
-          },
-          "icons2": "<a data-app-btn=\"true\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><span class=\"socicon socicon-google mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" title=\"Youtube\" target=\"_blank\" href=\"http://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\"></span></a> ",
-          "title3": "רויטל שירי-הורוביץ",
-          "subtitle3": "סופרת, בלוגרית ומשוררת",
-          "text3": "רויטל שירי-הורוביץ, סופרת, משוררת ובלוגרית, כתבה שלושה ספרים העוסקים בנשים: \"בת עיראק\" – רומן הסטורי העוסק בשורשים, \"להתראות בקרוב\" – עוסק בהגירה, וספרה האחרון \"את מדמיינת – לגדול עם אמא נרקיסיסטית – מסע בין תובנות\", עוסק בבנות לאימהות נרקיסיסטיות, על פי התאוריה של ד\"ר קריל מקברייד המתמחה בנושא של בנות לאימהות נרקיסיסטיות. \"את מדמיינת\" עוסק בתהליך הזיהוי, תובנות, אבל, החלמה וסגירת מעגל, נכתב כמסע אישי. שירי-הורוביץ היא מרצה מנוסה המרצה על ספריה בכל העולם.",
-          "media3": {
-            "image": {
-              "class": "mbr-figure__img",
-              "src": "@PROJECT_PATH@/assets/images/rrrr-634-634x423.jpg",
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
-            }
-          },
-          "icons3": "<a data-app-btn=\"true\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><span class=\"socicon socicon-google mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" title=\"Youtube\" target=\"_blank\" href=\"http://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\"></span></a> ",
-          "title4": "mitchel jobs",
-          "subtitle4": "Programmer",
-          "text4": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum dolorem quo in, animi iste magnam, saepe accusantium veritatis vitae perferendis delectus eligendi officia nulla pariatur incidunt culpa vel doloribus rem.",
-          "media4": {
-            "image": {
-              "class": "mbr-figure__img",
-              "src": "@THEME_PATH@/components/_images/team_item_4.jpg"
-            }
-          },
-          "icons4": "<a data-app-btn=\"true\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><span class=\"socicon socicon-google mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" title=\"Youtube\" target=\"_blank\" href=\"http://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\"></span></a> ",
-          "alias": "spacem/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content4",
-          "_anchor": "content4-bx",
-          "_customCSS": "direction:rtl;\n.mbr-figure--full-width iframe, .mbr-figure--full-width .mbr-figure__img, .mbr-figure--full-width .mbr-figure__map {\n    width: auto;\n    height: 423px;\n}",
-          "_customHTML": "<section class=\"mbr-section--bg-adapted mbr-section--relative mbr-after-navbar\" data-rv-view=\"14\" style=\"background-color: rgb(255, 255, 255);\">\n        \n    <div id=\"contact-info\" style=\"padding-top: 0px; padding-bottom: 0px;\">\n        <div class=\"container\">\n            <div class=\"row\">\n                                      \n                        <div class=\"mbr-cards-col col-md-6 col-sm-6 col-xs-12\">\n                            <div class=\"team-item c-info\">\n                                <div class=\"image\">\n                                    <figure class=\"mbr-figure mbr-figure--adapted mbr-figure--caption-inside-bottom mbr-figure--full-width \"><img src=\"@PROJECT_PATH@/assets/images/ll-243x233.png\" class=\"mbr-figure__img\"></figure>\n                                </div>\n                                <h4 class=\"mbr-editable-content\" code-editable-id=\"217\">לילך ארזי-לוי</h4>\n                                <h5 class=\"mbr-section-subtitle mbr-editable-content\" code-editable-id=\"218\">עובדת סוציאלית, מטפלת זוגית ומשפחתית</h5>\n                                <p class=\"mbr-editable-content\" code-editable-id=\"219\">עובדת סוציאלית, מטפלת זוגית ומשפחתית, בעלת  תואר M.A אמא לשלושה ילדים בוגרים, מייסדת ובעלים של \"קשרים\"-לשיפור ושימור קשרים משמעותיים בחיים. מנחת קבוצות ומרצה על מהות החיים בשילוב הומור, עם ניסיון של מעל 20 שנה בעבודה עם נשים במשברי חיים.<br><br>אני מאמין שלה \" לא באנו לעולם בשביל לסבול\"</p>\n                                \n                            </div>\n                        </div>\n\n                        <div class=\"mbr-cards-col col-md-6 col-sm-6 col-xs-12\">\n                            <div class=\"team-item c-info\">\n                                <div class=\"image\">\n                                    <figure class=\"mbr-figure mbr-figure--adapted mbr-figure--caption-inside-bottom mbr-figure--full-width \"><img src=\"@PROJECT_PATH@/assets/images/rrrr-634-634x423.jpg\" class=\"mbr-figure__img\"></figure>\n                                </div>\n                                <h4 class=\"mbr-editable-content\" code-editable-id=\"220\">רויטל שירי-הורוביץ</h4>\n                                <h5 class=\"mbr-section-subtitle mbr-editable-content\" code-editable-id=\"221\">סופרת, בלוגרית ומשוררת</h5>\n                                <p class=\"mbr-editable-content\" code-editable-id=\"222\">רויטל שירי-הורוביץ, סופרת, משוררת ובלוגרית, כתבה שלושה ספרים העוסקים בנשים: \"בת עיראק\" – רומן הסטורי העוסק בשורשים, \"להתראות בקרוב\" – עוסק בהגירה, וספרה האחרון \"את מדמיינת – לגדול עם אמא נרקיסיסטית – מסע בין תובנות\", עוסק בבנות לאימהות נרקיסיסטיות, על פי התאוריה של ד\"ר קריל מקברייד המתמחה בנושא של בנות לאימהות נרקיסיסטיות. \"את מדמיינת\" עוסק בתהליך הזיהוי, תובנות, אבל, החלמה וסגירת מעגל, נכתב כמסע אישי. שירי-הורוביץ היא מרצה מנוסה המרצה על ספריה בכל העולם.</p>\n                                \n                            </div>\n                        </div>\n\n                    </div>\n\n                </div>\n\n            </div>\n        \n    \n</section>",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": [],
-          "_customTemplate": true
-        },
-        {
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "showTitle": true,
-            "showText": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
-            "parallax": false,
-            "bgColorRadio": true,
-            "bgColor": "#222222",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#151515",
-            "overlayOpacity": 0.5
-          },
-          "title": "תשלום להרצאה",
-          "text": "<b>המחירים באתר מוזלים, ביום הרצאה מחיר כרטיס רגיל יעלה 50שח ומחיר כרטיס כניסה + ספר 100שח.</b>",
-          "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">download now</a>",
-          "alias": "spacem/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "text1",
-          "_anchor": "text1-b9",
-          "_styles": {
-            "H3": {
-              "text-align": "center",
-              "color": "#ffffff"
-            },
-            "P": {
-              "text-align": "center"
-            },
-            "B": {
-              "color": "#ffffff"
             }
           },
           "_customCSS": "direction:rtl;"

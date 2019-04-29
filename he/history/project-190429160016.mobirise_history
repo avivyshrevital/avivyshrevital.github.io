@@ -42,7 +42,9 @@
     },
     "siteFonts": [],
     "siteUrl": "undefined",
-    "gdpr": ""
+    "gdpr": "",
+    "publishType": "local",
+    "publishPath": "file:///Users/avivyeshua/code/private/avivyshrevital.github.io/he"
   },
   "pages": {
     "Reviews.html": {
@@ -12637,7 +12639,7 @@
           ],
           "_name": "text9",
           "_anchor": "text9-bv",
-          "_customCSS": "direction:rtl;\n.page_head blockquote p {\n    display: inline-block;\n    text-align: center;\n    font-size: 32px;\n    line-height: 45px;\n    color:#eb5a1a ;\n    font-style: italic;\n}",
+          "_customCSS": "direction:rtl;",
           "_styles": {
             "B": {
               "color": "#eb5a1a"
@@ -12796,11 +12798,7 @@
           ],
           "_name": "content4",
           "_anchor": "content4-bx",
-          "_customCSS": "direction:rtl;\n.mbr-figure--full-width iframe, .mbr-figure--full-width .mbr-figure__img, .mbr-figure--full-width .mbr-figure__map {\n    width: auto;\n    height: 423px;\n}",
-          "_customHTML": "<section class=\"mbr-section--bg-adapted mbr-section--relative mbr-after-navbar\" data-rv-view=\"14\" style=\"background-color: rgb(255, 255, 255);\">\n        \n    <div id=\"contact-info\" style=\"padding-top: 0px; padding-bottom: 0px;\">\n        <div class=\"container\">\n            <div class=\"row\">\n                                      \n                        <div class=\"mbr-cards-col col-md-6 col-sm-6 col-xs-12\">\n                            <div class=\"team-item c-info\">\n                                <div class=\"image\">\n                                    <figure class=\"mbr-figure mbr-figure--adapted mbr-figure--caption-inside-bottom mbr-figure--full-width \"><img src=\"@PROJECT_PATH@/assets/images/ll-243x233.png\" class=\"mbr-figure__img\"></figure>\n                                </div>\n                                <h4 class=\"mbr-editable-content\" code-editable-id=\"217\">לילך ארזי-לוי</h4>\n                                <h5 class=\"mbr-section-subtitle mbr-editable-content\" code-editable-id=\"218\">עובדת סוציאלית, מטפלת זוגית ומשפחתית</h5>\n                                <p class=\"mbr-editable-content\" code-editable-id=\"219\">עובדת סוציאלית, מטפלת זוגית ומשפחתית, בעלת  תואר M.A אמא לשלושה ילדים בוגרים, מייסדת ובעלים של \"קשרים\"-לשיפור ושימור קשרים משמעותיים בחיים. מנחת קבוצות ומרצה על מהות החיים בשילוב הומור, עם ניסיון של מעל 20 שנה בעבודה עם נשים במשברי חיים.<br><br>אני מאמין שלה \" לא באנו לעולם בשביל לסבול\"</p>\n                                \n                            </div>\n                        </div>\n\n                        <div class=\"mbr-cards-col col-md-6 col-sm-6 col-xs-12\">\n                            <div class=\"team-item c-info\">\n                                <div class=\"image\">\n                                    <figure class=\"mbr-figure mbr-figure--adapted mbr-figure--caption-inside-bottom mbr-figure--full-width \"><img src=\"@PROJECT_PATH@/assets/images/rrrr-634-634x423.jpg\" class=\"mbr-figure__img\"></figure>\n                                </div>\n                                <h4 class=\"mbr-editable-content\" code-editable-id=\"220\">רויטל שירי-הורוביץ</h4>\n                                <h5 class=\"mbr-section-subtitle mbr-editable-content\" code-editable-id=\"221\">סופרת, בלוגרית ומשוררת</h5>\n                                <p class=\"mbr-editable-content\" code-editable-id=\"222\">רויטל שירי-הורוביץ, סופרת, משוררת ובלוגרית, כתבה שלושה ספרים העוסקים בנשים: \"בת עיראק\" – רומן הסטורי העוסק בשורשים, \"להתראות בקרוב\" – עוסק בהגירה, וספרה האחרון \"את מדמיינת – לגדול עם אמא נרקיסיסטית – מסע בין תובנות\", עוסק בבנות לאימהות נרקיסיסטיות, על פי התאוריה של ד\"ר קריל מקברייד המתמחה בנושא של בנות לאימהות נרקיסיסטיות. \"את מדמיינת\" עוסק בתהליך הזיהוי, תובנות, אבל, החלמה וסגירת מעגל, נכתב כמסע אישי. שירי-הורוביץ היא מרצה מנוסה המרצה על ספריה בכל העולם.</p>\n                                \n                            </div>\n                        </div>\n\n                    </div>\n\n                </div>\n\n            </div>\n        \n    \n</section>",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": [],
-          "_customTemplate": true
+          "_customCSS": "direction:rtl;"
         },
         {
           "_params": {
