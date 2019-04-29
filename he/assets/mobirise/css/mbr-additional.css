@@ -3795,6 +3795,16 @@ a:hover,
   width: auto;
   height: 423px;
 }
+#text1-c0 {
+  direction: rtl;
+}
+#text1-c0 H3 {
+  text-align: center;
+  color: #ffffff;
+}
+#testimonials1-bz {
+  direction: rtl;
+}
 #text1-b9 {
   direction: rtl;
 }
