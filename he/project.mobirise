@@ -12637,7 +12637,7 @@
           ],
           "_name": "text9",
           "_anchor": "text9-bv",
-          "_customCSS": "direction:rtl;\n.page_head blockquote p {\n    display: inline-block;\n    text-align: center;\n    font-size: 32px;\n    line-height: 45px;\n    color:#eb5a1a ;\n    font-style: italic;\n}",
+          "_customCSS": "direction: rtl;\n.page_head blockquote p {\n    display: inline-block;\n    text-align: center;\n    font-size: 32px;\n    line-height: 45px;\n    color:#eb5a1a ;\n    font-style: italic;\n}",
           "_styles": {
             "B": {
               "color": "#eb5a1a"
