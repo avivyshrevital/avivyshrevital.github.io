@@ -42,7 +42,9 @@
     },
     "siteFonts": [],
     "siteUrl": "undefined",
-    "gdpr": ""
+    "gdpr": "",
+    "publishType": "local",
+    "publishPath": "file:///Users/avivyeshua/code/private/avivyshrevital.github.io/he"
   },
   "pages": {
     "Reviews.html": {
@@ -12596,8 +12598,8 @@
             }
           },
           "title": "<span style=\"font-weight: normal;\"><i>את(לא)מדמיינת</i></span>",
-          "text": "לאור הביקוש והצלחת הסדנא נפתחו 2 מועדים נוספים למתחילים ומתקדמים!!!<br>בהנחייה משותפת של :<br><b>הסופרת רויטל שירי-הורוביץ</b> שחיה בארה\"ב, מחברת הספר \"את מדמיינת לגדול עם אמא נרקסיסטית – מסע בין תובנות\" <br><b>לילך ארזי-לוי</b>,  עו\"ס , מטפלת זוגית ומשפחתית מנחת קבוצות בכירה, עם ניסיון של למעלה מ – 20 שנה בעבודה עם נשים במשברי חיים שונים.",
-          "buttons": "<a data-app-btn=\"true\" href=\"workshop-on-the-subject-of-girls-for-narcissistic-mothers.html#text9-bv\" class=\"btn btn-primary\" role=\"button\">למידע נוסף</a>",
+          "text": "לראשונה בארץ, סדנא העוסקת בנושא של בנות לאמהות נרקסיסטיות !<br>בהנחייה משותפת של :<br><b>הסופרת רויטל שירי-הורוביץ</b> שחיה בארה\"ב, מחברת הספר \"את מדמיינת לגדול עם אמא נרקסיסטית – מסע בין תובנות\" <br><b>לילך ארזי-לוי</b>,  עו\"ס , מטפלת זוגית ומשפחתית מנחת קבוצות בכירה, עם ניסיון של למעלה מ – 20 שנה בעבודה עם נשים במשברי חיים שונים.",
+          "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">למידע נוסף</a>",
           "alias": "spacem/components",
           "_tags": [
             "Theme"
@@ -12663,7 +12665,7 @@
             "overlayColor": "#151515",
             "overlayOpacity": 0.5
           },
-          "title": "<span style=\"font-weight: normal;\">אם את באופן קבוע מנסה לזכות באהבה, בתשומת לב, ובאישור למי שאת, כמעט מול כל אדם שאת פוגשת, ייתכן וגדלת עם אמא נרקסיסטית.</span><div><span style=\"font-weight: normal;\">אם גם את שמעת משפטים כמו : \"את מגזימה\", \"את מדמיינת\" ויש פער בין מה שהרגשת למה שאמרו לך.  את לא לבד.</span></div><div><span style=\"font-weight: normal;\">&nbsp;הסדנא הזאת בדיוק בשבילך !</span></div><div><span style=\"font-weight: normal;\">&nbsp;המועד הראשון הסתיים והיה מוצלח ומעניין (רשמים מהמשתתפות בתחתית העמוד)</span></div><div><span style=\"font-weight: normal;\">מסתבר שזו תופעה מאוד נפוצה בקירבנו, מלווה ברגשות אשמה ומפחיד להעביר את זה הלאה לדורות הבאים.</span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">בסדנא נדבר על : מה זה אומר לגדול עם אמא נרקסיסטית ?</span></div><div><span style=\"font-weight: normal;\">מהם הסימנים המזהים לאימהות נרקסיסטיות ?</span></div><div><span style=\"font-weight: normal;\">כיצד ניתן להתמודד עם המציאות הזו ?</span></div><br><div><span style=\"font-weight: normal;\">נלמד איך לחיות בשלום עם עצמנו כי גם אנחנו ראויות לאהבה !&nbsp;</span></div><div><span style=\"font-weight: normal;\">&nbsp;נפתח מועד נוסף באזור השפלה 8.2.19 בשעה 9.00 בגדרה</span></div><div><span style=\"font-weight: normal;\">&nbsp;הסדנא תימשך כ- 3 שעות בקבוצה קטנה &nbsp;</span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">הסדנא  מיועדת לנשים מגיל 25 עד 120&nbsp;</span></div><div><span style=\"font-weight: normal;\">(מס' המקומות מוגבל) <a href=\"workshop-on-the-subject-of-girls-for-narcissistic-mothers.html#text1-b9\">להרשמה ותשלום לחץ</a>&nbsp;</span></div>",
+          "title": "<span style=\"font-weight: normal;\">אם את באופן קבוע מנסה לזכות באהבה, בתשומת לב, ובאישור למי שאת, כמעט מול כל אדם שאת פוגשת, ייתכן וגדלת עם אמא נרקסיסטית.</span><div><span style=\"font-weight: normal;\">אם גם את שמעת משפטים כמו : \"את מגזימה\", \"את מדמיינת\" ויש פער בין מה שהרגשת למה שאמרו לך.  את לא לבד.</span></div><div><span style=\"font-weight: normal;\">&nbsp;הסדנא הזאת בדיוק בשבילך !</span></div><div><span style=\"font-weight: normal;\">&nbsp;המועד הראשון הסתיים והיה מוצלח ומעניין (רשמים מהמשתתפות בתחתית העמוד)</span></div><div><span style=\"font-weight: normal;\">מסתבר שזו תופעה מאוד נפוצה בקירבנו, מלווה ברגשות אשמה ומפחיד להעביר את זה הלאה לדורות הבאים.</span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">בסדנא נדבר על : מה זה אומר לגדול עם אמא נרקסיסטית ?</span></div><div><span style=\"font-weight: normal;\">מהם הסימנים המזהים לאימהות נרקסיסטיות ?</span></div><div><span style=\"font-weight: normal;\">כיצד ניתן להתמודד עם המציאות הזו ?</span></div><br><div><span style=\"font-weight: normal;\">נלמד איך לחיות בשלום עם עצמנו כי גם אנחנו ראויות לאהבה !&nbsp;</span></div><div><span style=\"font-weight: normal;\">&nbsp;נפתח מועד נוסף באזור השפלה 8.2.19 בשעה 9.00 בגדרה</span></div><div><span style=\"font-weight: normal;\">&nbsp;הסדנא תימשך כ- 3 שעות בקבוצה קטנה &nbsp;</span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">הסדנא  מיועדת לנשים מגיל 25 עד 120&nbsp;</span></div><div><span style=\"font-weight: normal;\">(מס' המקומות מוגבל)&nbsp;</span></div>",
           "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium eaque, nesciunt corporis atque eius vero doloremque, dolor voluptas ut voluptates fugit excepturi consequuntur recusandae magni, a nulla architecto quo repudiandae eum molestiae quidem libero odit sint. Recusandae maxime ut illo accusantium aut voluptatibus et quod dicta rerum praesentium alias aspernatur neque magnam reiciendis adipisci nesciunt in debitis maiores iure, mollitia impedit repudiandae quis. Blanditiis laborum explicabo asperiores sint quidem ex ipsam libero, deserunt pariatur eius expedita neque at aliquid voluptate esse unde molestias! Possimus id fuga nostrum dolore quo dolores, eos voluptatem, repellat nulla eligendi facilis deleniti, inventore quae officia.",
           "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">download now</a>",
           "alias": "spacem/components",
@@ -12901,8 +12903,8 @@
             "overlayColor": "#151515",
             "overlayOpacity": 0.5
           },
-          "title": "תשלום סדנא למתחילים",
-          "text": "<b>המחירים באתר מוזלים, ביום הרצאה מחיר כרטיס רגיל יעלה 400שח.</b>",
+          "title": "תשלום להרצאה",
+          "text": "<b>המחירים באתר מוזלים, ביום הרצאה מחיר כרטיס רגיל יעלה 50שח ומחיר כרטיס כניסה + ספר 100שח.</b>",
           "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">download now</a>",
           "alias": "spacem/components",
           "_tags": [
@@ -12954,8 +12956,8 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title1": "בקרוב סדנא למתקדמים",
-          "title2": "סדנא למתחילים<br><br>",
+          "title1": "כניסה רגילה",
+          "title2": "כניסה + ספר",
           "title3": "תשלום באמצעותPAYBOX",
           "title4": "",
           "subtitle1": "Description",
@@ -12963,16 +12965,16 @@
           "subtitle3": "Description",
           "subtitle4": "Description",
           "label1": "Most Popular",
-          "label2": "",
+          "label2": "הנמכר ביותר",
           "label3": "Most Popular",
           "label4": "Most Popular",
           "currency1": "₪",
           "currency2": "₪",
           "currency3": "₪",
           "currency4": "$",
-          "price1": "400",
-          "price2": "350",
-          "price3": "350",
+          "price1": "40",
+          "price2": "80",
+          "price3": "40-100",
           "price4": "99",
           "period1": "PayPal",
           "period2": "PayPal",
@@ -12986,9 +12988,9 @@
           "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">הרצאה בנושא של נרקיסיזם במשפחה\n</li><li class=\"list-group-item\"><br></li></ul>",
           "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">הרצאה בנושא של נרקיסיזם במשפחה\n</li><li class=\"list-group-item\"><br></li></ul>",
           "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio iste dignissimos ullam alias quidem debitis!</li><li class=\"list-group-item\">Lorem ipsum dolor sit amet, consectetur adipisicing.</li><li class=\"list-group-item\">Rectetur adipisicing elit. Ab, un</li></ul>",
-          "button1": "<a data-app-btn=\"true\" href=\"lecture.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd\" target=\"_blank\">&nbsp;הרשמה בקוב</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"lecture.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd\" target=\"_blank\">הרשמה</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"lecture.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd\" target=\"_blank\">הרשמה</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"lecture.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd\" target=\"_blank\">&nbsp;הרשמה נסגרה</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"lecture.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd\" target=\"_blank\">הרשמה נסגרה</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"lecture.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd\" target=\"_blank\">הרשמה נסגרה</a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black\">view more</a>",
           "alias": "spacem/components",
           "_tags": [
@@ -13017,7 +13019,7 @@
             "overlayColor": "#151515",
             "overlayOpacity": 0.5
           },
-          "title": "&nbsp;הרצאה תתקיים בתאריך 21/06/2019 בשעה 21:00<br>&nbsp;בבית הסופר בתל אביב",
+          "title": "&nbsp;הרצאה תתקיים בתאריך 05/02/2019 בשעה 20:00<br>&nbsp;אגודת הסופרים העבריים",
           "text": "<b>כתובת: קפלן 6, 6473407 תל אביב, ישראל</b>",
           "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">download now</a>",
           "alias": "spacem/components",
