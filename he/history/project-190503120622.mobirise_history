@@ -18,13 +18,13 @@
         "isRoundedButtons": true
       },
       "additionalSetColors": [
-        "#15baf1",
         "#d9d9d9",
         "#3d3a3a",
         "#302c2c",
         "#f2f1f1",
         "#fffcfc",
-        "#fff9f9"
+        "#fff9f9",
+        "#c2c2c2"
       ]
     },
     "versionFirst": "3.12.1",
@@ -42,7 +42,9 @@
     },
     "siteFonts": [],
     "siteUrl": "undefined",
-    "gdpr": ""
+    "gdpr": "",
+    "publishType": "local",
+    "publishPath": "file:///Users/avivyeshua/code/private/avivyshrevital.github.io/he"
   },
   "pages": {
     "Reviews.html": {
@@ -12578,8 +12580,8 @@
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#15baf1",
-            "overlayOpacity": "0.5"
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.35
           },
           "media": {
             "image": {
@@ -12663,7 +12665,7 @@
             "overlayColor": "#151515",
             "overlayOpacity": 0.5
           },
-          "title": "<div><span style=\"font-weight: normal;\">אם את באופן קבוע מנסה לזכות באהבה, בתשומת לב, ובאישור למי שאת, כמעט מול כל אדם שאת פוגשת ייתכן וגדלת עם אמא נרקיסיסטית.</span></div><div><span style=\"font-weight: normal;\">אם גם את שמעת משפטים כמו : \"את מגזימה\", \"את מדמיינת\" ויש פער בין מה שהרגשת למה שאמרו לך - את לא לבד!</span></div><div><span style=\"font-weight: normal;\">מסתבר שזו תופעה מאוד נפוצה בקרבנו, מלווה ברגשות אשמה ומפחיד להעביר את זה הלאה גם לדורות הבאים</span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">&nbsp;</span>סדנא למתחילות</div><div><span style=\"font-weight: normal;\">הסדנא למתחילות תעסוק במה זה אומר לגדול עם אמא נרקסיסטית ? מהם הסימנים המזהים לאימהות נרקסיסטיות ? כיצד ניתן להתמודד עם המציאות הזו ?</span></div><div><span style=\"font-weight: normal;\">בסדנא נעבוד על פי חמשת שלבי הריפוי של ד\"ר קריל מקברייד</span></div><div><span style=\"font-weight: normal;\">&nbsp;</span></div><div>סדנא למתקדמות</div><div><span style=\"font-weight: normal;\">הסדנא למתקדמות תעסוק בסגירת מעגלים ופתיחתה של תקופה חדשה</span></div><div><span style=\"font-weight: normal;\">נתמקד באספקטים נוספים הקשורים בהיותנו בנות לאימהות נרקיסיסטיות כגון דימוי גוף, זוגיות וכיצד אנו ממלאות את החסך הראשוני של אהבה ללא תנאי. הסדנא באה לחזק את תהליכי הריפוי שלנו כבנות לאימהות נרקיסיסטיות ולחזק את ה\"אני\" שלנו.</span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">נלמד איך לחיות בשלום עם עצמנו כי גם אנחנו ראויות לאהבה !&nbsp;</span></div><div><span style=\"font-weight: normal;\">&nbsp;</span></div><div><span style=\"font-weight: normal;\">הסדנאות  מיועדת לנשים מגיל 25 עד 120&nbsp;</span><span style=\"font-weight: normal; background-color: inherit;\">&nbsp;</span></div><div><span style=\"font-weight: normal;\">(מס' המקומות מוגבל) <a href=\"workshop-on-the-subject-of-girls-for-narcissistic-mothers.html#text1-b9\">להרשמה ותשלום לחץ</a>&nbsp;</span></div>",
+          "title": "<div><span style=\"font-weight: normal;\">אם את באופן קבוע מנסה לזכות באהבה, בתשומת לב, ובאישור למי שאת, כמעט מול כל אדם שאת פוגשת ייתכן וגדלת עם אמא נרקיסיסטית.</span></div><div><span style=\"font-weight: normal;\">אם גם את שמעת משפטים כמו : \"את מגזימה\", \"את מדמיינת\" ויש פער בין מה שהרגשת למה שאמרו לך - את לא לבד!</span></div><div><span style=\"font-weight: normal;\">מסתבר שזו תופעה מאוד נפוצה בקרבנו, מלווה ברגשות אשמה ומפחיד להעביר את זה הלאה גם לדורות הבאים</span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">&nbsp;</span>סדנא למתחילות</div><div><span style=\"font-weight: normal;\">הסדנה למתחילות תעסוק במה זה אומר לגדול עם אמא נרקסיסטית ? מהם הסימנים המזהים לאימהות נרקסיסטיות ? כיצד ניתן להתמודד עם המציאות הזו ?</span></div><div><span style=\"font-weight: normal;\">בסדנא נעבוד על פי חמשת שלבי הריפוי של ד\"ר קריל מקברייד</span></div><div><span style=\"font-weight: normal;\">&nbsp;</span></div><div>סדנא למתקדמות</div><div><span style=\"font-weight: normal;\">הסדנה למתקדמות תעסוק בסגירת מעגלים ופתיחתה של תקופה חדשה</span></div><div><span style=\"font-weight: normal;\">נתמקד באספקטים נוספים הקשורים בהיותנו בנות לאימהות נרקיסיסטיות כגון דימוי גוף, זוגיות וכיצד אנו ממלאות את החסך הראשוני של אהבה ללא תנאי. הסדנה באה לחזק את תהליכי הריפוי שלנו כבנות לאימהות נרקיסיסטיות ולחזק את ה\"אני\" שלנו.</span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">נלמד איך לחיות בשלום עם עצמנו כי גם אנחנו ראויות לאהבה !&nbsp;</span></div><div><span style=\"font-weight: normal;\">&nbsp;</span></div><div><span style=\"font-weight: normal;\">הסדנאות  מיועדת לנשים מגיל 25 עד 120&nbsp;</span><span style=\"font-weight: normal; background-color: inherit;\">&nbsp;</span></div><div><span style=\"font-weight: normal;\">(מס' המקומות מוגבל) <a href=\"workshop-on-the-subject-of-girls-for-narcissistic-mothers.html#text1-b9\">להרשמה ותשלום לחץ</a>&nbsp;</span></div>",
           "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium eaque, nesciunt corporis atque eius vero doloremque, dolor voluptas ut voluptates fugit excepturi consequuntur recusandae magni, a nulla architecto quo repudiandae eum molestiae quidem libero odit sint. Recusandae maxime ut illo accusantium aut voluptatibus et quod dicta rerum praesentium alias aspernatur neque magnam reiciendis adipisci nesciunt in debitis maiores iure, mollitia impedit repudiandae quis. Blanditiis laborum explicabo asperiores sint quidem ex ipsam libero, deserunt pariatur eius expedita neque at aliquid voluptate esse unde molestias! Possimus id fuga nostrum dolore quo dolores, eos voluptatem, repellat nulla eligendi facilis deleniti, inventore quae officia.",
           "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">download now</a>",
           "alias": "spacem/components",
@@ -12796,8 +12798,8 @@
           ],
           "_name": "content4",
           "_anchor": "content4-bx",
-          "_customCSS": "direction:rtl;\n.mbr-figure--full-width iframe, .mbr-figure--full-width .mbr-figure__img, .mbr-figure--full-width .mbr-figure__map {\n    width: auto;\n    height: 200px;\n}",
-          "_customHTML": "<section class=\"mbr-section--bg-adapted mbr-section--relative mbr-after-navbar\" data-rv-view=\"14\" style=\"background-color: rgb(255, 255, 255);\">\n        \n    <div id=\"contact-info\" style=\"padding-top: 0px; padding-bottom: 0px;\">\n        <div class=\"container\">\n            <div class=\"row\">\n                                      \n                        <div class=\"mbr-cards-col col-md-6 col-sm-6 col-xs-12\">\n                            <div class=\"team-item c-info\">\n                                <div class=\"image\">\n                                    <figure class=\"mbr-figure mbr-figure--adapted mbr-figure--caption-inside-bottom mbr-figure--full-width \"><img src=\"@PROJECT_PATH@/assets/images/ll-243x233.png\" class=\"mbr-figure__img\"></figure>\n                                </div>\n                                <h4 class=\"mbr-editable-content\" code-editable-id=\"31\">לילך ארזי-לוי</h4>\n                                <h5 class=\"mbr-section-subtitle mbr-editable-content\" code-editable-id=\"32\">עובדת סוציאלית, מטפלת זוגית ומשפחתית</h5>\n                                <p class=\"mbr-editable-content\" code-editable-id=\"33\">עובדת סוציאלית, מטפלת זוגית ומשפחתית, בעלת  תואר M.A אמא לשלושה ילדים בוגרים, מייסדת ובעלים של \"קשרים\"-לשיפור ושימור קשרים משמעותיים בחיים. מנחת קבוצות ומרצה על מהות החיים בשילוב הומור, עם ניסיון של מעל 20 שנה בעבודה עם נשים במשברי חיים.<br><br>אני מאמין שלה \" לא באנו לעולם בשביל לסבול\"</p>\n                                \n                            </div>\n                        </div>\n\n                        <div class=\"mbr-cards-col col-md-6 col-sm-6 col-xs-12\">\n                            <div class=\"team-item c-info\">\n                                <div class=\"image\">\n                                    <figure class=\"mbr-figure mbr-figure--adapted mbr-figure--caption-inside-bottom mbr-figure--full-width \"><img src=\"@PROJECT_PATH@/assets/images/rrrr-634-634x423.jpg\" class=\"mbr-figure__img\"></figure>\n                                </div>\n                                <h4 class=\"mbr-editable-content\" code-editable-id=\"34\">רויטל שירי-הורוביץ</h4>\n                                <h5 class=\"mbr-section-subtitle mbr-editable-content\" code-editable-id=\"35\">סופרת, בלוגרית ומשוררת</h5>\n                                <p class=\"mbr-editable-content\" code-editable-id=\"36\">רויטל שירי-הורוביץ, סופרת, משוררת ובלוגרית, כתבה שלושה ספרים העוסקים בנשים: \"בת עיראק\" – רומן הסטורי העוסק בשורשים, \"להתראות בקרוב\" – עוסק בהגירה, וספרה האחרון \"את מדמיינת – לגדול עם אמא נרקיסיסטית – מסע בין תובנות\", עוסק בבנות לאימהות נרקיסיסטיות, על פי התאוריה של ד\"ר קריל מקברייד המתמחה בנושא של בנות לאימהות נרקיסיסטיות. \"את מדמיינת\" עוסק בתהליך הזיהוי, תובנות, אבל, החלמה וסגירת מעגל, נכתב כמסע אישי. שירי-הורוביץ היא מרצה מנוסה המרצה על ספריה בכל העולם.</p>\n                                \n                            </div>\n                        </div>\n\n                    </div>\n\n                </div>\n\n            </div>\n        \n    \n</section>",
+          "_customCSS": "direction:rtl;\n.mbr-figure--full-width iframe, .mbr-figure--full-width .mbr-figure__img, .mbr-figure--full-width .mbr-figure__map {\n    width: auto;\n    height: 423px;\n}",
+          "_customHTML": "<section class=\"mbr-section--bg-adapted mbr-section--relative mbr-after-navbar\" data-rv-view=\"14\" style=\"background-color: rgb(255, 255, 255);\">\n        \n    <div id=\"contact-info\" style=\"padding-top: 0px; padding-bottom: 0px;\">\n        <div class=\"container\">\n            <div class=\"row\">\n                                      \n                        <div class=\"mbr-cards-col col-md-6 col-sm-6 col-xs-12\">\n                            <div class=\"team-item c-info\">\n                                <div class=\"image\">\n                                    <figure class=\"mbr-figure mbr-figure--adapted mbr-figure--caption-inside-bottom mbr-figure--full-width \"><img src=\"@PROJECT_PATH@/assets/images/ll-243x233.png\" class=\"mbr-figure__img\"></figure>\n                                </div>\n                                <h4 class=\"mbr-editable-content\" code-editable-id=\"217\">לילך ארזי-לוי</h4>\n                                <h5 class=\"mbr-section-subtitle mbr-editable-content\" code-editable-id=\"218\">עובדת סוציאלית, מטפלת זוגית ומשפחתית</h5>\n                                <p class=\"mbr-editable-content\" code-editable-id=\"219\">עובדת סוציאלית, מטפלת זוגית ומשפחתית, בעלת  תואר M.A אמא לשלושה ילדים בוגרים, מייסדת ובעלים של \"קשרים\"-לשיפור ושימור קשרים משמעותיים בחיים. מנחת קבוצות ומרצה על מהות החיים בשילוב הומור, עם ניסיון של מעל 20 שנה בעבודה עם נשים במשברי חיים.<br><br>אני מאמין שלה \" לא באנו לעולם בשביל לסבול\"</p>\n                                \n                            </div>\n                        </div>\n\n                        <div class=\"mbr-cards-col col-md-6 col-sm-6 col-xs-12\">\n                            <div class=\"team-item c-info\">\n                                <div class=\"image\">\n                                    <figure class=\"mbr-figure mbr-figure--adapted mbr-figure--caption-inside-bottom mbr-figure--full-width \"><img src=\"@PROJECT_PATH@/assets/images/rrrr-634-634x423.jpg\" class=\"mbr-figure__img\"></figure>\n                                </div>\n                                <h4 class=\"mbr-editable-content\" code-editable-id=\"220\">רויטל שירי-הורוביץ</h4>\n                                <h5 class=\"mbr-section-subtitle mbr-editable-content\" code-editable-id=\"221\">סופרת, בלוגרית ומשוררת</h5>\n                                <p class=\"mbr-editable-content\" code-editable-id=\"222\">רויטל שירי-הורוביץ, סופרת, משוררת ובלוגרית, כתבה שלושה ספרים העוסקים בנשים: \"בת עיראק\" – רומן הסטורי העוסק בשורשים, \"להתראות בקרוב\" – עוסק בהגירה, וספרה האחרון \"את מדמיינת – לגדול עם אמא נרקיסיסטית – מסע בין תובנות\", עוסק בבנות לאימהות נרקיסיסטיות, על פי התאוריה של ד\"ר קריל מקברייד המתמחה בנושא של בנות לאימהות נרקיסיסטיות. \"את מדמיינת\" עוסק בתהליך הזיהוי, תובנות, אבל, החלמה וסגירת מעגל, נכתב כמסע אישי. שירי-הורוביץ היא מרצה מנוסה המרצה על ספריה בכל העולם.</p>\n                                \n                            </div>\n                        </div>\n\n                    </div>\n\n                </div>\n\n            </div>\n        \n    \n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customTemplate": true
@@ -13003,7 +13005,7 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "0",
-            "showTitle": false,
+            "showTitle": true,
             "showText": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/1.jpg",
