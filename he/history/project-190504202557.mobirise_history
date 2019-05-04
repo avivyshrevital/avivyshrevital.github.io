@@ -42,7 +42,9 @@
     },
     "siteFonts": [],
     "siteUrl": "undefined",
-    "gdpr": ""
+    "gdpr": "",
+    "publishType": "local",
+    "publishPath": "file:///Users/avivyeshua/code/private/avivyshrevital.github.io/he"
   },
   "pages": {
     "Reviews.html": {
@@ -12578,7 +12580,7 @@
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#222222",
+            "overlayColor": "#15baf1",
             "overlayOpacity": "0.5"
           },
           "media": {
@@ -12935,9 +12937,9 @@
             }
           },
           "_params": {
-            "firstType": "hidden",
+            "firstType": "",
             "secondType": "bg-primary",
-            "thirdType": "bg-primary",
+            "thirdType": "",
             "fourthType": "hidden",
             "paddingTop": "1",
             "paddingBottom": "0",
@@ -12956,8 +12958,8 @@
             "overlayOpacity": 0.5
           },
           "title1": "בקרוב סדנא למתקדמים",
-          "title2": "תשלום PayPal",
-          "title3": "תשלום PAYBOX",
+          "title2": "סדנא למתחילים<br><br>",
+          "title3": "תשלום באמצעותPAYBOX",
           "title4": "",
           "subtitle1": "Description",
           "subtitle2": "Description",
@@ -12965,7 +12967,7 @@
           "subtitle4": "Description",
           "label1": "Most Popular",
           "label2": "",
-          "label3": "",
+          "label3": "Most Popular",
           "label4": "Most Popular",
           "currency1": "₪",
           "currency2": "₪",
@@ -12984,12 +12986,12 @@
           "description3": "Mobirise is perfect for non-techies who are not familiar with web development.",
           "description4": "Mobirise is perfect for non-techies who are not familiar with web development.",
           "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">הרצאה בנושא של נרקיסיזם במשפחה\n</li><li class=\"list-group-item\"><br></li></ul>",
-          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"></li></ul>",
-          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"></li></ul>",
+          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">הרצאה בנושא של נרקיסיזם במשפחה\n</li><li class=\"list-group-item\"><br></li></ul>",
+          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">הרצאה בנושא של נרקיסיזם במשפחה\n</li><li class=\"list-group-item\"><br></li></ul>",
           "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio iste dignissimos ullam alias quidem debitis!</li><li class=\"list-group-item\">Lorem ipsum dolor sit amet, consectetur adipisicing.</li><li class=\"list-group-item\">Rectetur adipisicing elit. Ab, un</li></ul>",
           "button1": "<a data-app-btn=\"true\" href=\"lecture.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd\" target=\"_blank\">&nbsp;הרשמה בקוב</a>",
           "button2": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=350&amp;item_name=%D7%A1%D7%93%D7%A0%D7%90-%D7%9C%D7%9E%D7%AA%D7%97%D7%99%D7%9C%D7%99%D7%9D-21-06-2019&amp;currency_code=ILS\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd\" target=\"_blank\">הרשמה</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"http://pbme.co/pbj?v=j&amp;g=5ccdac46ed191b00152a7c2c\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd\" target=\"_blank\">הרשמה</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"lecture.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd\" target=\"_blank\">הרשמה</a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black\">view more</a>",
           "alias": "spacem/components",
           "_tags": [
