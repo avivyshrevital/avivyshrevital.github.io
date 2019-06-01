@@ -42,7 +42,9 @@
     },
     "siteFonts": [],
     "siteUrl": "undefined",
-    "gdpr": ""
+    "gdpr": "",
+    "publishType": "local",
+    "publishPath": "file:///Users/aviv/code/private/avivyshrevital.github.io/he"
   },
   "pages": {
     "Reviews.html": {
@@ -12971,10 +12973,10 @@
           "currency2": "₪",
           "currency3": "₪",
           "currency4": "₪",
-          "price1": "400",
-          "price2": "400",
-          "price3": "400",
-          "price4": "400",
+          "price1": "350",
+          "price2": "350",
+          "price3": "350",
+          "price4": "350",
           "period1": "PayPal",
           "period2": "PayPal",
           "period3": "Paybox",
@@ -12987,8 +12989,8 @@
           "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"></li></ul>",
           "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"></li></ul>",
           "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"></li></ul>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=400&amp;item_name=%D7%AA%D7%A9%D7%9C%D7%95%D7%9D+%D7%A1%D7%93%D7%A0%D7%90+%D7%9C%D7%9E%D7%AA%D7%A7%D7%93%D7%9E%D7%95%D7%AA&amp;currency_code=ILS\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd\" target=\"_blank\">&nbsp;הרשמה</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=400&amp;item_name=%D7%A1%D7%93%D7%A0%D7%90-%D7%9C%D7%9E%D7%AA%D7%97%D7%99%D7%9C%D7%99%D7%9D-21-06-2019&amp;currency_code=ILS\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd\" target=\"_blank\">הרשמה</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=350&amp;item_name=%D7%AA%D7%A9%D7%9C%D7%95%D7%9D+%D7%A1%D7%93%D7%A0%D7%90+%D7%9C%D7%9E%D7%AA%D7%A7%D7%93%D7%9E%D7%95%D7%AA&amp;currency_code=ILS\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd\" target=\"_blank\">&nbsp;הרשמה</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=350&amp;item_name=%D7%A1%D7%93%D7%A0%D7%90-%D7%9C%D7%9E%D7%AA%D7%97%D7%99%D7%9C%D7%99%D7%9D-21-06-2019&amp;currency_code=ILS\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd\" target=\"_blank\">הרשמה</a>",
           "button3": "<a data-app-btn=\"true\" href=\"http://pbme.co/pbj?v=j&amp;g=5ccdac46ed191b00152a7c2c\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd\" target=\"_blank\">הרשמה</a>",
           "button4": "<a data-app-btn=\"true\" href=\"http://pbme.co/pbj?v=j&amp;g=5ccdac46ed191b00152a7c2c\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd\" target=\"_blank\">הרשמה</a>",
           "alias": "spacem/components",
