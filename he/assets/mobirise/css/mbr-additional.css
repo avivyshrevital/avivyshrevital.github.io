@@ -3357,6 +3357,28 @@ a:hover,
 #title4-ah SPAN {
   color: #ffffff;
 }
+#header3-c2 {
+  direction: rtl;
+}
+#header3-c2 EM {
+  font-size: 32px;
+}
+#header3-c2 H1 {
+  font-size: 32px;
+  text-align: right;
+}
+#header3-c2 SPAN {
+  color: #000000;
+}
+#header3-c2 P {
+  color: #000000;
+  text-align: right;
+}
+#header3-c2 .btn-primary {
+  background-color: transparent;
+  border-color: #080808;
+  color: #080808;
+}
 #content4-ax {
   direction: rtl;
 }
