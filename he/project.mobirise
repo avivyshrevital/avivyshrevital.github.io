@@ -10813,13 +10813,13 @@
         },
         {
           "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "showTitle": true,
             "showSubtitle": true,
             "showButtons": true,
             "showMedia": true,
-            "imageSize": "16",
+            "imageSize": "15",
             "inverse": false,
             "parallax": true,
             "bgImageRadio": false,
@@ -10852,7 +10852,7 @@
               "loop": false
             }
           },
-          "title": "<span style=\"font-weight: normal;\"><i>לגדול עם אימא נרקיסיסטית: \"הייתי מרעיבה את עצמי כדי לזכות ממנה במילה טובה\"</i></span>",
+          "title": "<span style=\"font-weight: normal;\">לגדול עם אימא נרקיסיסטית: \"הייתי מרעיבה את עצמי כדי לזכות ממנה במילה טובה\"</span>",
           "text": "הסופרת רויטל שירי־הורוביץ בטוחה שהשתיקה יותר קשה מהחשיפה. זו הסיבה שהספר שלה \"את מדמיינת\", מסע נפשי אישי, אמיץ וכואב של מי שגדלה לאימא נרקיסיסטית, הפך בסופו של דבר לנחלת הכלל. הצורך לפרוק את כובד הקשיים שחוותה לאורך השנים, הוא רק סיבה אחת מבחינתה להוצאת הספר. \"הספר נכתב כדי לדבר על אימהות נרקיסיסטיות ועל בנות לאימהות כאלה ולעזור לאותן בנות להבין שהן בסדר, זה לא אתן – זה האימהות שלכן, ומה שאתן מרגישות וחוות לאורך השנים הוא אמיתי, אתן לא חריגות ואתן לא לבד\".",
           "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">להמשך קריאה</a>",
           "alias": "spacem/components",
