@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Revital-Hebrew",
-    "currentPage": "events.html",
+    "currentPage": "Its-just-your-imagination.html",
     "theme": {
       "name": "spacem",
       "title": "SpaceM",
@@ -28,8 +28,8 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 438,
-    "versionPublish": "4.10.8",
+    "uniqCompNum": 435,
+    "versionPublish": "4.9.7",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/hopetoseeyousooncoverfront-128x197.png",
@@ -42,7 +42,9 @@
     },
     "siteFonts": [],
     "siteUrl": "undefined",
-    "gdpr": ""
+    "gdpr": "",
+    "publishType": "local",
+    "publishPath": "file:///Users/aviv/code/private/avivyshrevital.github.io/he"
   },
   "pages": {
     "Reviews.html": {
@@ -807,58 +809,6 @@
             }
           },
           "text": "Special Panel: The Sephardic Novel"
-        },
-        {
-          "_params": {
-            "showText": true,
-            "paddingTop": 4,
-            "paddingBottom": 4,
-            "bgColor": "#fff"
-          },
-          "media": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/image2.jpg"
-            },
-            "video": {
-              "src": "https://youtu.be/r3fu5bq8p48",
-              "autoplay": false,
-              "loop": false,
-              "active": true
-            }
-          },
-          "text": "",
-          "alias": "spacem/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image2",
-          "_anchor": "image2-c4"
-        },
-        {
-          "_params": {
-            "showText": true,
-            "paddingTop": 4,
-            "paddingBottom": 4,
-            "bgColor": "#fff"
-          },
-          "media": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/image2.jpg"
-            },
-            "video": {
-              "src": "https://youtu.be/4i42kuE7Y9E",
-              "autoplay": false,
-              "loop": false,
-              "active": true
-            }
-          },
-          "text": "",
-          "alias": "spacem/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image2",
-          "_anchor": "image2-c5"
         },
         {
           "_params": {
