@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Revital-Hebrew",
-    "currentPage": "books.html",
+    "currentPage": "index-old.html",
     "theme": {
       "name": "spacem",
       "title": "SpaceM",
@@ -29,7 +29,7 @@
     },
     "versionFirst": "3.12.1",
     "uniqCompNum": 439,
-    "versionPublish": "4.11.6",
+    "versionPublish": "4.10.8",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/hopetoseeyousooncoverfront-128x197.png",
@@ -42,7 +42,9 @@
     },
     "siteFonts": [],
     "siteUrl": "undefined",
-    "gdpr": ""
+    "gdpr": "",
+    "publishType": "local",
+    "publishPath": "file:///Users/aviv/code/private/avivyshrevital.github.io/he"
   },
   "pages": {
     "Reviews.html": {
@@ -9768,7 +9770,7 @@
                 "showText": true,
                 "text": "בת עיראק הוא רומן משפחתי מרתק, המספר על שלוש נשים בנות משפחה אחת. זהו סיפורה של הגירה מעיראק לישראל בתחילת שנות החמישים, כפי שהיא נחווית על ידי שתי אחיות: ויולט, הנחשפת בפנינו דרך יומן חיים שכתבה כשלקתה במחלה קשה, ואחותה פרידה, אליה אנו מתוודעים דרך יחסיה עם הסביבה ועם עצמה. הצלע השלישית היא נועה, בתה של ויולט, סטודנטית בשנות העשרים, המחפשת משמעות לחייה. נועה יוצאת למסע רוחני אל העבר כדי שתוכל לבנות את חייה בהווה ובעתיד.<br><br>זהו סיפור על אהבה, על שורשים ועל מה שביניהם: אהבה בין אימהות לבנותיהן, אהבה בין אחיות, בין אב ובתו ובין אח ואחות. זהו גם סיפורן של אהבות זוגיות ממומשות ובלתי ממומשות, הטמונות לעד בליבם של אוהבים.<br>",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" href=\"https://www.amazon.de/s/ref=dp_byline_sr_ebooks_1?ie=UTF8&amp;text=Revital+Horowitz&amp;search-alias=digital-text&amp;field-author=Revital+Horowitz&amp;sort=relevancerank\" class=\"btn btn-primary\" role=\"button\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">לרכישת הספר ב-Amazon</a><a data-app-btn=\"true\" href=\"https://indiebook.co.il/shop/%D7%91%D7%AA-%D7%A2%D7%99%D7%A8%D7%90%D7%A7/\" class=\"btn btn-primary\" role=\"button\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">בפורמט דיגיטלי אינדיבוק</a> <a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=70&amp;item_name=Hebrew+Daughters+of+Iraq&amp;currency_code=ILS\" class=\"btn btn-primary\" role=\"button\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"fa fa-cc-paypal mbr-iconfont mbr-iconfont-btn\"></span>&nbsp;קניה ישירה 70שח</a> ",
+                "buttons": "<a data-app-btn=\"true\" href=\"https://www.amazon.de/s/ref=dp_byline_sr_ebooks_1?ie=UTF8&amp;text=Revital+Horowitz&amp;search-alias=digital-text&amp;field-author=Revital+Horowitz&amp;sort=relevancerank\" class=\"btn btn-primary\" role=\"button\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">לרכישת הספר ב-Amazon</a><a data-app-btn=\"true\" href=\"https://indiebook.co.il/shop/%D7%91%D7%AA-%D7%A2%D7%99%D7%A8%D7%90%D7%A7/\" class=\"btn btn-primary\" role=\"button\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">בפורמט דיגיטלי אינדיבוק</a> <a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=60&amp;item_name=%D7%91%D7%AA+%D7%A2%D7%99%D7%A8%D7%A7&amp;currency_code=ILS\" class=\"btn btn-primary\" role=\"button\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"fa fa-cc-paypal mbr-iconfont mbr-iconfont-btn\"></span>&nbsp;קניה ישירה 60שח</a> ",
                 "innerImage": "@PROJECT_PATH@/assets/images/bat-iraq-book-2000x3150.png"
               }
             ]
@@ -10837,7 +10839,7 @@
           },
           "title": "<span style=\"font-weight: normal;\"><i>את מדמיינת</i></span>",
           "text": "\"באחת מהשיחות הלא פשוטות עם אמי היא צעקה לעברי: 'אבל את שלי'. זה היה כבר בשנות החמישים שלי, הייתי אישה בוגרת, והבנתי שאני ישות נפרדת ועצמאית. עצרתי לרגע, ומכיוון שלא רציתי להעליב אותה אמרתי: \"אני לא שלך ולא של אף אחד, אני של עצמי.\" מאז היא חזרה על האמירה הזאת פעמים רבות, בכל פעם שחשה שאינני מבינה שאני צריכה להיות איתה, לעשות למענה או להיות לישות אחת עמה. קשה לתאר את הרגש שעולה בי בכל פעם שהיא אומרת משפט כזה\".\n<br>\n<br>בספרה את מדמיינת יוצאת הסופרת למסע של גילוי ותובנות, לאחר שהגיעה לנקודת שפל בחייה האישיים. כאשר היא מגלה שיש שם לרגשות שלה - \"בת לאם נרקיסיסטית\", היא קוראת כל ספרות אפשרית בנושא, ומתעדת את המסע האישי שלה. המסע שלה סוחף, מערבל ומלא בתובנות שייקחו אתכם למקומות שבהם, בניגוד לאגדות, אימהות הן לאו דווקא מעצימות ומגוננות. אימהות פגועות מגדלות לעיתים ילדות פגועות, אז איך שוברים את השרשרת הזאת?\n<br>\n<br>רויטל שירי-הורוביץ, סופרת, בלוגרית ומשוררת, המכנה עצמה \"כותבת סדרתית\", כתבה את \"בת עיראק\", רומן היסטורי, שזכה בפרס עידוד מטעם מורשת יהדות בבל (2008); ספרה השני \"להתראות בקרוב\" עוסק במהגרים החצויים בין עולמות (2014). \"את מדמיינת\" הוא ספרה השלישי. שירי-הורוביץ נשואה ואם לארבעה בנים, חיה בסיאטל וחולמת בעברית. ספריה תורגמו לאנגלית ונמכרים ברחבי העולם.<br>",
-          "buttons": "<a data-app-btn=\"true\" href=\"https://www.amazon.com/Its-Just-Your-Imagination-Narcissistic/dp/9659259239/ref=sr_1_1?s=digital-text&amp;ie=UTF8&amp;qid=1516579258&amp;sr=8-1&amp;keywords=its+just+your+imagination+hebrew\" class=\"btn btn-white\" role=\"button\" target=\"_blank\">לרכישה באתר Amazon</a> <a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=80&amp;item_name=Hebrew+It's+just+your+imagination&amp;currency_code=ILS\" class=\"btn btn-white\" role=\"button\" target=\"_blank\">קניה ישירה 80 שח</a>",
+          "buttons": "<a data-app-btn=\"true\" href=\"https://www.amazon.com/Its-Just-Your-Imagination-Narcissistic/dp/9659259239/ref=sr_1_1?s=digital-text&amp;ie=UTF8&amp;qid=1516579258&amp;sr=8-1&amp;keywords=its+just+your+imagination+hebrew\" class=\"btn btn-white\" role=\"button\" target=\"_blank\">לרכישה באתר Amazon</a> <a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=70&amp;item_name=%D7%90%D7%AA+%D7%9E%D7%93%D7%9E%D7%99%D7%99%D7%A0%D7%AA&amp;currency_code=ILS\" class=\"btn btn-white\" role=\"button\" target=\"_blank\">קניה ישירה 70 שח</a>",
           "alias": "spacem/components",
           "_tags": [
             "Theme"
@@ -11817,7 +11819,7 @@
           },
           "title": "<span style=\"font-weight: normal;\"><i>להתראות בקרוב</i></span>",
           "text": "תל -אביב סיאטל, ואשה אחת שעושה מעשה שלא יעשה. שתי חברות הכי טובות שנפער ביניהן פער גדול.האם המרחק גרם לזה? האם הדשא של השכן אכן ירוק יותר? מולדת מול משפחה? ומה משמעותו של האושר האישי? הספר \"להתראות בקרוב\" סוחף את הקוראים לתוך מערבולת רגשית,מציג דילמות הכורכות בחיים במדינה אחרת,ומעורר מחשבות על החיים עצמם:חברות, משפחה, מדינה. הרומן כתוב בשתי וערב, סיפורי עבר הנכרכים בהווה ומכתבים שזורים ביניהם. הדמויות כובשות ומרתקות, לא תרצו להניח את הספר עד לסיומו.\n<br>מי חשב שאגיע לסיאטל ואשאר בה כל כך הרבה שנים? מי חשב שלא אעבוד במקצוע שלקראתו למדתי כל כך הרבה שנים ולעסוק בו הספקתי בקושי שנתיים? מי חשב שאהפוך לעקרת בית מתוסכלת ומבודדת? מי חשב שאעזוב את ילדי ואת בעלי ואחזור ארצה לבדי, ומי חשב שאהיה יתומה משני הורים לפני גיל ארבעים? מי היה מאמין שארגיש כל כך הרבה בדידות ושתמרי לא תהיה החברה \"הכי\" שלי? מי חשב? מי חשב שאשב בחנות הספרים הזאת מול איש ביו ארבעים פלוס, מקריח, עם חיוך ענק ועיניים טובות? מי חשב? מי חשב שארגיש פתאום שאני שווה משהו ?<br>",
-          "buttons": "<a data-app-btn=\"true\" href=\"https://indiebook.co.il/shop/%D7%9C%D7%94%D7%AA%D7%A8%D7%90%D7%95%D7%AA-%D7%91%D7%A7%D7%A8%D7%95%D7%91/\" class=\"btn btn-white\" role=\"button\" target=\"_blank\">בפורמט דיגיטלי אינדיבוק</a> <a data-app-btn=\"true\" href=\"http://www.amazon.com/Hope-See-You-Soon-Hebrew/dp/1495108260/ref=asap_bc?ie=UTF8\" class=\"btn btn-white\" role=\"button\" target=\"_blank\">לרכישה Amazon</a> <a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=60&amp;item_name=Hebrew+Hope+to+See+You+Soon&amp;currency_code=ILS\" class=\"btn btn-white\" role=\"button\" target=\"_blank\">קניה ישירה 60 שח</a>",
+          "buttons": "<a data-app-btn=\"true\" href=\"https://indiebook.co.il/shop/%D7%9C%D7%94%D7%AA%D7%A8%D7%90%D7%95%D7%AA-%D7%91%D7%A7%D7%A8%D7%95%D7%91/\" class=\"btn btn-white\" role=\"button\" target=\"_blank\">בפורמט דיגיטלי אינדיבוק</a> <a data-app-btn=\"true\" href=\"http://www.amazon.com/Hope-See-You-Soon-Hebrew/dp/1495108260/ref=asap_bc?ie=UTF8\" class=\"btn btn-white\" role=\"button\" target=\"_blank\">לרכישה Amazon</a> <a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=70&amp;item_name=%D7%9C%D7%94%D7%AA%D7%A8%D7%90%D7%95%D7%AA+%D7%91%D7%A7%D7%A8%D7%95%D7%91&amp;currency_code=ILS\" class=\"btn btn-white\" role=\"button\" target=\"_blank\">קניה ישירה 70 שח</a>",
           "alias": "spacem/components",
           "_tags": [
             "Theme"
