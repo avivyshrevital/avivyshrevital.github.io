@@ -3777,7 +3777,7 @@ a:hover,
   direction: rtl;
 }
 #header1-bu SPAN {
-  font-size: 46px;
+  font-size: 60px;
 }
 #text9-bv {
   direction: rtl;
@@ -3792,16 +3792,6 @@ a:hover,
   line-height: 45px;
   color: #eb5a1a ;
   font-style: italic;
-}
-#text1-bw {
-  direction: rtl;
-}
-#text1-bw H3 {
-  text-align: center;
-  font-size: 30px;
-}
-#text1-bw P {
-  text-align: right;
 }
 #text1-by {
   direction: rtl;
@@ -3839,6 +3829,7 @@ a:hover,
 #text1-b9 P {
   text-align: center;
   color: #ffffff;
+  font-size: 17px;
 }
 #text1-b9 B {
   color: #ffffff;
@@ -3873,5 +3864,184 @@ a:hover,
   text-align: right;
 }
 #footer1-az H4 {
+  text-align: right;
+}
+
+#menu2-c8 .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu2-c8 .navbar-caption {
+  color: #ffffff;
+}
+#menu2-c8 .navbar-toggler {
+  color: #ffffff;
+}
+#menu2-c8 .close-icon::before,
+#menu2-c8 .close-icon::after {
+  background-color: #ffffff;
+}
+#menu2-c8 .link,
+#menu2-c8 .dropdown-item {
+  color: #ffffff;
+  font-family: 'Lato', sans-serif;
+}
+#menu2-c8 .link {
+  font-size: 0.9rem;
+}
+#menu2-c8 .dropdown-item,
+#menu2-c8 .nav-dropdown-sm .link {
+  font-size: 0.975rem;
+}
+#menu2-c8 .link:hover,
+#menu2-c8 .dropdown-item:hover,
+#menu2-c8 .link:focus,
+#menu2-c8 .dropdown-item:focus {
+  color: #fff;
+}
+#menu2-c8 .link[aria-expanded="true"],
+#menu2-c8 .dropdown-menu {
+  background: #080808;
+}
+#menu2-c8 .nav-dropdown-sm .link:focus,
+#menu2-c8 .nav-dropdown-sm .link:hover,
+#menu2-c8 .nav-dropdown-sm .dropdown-item:focus,
+#menu2-c8 .nav-dropdown-sm .dropdown-item:hover {
+  background: #1a1a1a!important;
+}
+#menu2-c8 .navbar,
+#menu2-c8 .nav-dropdown-sm,
+#menu2-c8 .nav-dropdown-sm .link[aria-expanded="true"],
+#menu2-c8 .nav-dropdown-sm .dropdown-menu {
+  background: #222;
+}
+#menu2-c8 .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu2-c8 .navbar-toggler i,
+#menu2-c8 .navbar-toggler em,
+#menu2-c8 .navbar-toggler i:before,
+#menu2-c8 .navbar-toggler em:before,
+#menu2-c8 .navbar-toggler i:after,
+#menu2-c8 .navbar-toggler em:after {
+  background: #ffffff;
+}
+#menu2-c8 .navbar-toggler[aria-expanded="true"] i,
+#menu2-c8 .navbar-toggler[aria-expanded="true"] em {
+  background: transparent;
+}
+#menu2-c8 .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu2-c8 .bg-color.transparent.opened .link:hover,
+#menu2-c8 .bg-color.transparent.opened .link:focus {
+  color: #fff;
+}
+#menu2-c8 .link[aria-expanded="true"] {
+  color: #fff!important;
+}
+#menu2-c8 .dropdown-item[aria-expanded="true"] {
+  color: #222!important;
+}
+#header1-c9 {
+  direction: rtl;
+}
+#header1-c9 SPAN {
+  font-size: 46px;
+}
+#text9-ca {
+  direction: rtl;
+}
+#text9-ca B {
+  color: #eb5a1a;
+}
+#text9-ca .page_head blockquote p {
+  display: inline-block;
+  text-align: center;
+  font-size: 32px;
+  line-height: 45px;
+  color: #eb5a1a ;
+  font-style: italic;
+}
+#text1-cb {
+  direction: rtl;
+}
+#text1-cb H3 {
+  text-align: center;
+  font-size: 30px;
+}
+#text1-cb P {
+  text-align: right;
+}
+#text1-cc {
+  direction: rtl;
+}
+#text1-cc H3 {
+  text-align: center;
+  color: #ffffff;
+}
+#content4-cd {
+  direction: rtl;
+}
+#content4-cd .mbr-figure--full-width iframe,
+#content4-cd .mbr-figure--full-width .mbr-figure__img,
+#content4-cd .mbr-figure--full-width .mbr-figure__map {
+  width: auto;
+  height: 200px;
+}
+#text1-ce {
+  direction: rtl;
+}
+#text1-ce H3 {
+  text-align: center;
+  color: #ffffff;
+}
+#testimonials1-cf {
+  direction: rtl;
+}
+#text1-cg {
+  direction: rtl;
+}
+#text1-cg H3 {
+  text-align: center;
+  color: #ffffff;
+}
+#text1-cg P {
+  text-align: center;
+  color: #ffffff;
+}
+#text1-cg B {
+  color: #ffffff;
+}
+#pricing-table1-ch {
+  direction: rtl;
+}
+#pricing-table1-ch .mbr-section__container .mbr-section-title {
+  color: #fff;
+}
+#pricing-table1-ch .mbr-section__container .mbr-section-subtitle {
+  color: #a0a0a0;
+}
+#text1-ci {
+  direction: rtl;
+}
+#text1-ci H3 {
+  text-align: center;
+}
+#text1-ci P {
+  text-align: center;
+}
+#text1-ci B {
+  font-size: 22px;
+}
+#footer1-ck SPAN {
+  color: #ffffff;
+  font-size: 12px;
+}
+#footer1-ck P {
+  color: #ffffff;
+  text-align: right;
+}
+#footer1-ck H4 {
   text-align: right;
 }
