@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Revital-Hebrew",
-    "currentPage": "events.html",
+    "currentPage": "workshop-on-the-subject-of-girls-for-narcissistic-mothers.html",
     "theme": {
       "name": "spacem",
       "title": "SpaceM",
@@ -28,7 +28,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 454,
+    "uniqCompNum": 453,
     "versionPublish": "4.11.6",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -809,32 +809,6 @@
             }
           },
           "text": "Special Panel: The Sephardic Novel"
-        },
-        {
-          "_params": {
-            "showText": true,
-            "paddingTop": 4,
-            "paddingBottom": 4,
-            "bgColor": "#fff"
-          },
-          "media": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/image2.jpg"
-            },
-            "video": {
-              "src": "https://youtu.be/ohpN_5f9cNc",
-              "autoplay": false,
-              "loop": false,
-              "active": true
-            }
-          },
-          "text": "",
-          "alias": "spacem/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image2",
-          "_anchor": "image2-cl"
         },
         {
           "_params": {
@@ -13070,15 +13044,6 @@
             "slides": [
               {
                 "active": true,
-                "showText": true,
-                "showTitle": true,
-                "image": "@PROJECT_PATH@/assets/images/23.4.18-196-of-240-2000x1333-800x533.jpg",
-                "title": "",
-                "text": "רויטל היקרה, בהצלחה רבה. אינך יודעת עד כמה אני מעריכה ומודה לך מקרב לב, על החשיפה האמיצה שלך. מתוך ספרך למדתי, אני לא לבד. תעלומות העבר נפלטות מנפשי. וכשאני מציצה מעבר לכתפי אני בעצם מונעת מעצמי להיות שלמה, לחיות עם עצמי בשלום. זה מן סוג של מהלומות שגוזלים ממני חלומות. בעקבות ספרך \"את מדמיינת\" , אני מצליחה להפיל את כל המחסומים שהיו קיימים עד עתה , פורצת את כל הגבולות מבלי לפגוע באיש. ובאש דועכת אני מנסה ככל שניתן, להתפייס עם העבר, ואולי אולי אצליח אי פעם לשנות את מסלול החיים אליו נקלעתי . בברכה חמה, מיכל (ושבת שלום)",
-                "alt": ""
-              },
-              {
-                "active": false,
                 "showText": true,
                 "showTitle": true,
                 "image": "@THEME_PATH@/components/_images/header1.jpg",
