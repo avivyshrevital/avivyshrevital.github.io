@@ -12828,7 +12828,7 @@
             "showButtons": true,
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1280.jpeg",
             "bgColorRadio": false,
             "bgColor": "#fff",
             "bgVideoRadio": false,
