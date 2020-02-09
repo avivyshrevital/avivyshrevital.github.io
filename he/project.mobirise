@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Revital-Hebrew",
-    "currentPage": "events.html",
+    "currentPage": "workshop-on-the-subject-of-girls-for-narcissistic-mothers.html",
     "theme": {
       "name": "spacem",
       "title": "SpaceM",
@@ -42,9 +42,7 @@
     },
     "siteFonts": [],
     "siteUrl": "undefined",
-    "gdpr": "",
-    "publishType": "local",
-    "publishPath": "file:///Users/avivyeshua/code/private/avivyshrevital.github.io/he"
+    "gdpr": ""
   },
   "pages": {
     "Reviews.html": {
@@ -1136,7 +1134,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/-2-500x357.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2-500x357.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/2-500x357-500x357.jpg",
                 "alt": "",
                 "title": "",
@@ -13250,7 +13248,7 @@
             "overlayOpacity": 0.5
           },
           "title": "&nbsp;הרצאה תתקיים בתאריך 21/06/2019 בשעה 21:00<br>&nbsp;בבית הסופר בתל אביב",
-          "text": "<b>כתובת: קפלן 6, 6473407 תל אביב, ישראל</b>",
+          "text": "<b>כתובת:&nbsp;</b>כתובת סופית תישלח לאחר הרישום לסדנה",
           "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">download now</a>",
           "alias": "spacem/components",
           "_tags": [
