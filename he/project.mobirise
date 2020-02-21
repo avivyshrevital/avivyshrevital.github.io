@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Revital-Hebrew",
-    "currentPage": "workshop-on-the-subject-of-girls-for-narcissistic-mothers.html",
+    "currentPage": "Its-just-your-imagination.html",
     "theme": {
       "name": "spacem",
       "title": "SpaceM",
@@ -18,17 +18,17 @@
         "isRoundedButtons": true
       },
       "additionalSetColors": [
+        "#efecec",
         "#15baf1",
         "#d9d9d9",
         "#3d3a3a",
         "#302c2c",
         "#f2f1f1",
-        "#fffcfc",
-        "#fff9f9"
+        "#fffcfc"
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 454,
+    "uniqCompNum": 455,
     "versionPublish": "4.11.6",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -11068,6 +11068,33 @@
               "text-align": "right"
             }
           }
+        },
+        {
+          "_params": {
+            "autoplay": true,
+            "paddingTop": 3,
+            "paddingBottom": "2",
+            "showBullets": false,
+            "bgColor": "#efecec",
+            "timeout": 5,
+            "slides": [
+              {
+                "active": true,
+                "showText": true,
+                "showTitle": false,
+                "image": "@THEME_PATH@/components/_images/header1.jpg",
+                "title": "",
+                "text": "רויטל קראתי בשבת את הספר והרגשתי שהוא מלווה אותי כמו חברה טובה. כשסיימתי התחלתי עוד פעם לקרוא אותו😊<br>נתת שם וכותרת למשהו שלא ידעתי להגדיר כול חיי ואף שידעתי שהוא לא תקין לא ידעתי איך להגדיר אותו ובכך לעשות הפרדה בינה וביני ולהבין את הפגיעה..<br><br>מרגישה שזו נקודה משמעותית בריפוי שלי."
+              }
+            ]
+          },
+          "articleLayout": false,
+          "alias": "spacem/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials1",
+          "_anchor": "testimonials1-cm"
         },
         {
           "_params": {
