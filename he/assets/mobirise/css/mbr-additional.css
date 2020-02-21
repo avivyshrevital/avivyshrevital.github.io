@@ -3381,6 +3381,9 @@ a:hover,
   border-color: #080808;
   color: #080808;
 }
+#testimonials1-cm {
+  direction: rtl;
+}
 #content4-ax {
   direction: rtl;
 }
