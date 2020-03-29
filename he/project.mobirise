@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Revital-Hebrew",
-    "currentPage": "workshop-on-the-subject-of-girls-for-narcissistic-mothers.html",
+    "currentPage": "events.html",
     "theme": {
       "name": "spacem",
       "title": "SpaceM",
@@ -28,7 +28,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 455,
+    "uniqCompNum": 458,
     "versionPublish": "4.12.2",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -43,7 +43,9 @@
     "siteFonts": [],
     "siteUrl": "undefined",
     "gdpr": "",
-    "imageResize": true
+    "imageResize": true,
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "Reviews.html": {
@@ -808,6 +810,32 @@
             }
           },
           "text": "Special Panel: The Sephardic Novel"
+        },
+        {
+          "_params": {
+            "showText": true,
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgColor": "#fff"
+          },
+          "media": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/image2.jpg"
+            },
+            "video": {
+              "src": "https://youtu.be/lK_rwThHGYw",
+              "autoplay": false,
+              "loop": false,
+              "active": true
+            }
+          },
+          "text": "",
+          "alias": "spacem/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-cp"
         },
         {
           "_params": {
