@@ -3359,11 +3359,6 @@ a:hover,
 #title4-ah SPAN {
   color: #ffffff;
 }
-#text1-cq {
-  direction: rtl;
-  height: 400px;
-  overflow-y: scroll;
-}
 #text1-cq P {
   text-align: right;
 }
