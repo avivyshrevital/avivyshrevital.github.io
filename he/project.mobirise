@@ -18,13 +18,13 @@
         "isRoundedButtons": true
       },
       "additionalSetColors": [
+        "#efefef",
         "#efecec",
         "#15baf1",
         "#d9d9d9",
         "#3d3a3a",
         "#302c2c",
-        "#f2f1f1",
-        "#fffcfc"
+        "#f2f1f1"
       ]
     },
     "versionFirst": "3.12.1",
@@ -11038,7 +11038,7 @@
             "bgImage": "@THEME_PATH@/components/_images/1.jpg",
             "parallax": false,
             "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#efefef",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
