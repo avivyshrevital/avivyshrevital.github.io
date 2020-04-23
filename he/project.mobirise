@@ -28,7 +28,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 459,
+    "uniqCompNum": 462,
     "versionPublish": "4.12.2",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -808,6 +808,32 @@
             }
           },
           "text": "Special Panel: The Sephardic Novel"
+        },
+        {
+          "_params": {
+            "showText": true,
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgColor": "#fff"
+          },
+          "media": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/image2.jpg"
+            },
+            "video": {
+              "src": "https://youtu.be/RB4IQLxQttc",
+              "autoplay": false,
+              "loop": false,
+              "active": true
+            }
+          },
+          "text": "",
+          "alias": "spacem/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-cr"
         },
         {
           "_params": {
@@ -11030,6 +11056,59 @@
         },
         {
           "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "showTitle": false,
+            "showSubtitle": true,
+            "showButtons": false,
+            "showMedia": true,
+            "imageSize": "22",
+            "inverse": false,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/header5.jpg",
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.35
+          },
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "src": "@THEME_PATH@/components/_images/info.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://youtu.be/rKyLspnPvts",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "<em>SpaceM</em> Website Builder",
+          "text": "רויטל היקרה,<br>אני מקדישה לך את השיר הזה❤️ <br>הבוקר הוא התנגן לי והמילים ממש דיברו עליך ועל העבודה החשובה שאת עושה. זלגו לי דמעות כמה קשה לי לבכות תמיד לימדו אותי לדכא ולהדחיק את הרגשות.<br><br>השנה התחלתי מסע של ריפוי יש לי עוד דרך אבל אני יכולה לאמר שאני מרגישה שנולדתי מחדש ואני לומדת להכיר את עצמי ואת הרגשות שלי כמו ילד קטן שלומד ללכת.<br><br>שבת שלום🌸🤗",
+          "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">learn more</a>",
+          "alias": "spacem/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-ct",
+          "_customCSS": "direction:rtl;",
+          "_styles": {
+            "P": {
+              "text-align": "right"
+            }
+          }
+        },
+        {
+          "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "showTitle": true,
@@ -11074,7 +11153,7 @@
             "inverse": false,
             "parallax": true,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/header5.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/header5.jpg",
             "bgColorRadio": true,
             "bgColor": "#e5e5e5",
             "bgVideoRadio": false,

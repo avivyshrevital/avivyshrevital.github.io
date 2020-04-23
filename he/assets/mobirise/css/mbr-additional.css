@@ -3359,6 +3359,12 @@ a:hover,
 #title4-ah SPAN {
   color: #ffffff;
 }
+#header3-ct {
+  direction: rtl;
+}
+#header3-ct P {
+  text-align: right;
+}
 #text1-cq P {
   text-align: right;
 }
