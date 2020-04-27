@@ -43,7 +43,9 @@
     "siteFonts": [],
     "siteUrl": "undefined",
     "gdpr": "",
-    "imageResize": true
+    "imageResize": true,
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "Reviews.html": {
@@ -11066,7 +11068,7 @@
             "inverse": false,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/header5.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/header5.jpg",
             "bgColorRadio": false,
             "bgColor": "#fff",
             "bgVideoRadio": false,
@@ -11153,7 +11155,7 @@
             "inverse": false,
             "parallax": true,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/header5.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/header5.jpg",
             "bgColorRadio": true,
             "bgColor": "#e5e5e5",
             "bgVideoRadio": false,
