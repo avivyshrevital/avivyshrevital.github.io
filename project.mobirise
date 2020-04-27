@@ -40,7 +40,9 @@
     "sitemapSwitcherAuto": "on",
     "sitemapSwitcher": "on",
     "siteFonts": [],
-    "gdpr": ""
+    "gdpr": "",
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "Reviews.html": {

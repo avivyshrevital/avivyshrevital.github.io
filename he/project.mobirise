@@ -43,9 +43,7 @@
     "siteFonts": [],
     "siteUrl": "undefined",
     "gdpr": "",
-    "imageResize": true,
-    "publishType": "local",
-    "publishPath": "@PROJECT_PATH@"
+    "imageResize": true
   },
   "pages": {
     "Reviews.html": {
@@ -11068,7 +11066,7 @@
             "inverse": false,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@THEME_PATH@/components/_images/header5.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/header5.jpg",
             "bgColorRadio": false,
             "bgColor": "#fff",
             "bgVideoRadio": false,
@@ -11155,7 +11153,7 @@
             "inverse": false,
             "parallax": true,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/header5.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/header5.jpg",
             "bgColorRadio": true,
             "bgColor": "#e5e5e5",
             "bgVideoRadio": false,
@@ -13076,7 +13074,7 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "0",
-            "showTitle": true,
+            "showTitle": false,
             "showText": false,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/1.jpg",
@@ -13186,7 +13184,7 @@
           "_name": "content4",
           "_anchor": "content4-bx",
           "_customCSS": "direction:rtl;\n.mbr-figure--full-width iframe, .mbr-figure--full-width .mbr-figure__img, .mbr-figure--full-width .mbr-figure__map {\n    width: auto;\n    height: 200px;\n}",
-          "_customHTML": "<section class=\"mbr-section--bg-adapted mbr-section--relative mbr-after-navbar\" data-rv-view=\"14\" style=\"background-color: rgb(255, 255, 255);\">\n        \n    <div id=\"contact-info\" style=\"padding-top: 0px; padding-bottom: 0px;\">\n        <div class=\"container\">\n            <div class=\"row\">\n                                      \n                 \n\n                        <div class=\"mbr-cards-col col-md-12 col-sm-12 col-xs-12\">\n                            <div class=\"team-item c-info\">\n                                <div class=\"image\">\n                                    <figure class=\"mbr-figure mbr-figure--adapted mbr-figure--caption-inside-bottom mbr-figure--full-width \"><img src=\"@PROJECT_PATH@/assets/images/rrrr-634-634x423.jpg\" class=\"mbr-figure__img\"></figure>\n                                </div>\n                                <h4 class=\"mbr-editable-content\" code-editable-id=\"46\">רויטל שירי-הורוביץ</h4>\n                                <h5 class=\"mbr-section-subtitle mbr-editable-content\" code-editable-id=\"47\">סופרת, בלוגרית ומשוררת</h5>\n                                <p class=\"mbr-editable-content\" code-editable-id=\"48\">רויטל שירי-הורוביץ היא מחברת הספר \"את מדמיינת – לגדול עם אמא נרקיסיסטית – מסע בין תובנות\" שיצא לאור ב 2018, ועוסק בתהליכי זיהוי, תובנות והחלמה של בנות לאימהות נרקיסיסטיות. שירי-הורוביץ היא דוקטורנטית באוניברסיטת אריאל המתמחה בתחום של נרקיסיזם אימהי. היא נשואה ואם לארבעה בנים.</p>\n                                \n                            </div>\n                        </div>\n\n                    </div>\n\n                </div>\n\n            </div>\n        \n    \n</section>",
+          "_customHTML": "<section class=\"mbr-section--bg-adapted mbr-section--relative mbr-after-navbar\" data-rv-view=\"14\" style=\"background-color: rgb(255, 255, 255);\">\n        \n    <div id=\"contact-info\" style=\"padding-top: 0px; padding-bottom: 0px;\">\n        <div class=\"container\">\n            <div class=\"row\">\n                                      \n                 \n\n                        <div class=\"mbr-cards-col col-md-12 col-sm-12 col-xs-12\">\n                            <div class=\"team-item c-info\">\n                                <div class=\"image\">\n                                    <figure class=\"mbr-figure mbr-figure--adapted mbr-figure--caption-inside-bottom mbr-figure--full-width \"><img src=\"@PROJECT_PATH@/assets/images/rrrr-634-634x423.jpg\" class=\"mbr-figure__img\"></figure>\n                                </div>\n                                <h4 class=\"mbr-editable-content\" code-editable-id=\"12\">רויטל שירי-הורוביץ</h4>\n                                <h5 class=\"mbr-section-subtitle mbr-editable-content\" code-editable-id=\"13\">&nbsp;מנחת סדנאות ומלווה בתהליכי החלמה מנרקיסיזם אימהי</h5>\n                                <p class=\"mbr-editable-content\" code-editable-id=\"14\">רויטל שירי-הורוביץ היא מחברת הספר \"את מדמיינת – לגדול עם אמא נרקיסיסטית – מסע בין תובנות\" שיצא לאור ב 2018, ועוסק בתהליכי זיהוי, תובנות והחלמה של בנות לאימהות נרקיסיסטיות. שירי-הורוביץ היא דוקטורנטית באוניברסיטת אריאל המתמחה בתחום של נרקיסיזם אימהי. היא נשואה ואם לארבעה בנים.</p>\n                                \n                            </div>\n                        </div>\n\n                    </div>\n\n                </div>\n\n            </div>\n        \n    \n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customTemplate": true
