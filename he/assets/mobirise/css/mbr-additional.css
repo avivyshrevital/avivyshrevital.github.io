@@ -682,19 +682,6 @@ a:hover,
   text-align: right;
   font-size: 20px;
 }
-#header1-d1 {
-  direction: rtl;
-}
-#content4-d2 {
-  direction: rtl;
-}
-#content4-d2 H4 {
-  font-size: 16px;
-}
-#content4-d2 .team-item > .image .mbr-figure__img {
-  width: 200px;
-  height: 230px;
-}
 #footer1-18 SPAN {
   color: #ffffff;
   font-size: 12px;
@@ -705,9 +692,6 @@ a:hover,
 }
 #footer1-18 H4 {
   text-align: right;
-}
-#header1-d0 {
-  direction: rtl;
 }
 
 #menu2-k .hide-buttons .nav-btn {
@@ -1196,6 +1180,19 @@ a:hover,
 }
 #menu2-4q .dropdown-item[aria-expanded="true"] {
   color: #222!important;
+}
+#header1-d3 {
+  direction: rtl;
+}
+#content4-d4 {
+  direction: rtl;
+}
+#content4-d4 H4 {
+  font-size: 16px;
+}
+#content4-d4 .team-item > .image .mbr-figure__img {
+  width: 200px;
+  height: 230px;
 }
 #footer1-18 SPAN {
   color: #ffffff;
