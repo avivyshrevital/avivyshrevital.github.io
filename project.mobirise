@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Revital-English",
-    "currentPage": "kindle-edition-books.html",
+    "currentPage": "index-old.html",
     "theme": {
       "name": "spacem",
       "title": "SpaceM",
@@ -40,7 +40,10 @@
     "sitemapSwitcherAuto": "on",
     "sitemapSwitcher": "on",
     "siteFonts": [],
-    "gdpr": ""
+    "gdpr": "",
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@",
+    "imageResize": true
   },
   "pages": {
     "Reviews.html": {
