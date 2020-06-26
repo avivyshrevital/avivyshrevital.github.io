@@ -544,6 +544,49 @@ a:hover,
 .panel.active .panel-heading a span:after {
   background: #d901ed;
 }
+#title4-cy SPAN {
+  color: #ffffff;
+}
+#testimonials1-d {
+  direction: rtl;
+}
+#testimonials1-d P {
+  font-size: 16px;
+}
+#testimonials1-d H5 {
+  text-align: center;
+}
+#header3-cw {
+  direction: rtl;
+}
+#header3-cw P {
+  text-align: right;
+}
+#header3-cv {
+  direction: rtl;
+}
+#header3-cv EM {
+  font-size: 32px;
+}
+#header3-cv H1 {
+  font-size: 32px;
+  text-align: right;
+}
+#header3-cv SPAN {
+  color: #000000;
+}
+#header3-cv P {
+  color: #000000;
+  text-align: right;
+}
+#header3-cv .btn-primary {
+  background-color: transparent;
+  border-color: #080808;
+  color: #080808;
+}
+#testimonials1-cz {
+  direction: rtl;
+}
 #menu2-b .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -632,14 +675,25 @@ a:hover,
   line-height: 20px;
   border-left: 1px solid rgba(255, 255, 255, 0.1);
 }
-#testimonials1-d {
+#text1-cu P {
+  text-align: right;
+}
+#text1-cu H3 {
+  text-align: right;
+  font-size: 20px;
+}
+#header1-d1 {
   direction: rtl;
 }
-#testimonials1-d P {
+#content4-d2 {
+  direction: rtl;
+}
+#content4-d2 H4 {
   font-size: 16px;
 }
-#testimonials1-d H5 {
-  text-align: center;
+#content4-d2 .team-item > .image .mbr-figure__img {
+  width: 200px;
+  height: 230px;
 }
 #footer1-18 SPAN {
   color: #ffffff;
@@ -651,6 +705,9 @@ a:hover,
 }
 #footer1-18 H4 {
   text-align: right;
+}
+#header1-d0 {
+  direction: rtl;
 }
 
 #menu2-k .hide-buttons .nav-btn {
@@ -911,19 +968,6 @@ a:hover,
 #contacts1-u {
   direction: rtl;
 }
-#image1-9x {
-  background-color: #e5e5e5;
-}
-#news2-8i H3 {
-  font-size: 25px;
-  text-align: left;
-}
-#news2-8i P {
-  text-align: left;
-}
-#news2-8i SPAN {
-  text-align: right;
-}
 #footer1-18 SPAN {
   color: #ffffff;
   font-size: 12px;
@@ -936,9 +980,6 @@ a:hover,
   text-align: right;
 }
 
-#header1-9s {
-  direction: rtl;
-}
 #content4-97 {
   direction: rtl;
 }
@@ -3358,44 +3399,6 @@ a:hover,
 }
 #title4-ah SPAN {
   color: #ffffff;
-}
-#header3-ct {
-  direction: rtl;
-}
-#header3-ct P {
-  text-align: right;
-}
-#text1-cq P {
-  text-align: right;
-}
-#text1-cq H3 {
-  text-align: right;
-  font-size: 20px;
-}
-#header3-c2 {
-  direction: rtl;
-}
-#header3-c2 EM {
-  font-size: 32px;
-}
-#header3-c2 H1 {
-  font-size: 32px;
-  text-align: right;
-}
-#header3-c2 SPAN {
-  color: #000000;
-}
-#header3-c2 P {
-  color: #000000;
-  text-align: right;
-}
-#header3-c2 .btn-primary {
-  background-color: transparent;
-  border-color: #080808;
-  color: #080808;
-}
-#testimonials1-cm {
-  direction: rtl;
 }
 #content4-ax {
   direction: rtl;
