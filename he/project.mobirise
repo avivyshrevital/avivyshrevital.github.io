@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Revital-Hebrew",
-    "currentPage": "biography.html",
+    "currentPage": "events.html",
     "theme": {
       "name": "spacem",
       "title": "SpaceM",
@@ -28,7 +28,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 473,
+    "uniqCompNum": 474,
     "versionPublish": "4.12.2",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -1029,6 +1029,32 @@
             }
           },
           "text": "Special Panel: The Sephardic Novel"
+        },
+        {
+          "_params": {
+            "showText": true,
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgColor": "#fff"
+          },
+          "media": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/image2.jpg"
+            },
+            "video": {
+              "src": "https://youtu.be/iFBUq0XgARA",
+              "autoplay": false,
+              "loop": false,
+              "active": true
+            }
+          },
+          "text": "",
+          "alias": "spacem/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-d5"
         },
         {
           "_params": {
