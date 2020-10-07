@@ -12889,7 +12889,8 @@
     "workshop-on-the-subject-of-girls-for-narcissistic-mothers.html": {
       "settings": {
         "title": "סדנא-למתחילים",
-        "order": 2
+        "order": 2,
+        "meta_image": "@PROJECT_PATH@/assets/images/%D7%90%D7%AA%20%D7%9E%D7%93%D7%9E%D7%99%D7%99%D7%A0%D7%AA-319x499.jpg"
       },
       "components": [
         {
