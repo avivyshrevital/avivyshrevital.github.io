@@ -12891,7 +12891,7 @@
     },
     "workshop-on-the-subject-of-girls-for-narcissistic-mothers.html": {
       "settings": {
-        "title": "סדנא-למתחילים",
+        "title": "סדנת מתחילות",
         "order": 2,
         "header_custom": "<meta property=\"og:image\" content=\"https://revital-sh.com/he/assets/images/workshop-on-the-subject-of-girls-for-narcissistic-mothers-meta.jpg\">"
       },
@@ -13190,7 +13190,7 @@
           "_name": "content4",
           "_anchor": "content4-bx",
           "_customCSS": "direction:rtl;\n.mbr-figure--full-width iframe, .mbr-figure--full-width .mbr-figure__img, .mbr-figure--full-width .mbr-figure__map {\n    width: auto;\n    height: 200px;\n}",
-          "_customHTML": "<section class=\"mbr-section--bg-adapted mbr-section--relative mbr-after-navbar\" data-rv-view=\"14\" style=\"background-color: rgb(255, 255, 255);\">\n        \n    <div id=\"contact-info\" style=\"padding-top: 0px; padding-bottom: 0px;\">\n        <div class=\"container\">\n            <div class=\"row\">\n                                      \n                 \n\n                        <div class=\"mbr-cards-col col-md-12 col-sm-12 col-xs-12\">\n                            <div class=\"team-item c-info\">\n                                <div class=\"image\">\n                                    <figure class=\"mbr-figure mbr-figure--adapted mbr-figure--caption-inside-bottom mbr-figure--full-width \"><img src=\"@PROJECT_PATH@/assets/images/rrrr-634-634x423.jpg\" class=\"mbr-figure__img\"></figure>\n                                </div>\n                                <h4 class=\"mbr-editable-content\" code-editable-id=\"12\">רויטל שירי-הורוביץ</h4>\n                                <h5 class=\"mbr-section-subtitle mbr-editable-content\" code-editable-id=\"13\">&nbsp;מנחת סדנאות ומלווה בתהליכי החלמה מנרקיסיזם אימהי</h5>\n                                <p class=\"mbr-editable-content\" code-editable-id=\"14\">רויטל שירי-הורוביץ היא מחברת הספר \"את מדמיינת – לגדול עם אמא נרקיסיסטית – מסע בין תובנות\" שיצא לאור ב 2018, ועוסק בתהליכי זיהוי, תובנות והחלמה של בנות לאימהות נרקיסיסטיות. שירי-הורוביץ היא דוקטורנטית באוניברסיטת אריאל המתמחה בתחום של נרקיסיזם אימהי. היא נשואה ואם לארבעה בנים.</p>\n                                \n                            </div>\n                        </div>\n\n                    </div>\n\n                </div>\n\n            </div>\n        \n    \n</section>",
+          "_customHTML": "<section class=\"mbr-section--bg-adapted mbr-section--relative mbr-after-navbar\" data-rv-view=\"14\" style=\"background-color: rgb(255, 255, 255);\">\n        \n    <div id=\"contact-info\" style=\"padding-top: 0px; padding-bottom: 0px;\">\n        <div class=\"container\">\n            <div class=\"row\">\n                                      \n                 \n\n                        <div class=\"mbr-cards-col col-md-12 col-sm-12 col-xs-12\">\n                            <div class=\"team-item c-info\">\n                                <div class=\"image\">\n                                    <figure class=\"mbr-figure mbr-figure--adapted mbr-figure--caption-inside-bottom mbr-figure--full-width \"><img src=\"@PROJECT_PATH@/assets/images/rrrr-634-634x423.jpg\" class=\"mbr-figure__img\"></figure>\n                                </div>\n                                <h4 class=\"mbr-editable-content\" code-editable-id=\"206\">רויטל שירי-הורוביץ</h4>\n                                <h5 class=\"mbr-section-subtitle mbr-editable-content\" code-editable-id=\"207\">&nbsp;מנחת סדנאות ומלווה בתהליכי החלמה מנרקיסיזם אימהי</h5>\n                                <p class=\"mbr-editable-content\" code-editable-id=\"208\">רויטל שירי-הורוביץ היא מחברת הספר \"את מדמיינת – לגדול עם אמא נרקיסיסטית – מסע בין תובנות\" שיצא לאור ב 2018, ועוסק בתהליכי זיהוי, תובנות והחלמה של בנות לאימהות נרקיסיסטיות. שירי-הורוביץ היא דוקטורנטית באוניברסיטת אריאל המתמחה בתחום של נרקיסיזם אימהי. היא נשואה ואם לארבעה בנים.</p>\n                                \n                            </div>\n                        </div>\n\n                    </div>\n\n                </div>\n\n            </div>\n        \n    \n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customTemplate": true
@@ -13377,8 +13377,8 @@
             "overlayOpacity": 0.5
           },
           "title1": "תשלום PayPal למתקדמות",
-          "title2": "תשלום PayPal למתחילות",
-          "title3": "תשלום PAYBOX למתקדמות",
+          "title2": "תשלום PayPal",
+          "title3": "תשלום PAYBOX",
           "title4": "תשלום PAYBOX למתחילות",
           "subtitle1": "Description",
           "subtitle2": "Description",
