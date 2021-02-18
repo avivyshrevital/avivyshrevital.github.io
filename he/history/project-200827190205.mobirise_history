@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Revital-Hebrew",
-    "currentPage": "how-to-hunt-a-bear.html",
+    "currentPage": "Its-just-your-imagination.html",
     "theme": {
       "name": "spacem",
       "title": "SpaceM",
@@ -18,17 +18,17 @@
         "isRoundedButtons": true
       },
       "additionalSetColors": [
-        "#353434",
-        "#efefef",
         "#efecec",
         "#15baf1",
         "#d9d9d9",
         "#3d3a3a",
-        "#302c2c"
+        "#302c2c",
+        "#f2f1f1",
+        "#fffcfc"
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 481,
+    "uniqCompNum": 455,
     "versionPublish": "4.11.6",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -36,62 +36,120 @@
     "noImageResize": "",
     "scrollAnimation": "",
     "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-68481839-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>\r\n<script>\r\nnl_lang = \"he\";\r\nnl_pos = \"tl\";\r\nnl_link = \"0\";\r\nnl_color = \"blue\";\r\nnl_compact = \"0\";\r\nnl_accordion = \"0\";\r\n</script>\r\n<script type=\"text/javascript\" charset=\"utf-8\" src=\"https://res.cloudinary.com/dy6m1ea3g/raw/upload/v1551963340/js/nagishli.js\" defer></script>",
-    "cookiesAlert": false,
+    "cookiesAlert": "",
     "mcShopcart": {
       "email": "horov@msn.com"
     },
     "siteFonts": [],
     "siteUrl": "undefined",
-    "gdpr": false,
-    "imageResize": true,
-    "robotsSwitcher": false,
-    "sitemapSwitcher": false,
-    "sitemapSwitcherAuto": false
+    "gdpr": "",
+    "publishType": "local",
+    "publishPath": "file:///Users/avivyeshua/code/private/avivyshrevital.github.io/he"
   },
   "pages": {
     "Reviews.html": {
       "settings": {
-        "order": 6,
+        "order": 5,
         "title": "Revital Shiri-Horowitz | Reviews"
       },
       "components": [
         {
-          "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "1",
-            "showTitle": true,
-            "showSeparator": false,
-            "showSubtitle": false,
-            "showText": false,
-            "showButtons": false,
-            "parallax": false,
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
-            "bgColorRadio": true,
-            "bgColor": "#353434",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
             },
-            "overlay": true,
-            "overlayColor": "#151515",
-            "overlayOpacity": 0.75
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-family": "'Lato', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.9rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.975rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "#fff"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#080808"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#1a1a1a!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#222"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".navbar-toggler i, .navbar-toggler em, .navbar-toggler i:before, .navbar-toggler em:before, .navbar-toggler i:after, .navbar-toggler em:after": {
+              "background": "#ffffff"
+            },
+            ".navbar-toggler[aria-expanded=\"true\"] i, .navbar-toggler[aria-expanded=\"true\"] em": {
+              "background": "transparent"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "#fff"
+            },
+            ".link[aria-expanded=\"true\"]": {
+              "color": "#fff!important"
+            },
+            ".dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#222!important"
+            }
           },
-          "title": "<span style=\"font-weight: normal;\"><i>ביקורות</i></span>",
-          "subtitle": "Subtitle",
-          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione quis quidem laboriosam, enim rem nobis ab laudantium. Aliquam, ipsum, impedit accusantium ex cum facilis ut tempora vero nesciunt mollitia ullam, quisquam quia cupiditate esse repudiandae. Vero nisi velit sint minima et adipisci culpa iusto ea obcaecati! Voluptatibus consectetur nulla, asperiores.",
-          "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-black\" role=\"button\">learn more</a>",
           "alias": "spacem/components",
           "_tags": [
             "Theme"
           ],
-          "_name": "title4",
-          "_styles": {
-            "SPAN": {
-              "color": "#ffffff"
+          "_name": "menu2",
+          "_customCSS": ".top-menu-link a {\n    color: #0960f4;\n    vertical-align: middle;\n    font-size: 14px;\n    font-family: 'Raleway', sans-serif;\n    /* color: rgba(117, 105, 249, 0.7); */\n    position: relative;\n    display: inline-block;\n    padding: 0px 20px;\n    line-height: 20px;\n    border-left: 1px solid rgba(255,255,255,0.1);\n}",
+          "_anchor": "menu2-b",
+          "_params": {
+            "logo": true,
+            "sticky": true,
+            "transparent": false,
+            "bgColor": "#222",
+            "fontSize": "0.9",
+            "fontName": {
+              "name": "Lato",
+              "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "css": "'Lato', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "#fff",
+            "fontActiveColor": "#222"
+          },
+          "contacts": "<a data-app-btn=\"true\" href=\"mailto:revital@revital-sh.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\" class=\"\"><span class=\"fa fa-envelope-o mbr-iconfont mbr-iconfont-btn\"></span>revital@revital-sh.com</a>",
+          "icons": " <a data-app-btn=\"true\" title=\"Facebook\" target=\"_blank\" href=\"https://m.facebook.com/Revital-Shiri-Horowitz-108002329286503/\" data-toolbar=\"-mbrFonts,-mbrFontSize\" class=\"\"><span class=\"fa fa-facebook-square mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(9, 96, 244);\"></span></a> <a data-app-btn=\"true\" title=\"Facebook\" target=\"_blank\" href=\"https://twitter.com/RevitalHorowitz\" data-toolbar=\"-mbrFonts,-mbrFontSize\" class=\"\"><span class=\"fa fa-twitter-square mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(9, 96, 244);\"></span></a>     ",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/revital-logo-1243x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
-          "_anchor": "title4-cy"
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://revital-sh.com/index.html\">english</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"workshop-on-the-subject-of-girls-for-narcissistic-mothers.html\">סדנאות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"articles.html\">ראיונות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"interviews.html\">אחד על אחד</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://cafe.themarker.com/blog/353435/\" target=\"_blank\">בלוג</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">צור קשר</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Reviews.html\">ביקורות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"events.html\">גלריה</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"biography.html\">ביוגרפיה</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ספרים</a></li>"
         },
         {
           "alias": "spacem/components",
@@ -110,8 +168,8 @@
           "_customCSS": "direction:rtl;",
           "_params": {
             "autoplay": true,
-            "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingTop": "4",
+            "paddingBottom": 3,
             "showBullets": true,
             "bgColor": "#e0e0e0",
             "timeout": "7",
@@ -226,287 +284,6 @@
           "articleLayout": false
         },
         {
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "showTitle": false,
-            "showSubtitle": true,
-            "showButtons": false,
-            "showMedia": true,
-            "imageSize": "22",
-            "inverse": false,
-            "parallax": true,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/header5.jpg",
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#151515",
-            "overlayOpacity": 0.35
-          },
-          "media": {
-            "image": {
-              "class": "mbr-figure__img",
-              "src": "@THEME_PATH@/components/_images/info.jpg"
-            },
-            "video": {
-              "active": true,
-              "src": "https://youtu.be/rKyLspnPvts",
-              "class": "mbr-figure__img",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            }
-          },
-          "title": "<em>SpaceM</em> Website Builder",
-          "text": "רויטל היקרה,<br>אני מקדישה לך את השיר הזה❤️ <br>הבוקר הוא התנגן לי והמילים ממש דיברו עליך ועל העבודה החשובה שאת עושה. זלגו לי דמעות כמה קשה לי לבכות תמיד לימדו אותי לדכא ולהדחיק את הרגשות.<br><br>השנה התחלתי מסע של ריפוי יש לי עוד דרך אבל אני יכולה לאמר שאני מרגישה שנולדתי מחדש ואני לומדת להכיר את עצמי ואת הרגשות שלי כמו ילד קטן שלומד ללכת.<br><br>שבת שלום🌸🤗",
-          "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">learn more</a>",
-          "alias": "spacem/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_styles": {
-            "P": {
-              "text-align": "right"
-            }
-          },
-          "_customCSS": "direction:rtl;",
-          "_anchor": "header3-cw"
-        },
-        {
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "showTitle": true,
-            "showSubtitle": true,
-            "showButtons": true,
-            "showMedia": true,
-            "imageSize": "15",
-            "inverse": false,
-            "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/header5.jpg",
-            "bgColorRadio": true,
-            "bgColor": "#e5e5e5",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#151515",
-            "overlayOpacity": 0.35
-          },
-          "media": {
-            "image": {
-              "class": "mbr-figure__img",
-              "src": "@PROJECT_PATH@/assets/images/logo-at.svg",
-              "link": "https://www.atmag.co.il/",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": true,
-              "active": true
-            },
-            "video": {
-              "src": "https://www.youtube.com/watch?v=axMabrSDrI8",
-              "class": "mbr-figure__img",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            }
-          },
-          "title": "<span style=\"font-weight: normal;\">לגדול עם אימא נרקיסיסטית: \"הייתי מרעיבה את עצמי כדי לזכות ממנה במילה טובה\"</span>",
-          "text": "הסופרת רויטל שירי־הורוביץ בטוחה שהשתיקה יותר קשה מהחשיפה. זו הסיבה שהספר שלה \"את מדמיינת\", מסע נפשי אישי, אמיץ וכואב של מי שגדלה לאימא נרקיסיסטית, הפך בסופו של דבר לנחלת הכלל. הצורך לפרוק את כובד הקשיים שחוותה לאורך השנים, הוא רק סיבה אחת מבחינתה להוצאת הספר. \"הספר נכתב כדי לדבר על אימהות נרקיסיסטיות ועל בנות לאימהות כאלה ולעזור לאותן בנות להבין שהן בסדר, זה לא אתן – זה האימהות שלכן, ומה שאתן מרגישות וחוות לאורך השנים הוא אמיתי, אתן לא חריגות ואתן לא לבד\".",
-          "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">להמשך קריאה</a>",
-          "alias": "spacem/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_styles": {
-            "EM": {
-              "font-size": "32px"
-            },
-            "H1": {
-              "font-size": "32px",
-              "text-align": "right"
-            },
-            "SPAN": {
-              "color": "#000000"
-            },
-            "P": {
-              "color": "#000000",
-              "text-align": "right"
-            }
-          },
-          "_customCSS": "direction:rtl;\n.btn-primary {\n    background-color: transparent;\n    border-color: #080808;\n    color: #080808;\n}",
-          "_anchor": "header3-cv"
-        },
-        {
-          "_params": {
-            "autoplay": true,
-            "paddingTop": 3,
-            "paddingBottom": "2",
-            "showBullets": false,
-            "bgColor": "#ffffff",
-            "timeout": 5,
-            "slides": [
-              {
-                "active": true,
-                "showText": true,
-                "showTitle": false,
-                "image": "@THEME_PATH@/components/_images/header1.jpg",
-                "title": "",
-                "text": "רויטל קראתי בשבת את הספר והרגשתי שהוא מלווה אותי כמו חברה טובה. כשסיימתי התחלתי עוד פעם לקרוא אותו😊<br>נתת שם וכותרת למשהו שלא ידעתי להגדיר כול חיי ואף שידעתי שהוא לא תקין לא ידעתי איך להגדיר אותו ובכך לעשות הפרדה בינה וביני ולהבין את הפגיעה..<br><br>מרגישה שזו נקודה משמעותית בריפוי שלי."
-              }
-            ]
-          },
-          "articleLayout": false,
-          "alias": "spacem/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "testimonials1",
-          "_customCSS": "direction:rtl;",
-          "_anchor": "testimonials1-cz"
-        },
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
-              "font-family": "'Lato', sans-serif"
-            },
-            ".link": {
-              "font-size": "0.9rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.975rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "#fff"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#080808"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#1a1a1a!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#222"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".navbar-toggler i, .navbar-toggler em, .navbar-toggler i:before, .navbar-toggler em:before, .navbar-toggler i:after, .navbar-toggler em:after": {
-              "background": "#ffffff"
-            },
-            ".navbar-toggler[aria-expanded=\"true\"] i, .navbar-toggler[aria-expanded=\"true\"] em": {
-              "background": "transparent"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "#fff"
-            },
-            ".link[aria-expanded=\"true\"]": {
-              "color": "#fff!important"
-            },
-            ".dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#222!important"
-            }
-          },
-          "alias": "spacem/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "menu2",
-          "_customCSS": ".top-menu-link a {\n    color: #0960f4;\n    vertical-align: middle;\n    font-size: 14px;\n    font-family: 'Raleway', sans-serif;\n    /* color: rgba(117, 105, 249, 0.7); */\n    position: relative;\n    display: inline-block;\n    padding: 0px 20px;\n    line-height: 20px;\n    border-left: 1px solid rgba(255,255,255,0.1);\n}",
-          "_anchor": "menu2-b",
-          "_params": {
-            "logo": true,
-            "sticky": true,
-            "transparent": false,
-            "bgColor": "#222",
-            "fontSize": "0.9",
-            "fontName": {
-              "name": "Lato",
-              "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
-              "css": "'Lato', sans-serif"
-            },
-            "fontColor": "#ffffff",
-            "fontHoverColor": "#fff",
-            "fontActiveColor": "#222"
-          },
-          "contacts": "<a data-app-btn=\"true\" href=\"mailto:revital@revital-sh.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\" class=\"\"><span class=\"fa fa-envelope-o mbr-iconfont mbr-iconfont-btn\"></span>revital@revital-sh.com</a>",
-          "icons": " <a data-app-btn=\"true\" title=\"Facebook\" target=\"_blank\" href=\"https://m.facebook.com/Revital-Shiri-Horowitz-108002329286503/\" data-toolbar=\"-mbrFonts,-mbrFontSize\" class=\"\"><span class=\"fa fa-facebook-square mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(9, 96, 244);\"></span></a> <a data-app-btn=\"true\" title=\"Facebook\" target=\"_blank\" href=\"https://twitter.com/RevitalHorowitz\" data-toolbar=\"-mbrFonts,-mbrFontSize\" class=\"\"><span class=\"fa fa-twitter-square mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(9, 96, 244);\"></span></a>     ",
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/revital-logo-1243x128.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "index.html",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://revital-sh.com/index.html\">english</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"workshop-on-the-subject-of-girls-for-narcissistic-mothers.html\">סדנאות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"articles.html\">ראיונות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"interviews.html\">אחד על אחד</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://cafe.themarker.com/blog/353435/\" target=\"_blank\">בלוג</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">צור קשר</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Reviews.html\">ביקורות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"events.html\">גלריה</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"biography.html\">ביוגרפיה</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ספרים</a></li>"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "showTitle": true,
-            "showText": true,
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
-            "parallax": false,
-            "bgColorRadio": true,
-            "bgColor": "#efefef",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#151515",
-            "overlayOpacity": 0.5
-          },
-          "title": "גילוי נאות רויטל ואני הכרנו לפני כחמש שנים דרך קבוצה משותפת בפייסבוק , ניפגשנו מספר פעמים והתוודעתי לכתיבתה.",
-          "text": "קראתי וסקרתי את ספרה הניפלא ׳בת עיראק׳ ומצאתי לכל אורכו ניצוצות רבים של אומץ ספרותי , יכולת תיאורית מצויינת, בידול דמויות ראוי והנעת עלילה בציר זמנים ביד אמונה.<br>על כן, שמחתי כשסיפרה לי רויטל שהיא כותבת ספר חדש ומעט הופתעתי כשאמרה שהפעם היא בוחרת שלא לכתוב רומן קלאסי, אלא מעין מסע עצמי, פרטי מאוד, חושפני מאוד, של מערכת יחסיה עם אמה.<br>הבנתי מהסופרת שיהיו שזורים בו מוטיבים של סיפורי חיים כזכרונות/ אירועים מעצבי אישיות אדם, אך לא כחלק מעלילה כוללת אלא כתהליך הדגמה, הסברה, ראיה חוקרת, שיתוף ותובנות הקשורים כולם לתופעת ילדותה ובגרותה בצל מה שמכונה: ״אמא נרקיסיסטית״.<br>תהיתי כיצד יראה ספר שכזה, וחשבתי, בפרט לאור מצויינות הרומן ׳בת עיראק׳, שאולי חבל שהסופרת בחרה שלא יהיה זה רומן.<br>אשאיר את התשובה לתהייתי זו פתוחה כעת, ובסוף סקירתי אשוב ואתייחס לנושא.<br>בראשית, לא הבנתי כיצד המונח נרקיסיזם יכול בכלל להתמזג אל תוך מהותה של האימהות.<br>הפער ניראה לי כה ענק ואפילו בלתי נתפס.<br>כיצד יכולה אם להעמיד עצמה באופן טוטאלי לפני ילדיה ולנתב את מערכת יחסיה עימם רק סביב הפריזמה של מה משרת את האינטרסים שלה?<br>נתקלתי כבר באנשים בעלי גוונים מובהקים של הימצאות על ספקטרום האהבה העצמית המופרזת, כאלו שבבואתם הנישקפת להם היא מרכז מהותם.<br>לא הרבה כאלו, אבל פגשתי בהם.<br>למשל-<br>אדם שיכול לספר לי בשיחה ביננו, על שלל ענייניו ובעיותיו וכאשר הוא שומע ממני בחצי מילה (שהשחלתי בין כל דיבורו השוטף) על בעיה או אתגר מהותי שאני חווה בחיי, הוא לא מגלה אמפתיה או עניין , שומע אך לא מקשיב, ומייד שב ומבקש את מלוא הקשב שלי לענייניו שלו אותם הוא חולק בתאווה גדולה.<br>או אדם שאני מזהה שרצונו בקשר עימי תלוי בדבר , תלוי בפעולות שאעשה או דברים שאגיד שיגרמו לקידום תועלתו או מטרתו.<br><br>בספרה, מנתחת הסופרת את מאפייני האישיות הנרקיסיסטית ואכן שני דפוסים התנהגותיים אלו, מוסברים באופן ברור ביותר על ידה דרך שימוש אמיץ בהדגמות שהיא עושה בפיסות חייה הפרטיים ביותר.<br><br>אז יש אנשים נרקיסיסטים, ברור לי, ואני מנסה לזהות זאת ולהימנע מהם ככל שאוכל.<br>אבל אמא נרקיסיסטית? הייתכן הדבר?<br>במילותיה של הסופרת:<br>״ילדיה של אשה כזאת לא קיימים כישות נפרדת. הם חלק ממנה , ולכן יש לה זכות מלאה להפעילם ולכוון אותם לקיום צרכיה שלה. בלעדיה, אין להם קיום״ ( עמ 11).<br>זה נשמע לי מוזר, לא הצלחתי להכיל את האפשרות הזו.<br>עבורי, ואולי יישמעו הדברים קלישאתיים משהו, אך יהי כך, ״אמא״ היא מילה נרדפת לאהבה, הכלה ונתינה שנעים במינעד ותוכן שהם אינסופיים ואינם תלויים בדבר.<br>אין זו אוטופיה או נאיביות.<br>יחסי אמהות וילדיהן יכולים בהחלט להיות רצופי מהמורות, כעסים, אכזבות , עצבים ועוד, אל כל אלו עדיין אינם הופכים את האם לאישיות שבאופן מוחלט, שיטתי, מובהק וחד משמעית מודע , בוחרת להגחיך, לעיתים להשפיל, לנצל ולצרוב במילותיה באורח קבוע את ילדיה.<br>כאן מדובר במשהו אחר שלא ידעתי על קיומו: מערכת שלמה של מילים והתנהגויות שטווה האם הנרקיסיסטית, שמטרתה השרשת דימוי עצמי נמוך, חוסר בטחון ובעיקר, לפי הבנתי את הניתוח שמבצעת הסופרת לתופעה, לבנות אצל הילד תחושת היזדקקות מוחלטת לדמותה, לגרום לילד לחוש שאין לו זכות קיום עצמאית מבלעדיה ומבלי לשרת את רצונותיה.<br><br>הספר שזור במילים שכאלו שכאילו נורו מפי האם היישר לליבה ומוחה הצעירים והמתהווים של הסופרת, חדרו ונשארו שם.<br><br>״היא הביטה בי בגועל ואמרה: אי אפשר כבר עם הגוף שלך, את חייבת לעשות איתו משהו״<br><br>״היו מקרים רבים שבהם הצלחות שלי לא זכו לשום ציון...חגיגות ימי הולדת לא נחגגו...״<br><br>״כשהגיעה וראתה שאינני ברשימת הסטודנטים המצטיינים שאלה בכעס מדוע לא סיימתי בהצטיינות...״<br><br>״את דומה למשפחה של אבא, לא לי. קבלת את השוקיים של הדודות שלך״<br>״מגיל צעיר ניסתה ללמד אותי להקיא ( ואחר כך ניסתה בהיחבא ללמד את בני) אחרי ארוחות גדולות..״<br>וכך, בתחושה של השתאות, פרק אחר פרק במסעה הפרטי של הסופרת, עקבתי אחר מודל אימהי זר וחדש לי.<br>במהלך הקריאה גם עמדתי על טיבו של ההבדל הניכר בין ׳מריבות מערכות יחסים טעונות׳ אך בעלות גוון הגיוני מסויים בין אם לילדתה, לבין מערכת היחסים שמגיעה ממחוזות נרקיסיסטיים אותה מנתחת הסופרת.<br>ההדגמות המפורטות בדיוק במידה הראויה , התיאור המלא והריאלי של הסצנות , ותהליך ההכרה וההשלמה שחוותה הסופרת ( אותו היא מקבילה באופן מאוד ייחודי לתהליכים החווים אנשים שנמצאים באבל) , הם שהבהירו לי את ההבדל.<br><br>איך יכול ילד להתמודד עם התופעה, איך הוא יכול לבחור אם לספוג ולשתוק תמיד או להתריס, להתנגד לשאול מדוע<br>ואז לקבל את התשובה:<br>זה רק בראש שלך, ״את מדמיינת״ , לא היה ולא נברא...<br>ואיך יכול ילד, עם התבגרותו, לצאת לסוג של מסע אישי ותובנות, להבין, לקבל, להשלים ולעצב את חייו שלו - קשריו החברתיים, זוגיותו והיותו הורה בעצמו , לאור החוויה שחווה וכעת הוא יכול לכנותה בשם- כבן או בת לאם נרקיסיסטית?<br><br>ולאן יתעל את אותן תובנות?<br>הסופרת מספרת בגילוי לב ובאורח שמצאתי מרגש , איך בחרה או יותר נכון יועדה, ללכת עם הדימיון אל מחוזות הכתיבה.<br>לא בכדי היא סופרת, זהו יעוד מרפא עבורה.<br>את כוחו של הדמיון, אליו ברחה ועל כנפיו עפה בימים הסער של ההשפלות ההן, היא הפכה לנתיב מרכזי בחייה .<br>כשם שידעה לחלום על משפחות אחרות ועל קשרי אמהות/ בנות אחרים , כך היא שיכללה את הדימיון לכלי אישי על מנת לספר, לתאר ולהביא עולמות חדשים אלינו ואל עצמה.<br>באומץ, בחדות, בלי שמץ של נסיון התנחמדות, מניחה הסופרת לפנינו את הסוגיות השורשיות שעימם היא מתמודדת:<br>מהי חברות?<br>האם באמת ייתכן שיש לי חברים שפשוט אוהבים אותי כי אני, אני?<br>האם מערכות יחסים יכולות להיות חפות מאינטרסים תמידיים?<br>כיצד אוכל לשבור את ׳שושלת הנרקיסיסטיות׳ ( תופעת העברת מודל האימהות הנרקיסיסטית מאם לבת ברצף, שגם אותה מנתחת הסופרת באורח מרתק)<br>כיצד אבנה זוגיות נטולת חשד ובנויה מיסודות של אהבה שיש בה אמת?<br>איך אהיה אם קשובה לילדי שלי, איך אמנע מצל צילן של התנהגויות מהן כה סבלתי?<br><br>מילה על אומץ פרוזאי:<br><br>סופרת ישראלית שספריה עבורי היו ועדיין השראה גדולה של אומץ כתיבתי, אמרה לי כשיצא האומן הראשון שלי לאור, משפטים שתובנותיהם שנחקקו בי:<br>סופר/ת יכול/ה לבחור להישאר ״נעים/ה וקולח/ת״, וכוווולם יאהבו את המילים שלו/ה וימהרו לרכוש את ספריו/ה , וזה בסדר גמור. אבל זהו לא אומץ כתיבתי, זו בחירה להישאר בעורף המוגן. האומץ מצוי כאשר בוחרים לחצות את ׳קווי האוייב׳ בכתיבתך, לכתוב בלי לחשוב איך יתקבלו הדברים, מי יאהב ומי יכעס, ומי יגיד מה, פשוט לכתוב את כל כולך״<br><br>בספרה ״את מדמיינת״ הסופרת רויטל שירי הורוביץ חוצה גם חוצה את אותם ׳קווי אוייב׳.<br>היא לא עוצרת לרגע בתחושה או פחד של ״אולי יהיו רבים, כולל אימא שלי , שלא יאהבו את אמירותי?״<br>היא אינה מבקשת לפגוע באיש, היא מצהירה על כך פעמים לא מעטות בספר, והיא גם משתדלת באופן שיש להעריכו, לנסות לשקף מצבים גם מהיבטים שנראים כחיוביים ונכחו ביחסיה עם אמה, וכתיבתה אינה בבחינת שחור ולבן. הסופרת בהחלט יודעת להצביע גם על גוונים.<br>אך באותה נשימה, היא משרטטת מערכת יחסים מורכבת ביותר, קשה לעיכול ...<br>ניכר, לפחות לתחושתי, שכאשר כתבה את הדברים, חשבה הסופרת פחות על עצמה כמי שעוברת ריפוי פרטי דרך הכתיבה ( אם כי בהחלט חשתי שעצם הכתיבה היה בה צעד תראפויטי עבור הסופרת וזה לגיטימי מאוד) אלא חשבה יותר על גברים ונשים אחרים שחוו וחווים את אותם מצבים, אך אינם יודעים לכנות זאת במונחים המתאימים ולצאת מההכרה במצב לשלב התובנות מהמצב.<br>ניכר היה עוד, שאת תהליך הטיפול וההכרה בכל אשר שעברה ( ותמיד תעבור, אני מניח) הסופרת, ואת הצלחתה לנתב את חייה למחוזות שנבנו היטב בתוכן ועשייה הממלאים אותה כיום בחדווה, היא מבקשת לשתף עימנו בבחינת העברת מסר אופטימי :<br>יש תהליך שאפשר לעבור, יש עתיד שעוד אפשר ליצור.<br>וכעת אידרש לתהייה שהשארתי פתוחה בראשית סקירתי.<br>״את מדמיינת״ הוא ספר אחר.<br>הוא לא רומן- אך הוא מסע חיים.<br>הוא לא ספר תיעודי או מסמך פסיכולוגי - אך הוא מנומק ומוסבר ברמה המכבדת מאוד מסמך חוקר<br>אלו מילים שנכתבו באותיות של הלב.<br>שנים ארוכות שהו המילים בפינות רבות של נשמת הסופרת.<br>כמו מעיין ניסתר בסלע שמגיע יומו לראות אור, כך פרצו הסיפורים, התחושות, התהליך,התובנות ..<br>והיצירה שלפנינו היא שילוב מיוחד במינו, נגיעות של סוגות.<br>היצירה הזו היא התהוות חדשנית,עבורי, של מדריך ספרותי עמוק שפהמגיע מה״בפנוכו” של חיי הסופרת, מדריך ספרותי שמטרתו למקם עבורנו תופעה של אימהות נרקיסיסטית, לכנות אותה בשם ברור עד מחקרי, לצלול לקרביה ולהציע על סמך נסיון חיים, נפילות וקימות, כיצד להיבנות ולחיות עימה.<br>זהו ספר חשוב שיכול להכיר ולהתוות לרבים ורבות דרך.<br>שולח ברכת ׳חזק ואמץ׳ לסופרת על בחירה אמיצה, כתיבה מיוחדת, מבט מפוקח וחד על הנושא עליו בחרה לכתוב ועל העובדה שהעניקה כאן ספר שהוא מניפסט של שליחות מטעמה.<br>אין ספק שעריכת ספר שכזה הנע בין סוגות, היא אתגר הדורש תבונה ויכולות מאוד מהותיות, ואני שולח גם לעורכת שלומית ליקה את התרשמותי הרבה מעריכתה הספרותית.<br><br>מצפה לספרה הבא של הסופרת רויטל שירי- הורוביץ.",
-          "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">download now</a>",
-          "alias": "spacem/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "text1",
-          "_customHTML": "<section class=\"mbr-section--bg-adapted mbr-section--relative mbr-after-navbar\" data-rv-view=\"34\" style=\"background-color: rgb(239, 239, 239);direction:rtl;\noverflow-y: scroll;\">\n    <div class=\"intro page_head text-center\" style=\"padding-top: 80px; padding-bottom: 40px;\">\n        \n        <div class=\"container\">\n        <div class=\"container\">\n            <div class=\"row\">\n                <div class=\"col-md-12\">\n                    <h3 class=\"styled mbr-editable-content\" code-editable-id=\"62\">גילוי נאות רויטל ואני הכרנו לפני כחמש שנים דרך קבוצה משותפת בפייסבוק , ניפגשנו מספר פעמים והתוודעתי לכתיבתה.</h3>\n                    <div class=\"separator transparent\"></div>\n                    <p class=\"mbr-editable-content\" code-editable-id=\"63\">קראתי וסקרתי את ספרה הניפלא ׳בת עיראק׳ ומצאתי לכל אורכו ניצוצות רבים של אומץ ספרותי , יכולת תיאורית מצויינת, בידול דמויות ראוי והנעת עלילה בציר זמנים ביד אמונה.<br>על כן, שמחתי כשסיפרה לי רויטל שהיא כותבת ספר חדש ומעט הופתעתי כשאמרה שהפעם היא בוחרת שלא לכתוב רומן קלאסי, אלא מעין מסע עצמי, פרטי מאוד, חושפני מאוד, של מערכת יחסיה עם אמה.<br>הבנתי מהסופרת שיהיו שזורים בו מוטיבים של סיפורי חיים כזכרונות/ אירועים מעצבי אישיות אדם, אך לא כחלק מעלילה כוללת אלא כתהליך הדגמה, הסברה, ראיה חוקרת, שיתוף ותובנות הקשורים כולם לתופעת ילדותה ובגרותה בצל מה שמכונה: ״אמא נרקיסיסטית״.<br>תהיתי כיצד יראה ספר שכזה, וחשבתי, בפרט לאור מצויינות הרומן ׳בת עיראק׳, שאולי חבל שהסופרת בחרה שלא יהיה זה רומן.<br>אשאיר את התשובה לתהייתי זו פתוחה כעת, ובסוף סקירתי אשוב ואתייחס לנושא.<br>בראשית, לא הבנתי כיצד המונח נרקיסיזם יכול בכלל להתמזג אל תוך מהותה של האימהות.<br>הפער ניראה לי כה ענק ואפילו בלתי נתפס.<br>כיצד יכולה אם להעמיד עצמה באופן טוטאלי לפני ילדיה ולנתב את מערכת יחסיה עימם רק סביב הפריזמה של מה משרת את האינטרסים שלה?<br>נתקלתי כבר באנשים בעלי גוונים מובהקים של הימצאות על ספקטרום האהבה העצמית המופרזת, כאלו שבבואתם הנישקפת להם היא מרכז מהותם.<br>לא הרבה כאלו, אבל פגשתי בהם.<br>למשל-<br>אדם שיכול לספר לי בשיחה ביננו, על שלל ענייניו ובעיותיו וכאשר הוא שומע ממני בחצי מילה (שהשחלתי בין כל דיבורו השוטף) על בעיה או אתגר מהותי שאני חווה בחיי, הוא לא מגלה אמפתיה או עניין , שומע אך לא מקשיב, ומייד שב ומבקש את מלוא הקשב שלי לענייניו שלו אותם הוא חולק בתאווה גדולה.<br>או אדם שאני מזהה שרצונו בקשר עימי תלוי בדבר , תלוי בפעולות שאעשה או דברים שאגיד שיגרמו לקידום תועלתו או מטרתו.<br><br>בספרה, מנתחת הסופרת את מאפייני האישיות הנרקיסיסטית ואכן שני דפוסים התנהגותיים אלו, מוסברים באופן ברור ביותר על ידה דרך שימוש אמיץ בהדגמות שהיא עושה בפיסות חייה הפרטיים ביותר.<br><br>אז יש אנשים נרקיסיסטים, ברור לי, ואני מנסה לזהות זאת ולהימנע מהם ככל שאוכל.<br>אבל אמא נרקיסיסטית? הייתכן הדבר?<br>במילותיה של הסופרת:<br>״ילדיה של אשה כזאת לא קיימים כישות נפרדת. הם חלק ממנה , ולכן יש לה זכות מלאה להפעילם ולכוון אותם לקיום צרכיה שלה. בלעדיה, אין להם קיום״ ( עמ 11).<br>זה נשמע לי מוזר, לא הצלחתי להכיל את האפשרות הזו.<br>עבורי, ואולי יישמעו הדברים קלישאתיים משהו, אך יהי כך, ״אמא״ היא מילה נרדפת לאהבה, הכלה ונתינה שנעים במינעד ותוכן שהם אינסופיים ואינם תלויים בדבר.<br>אין זו אוטופיה או נאיביות.<br>יחסי אמהות וילדיהן יכולים בהחלט להיות רצופי מהמורות, כעסים, אכזבות , עצבים ועוד, אל כל אלו עדיין אינם הופכים את האם לאישיות שבאופן מוחלט, שיטתי, מובהק וחד משמעית מודע , בוחרת להגחיך, לעיתים להשפיל, לנצל ולצרוב במילותיה באורח קבוע את ילדיה.<br>כאן מדובר במשהו אחר שלא ידעתי על קיומו: מערכת שלמה של מילים והתנהגויות שטווה האם הנרקיסיסטית, שמטרתה השרשת דימוי עצמי נמוך, חוסר בטחון ובעיקר, לפי הבנתי את הניתוח שמבצעת הסופרת לתופעה, לבנות אצל הילד תחושת היזדקקות מוחלטת לדמותה, לגרום לילד לחוש שאין לו זכות קיום עצמאית מבלעדיה ומבלי לשרת את רצונותיה.<br><br>הספר שזור במילים שכאלו שכאילו נורו מפי האם היישר לליבה ומוחה הצעירים והמתהווים של הסופרת, חדרו ונשארו שם.<br><br>״היא הביטה בי בגועל ואמרה: אי אפשר כבר עם הגוף שלך, את חייבת לעשות איתו משהו״<br><br>״היו מקרים רבים שבהם הצלחות שלי לא זכו לשום ציון...חגיגות ימי הולדת לא נחגגו...״<br><br>״כשהגיעה וראתה שאינני ברשימת הסטודנטים המצטיינים שאלה בכעס מדוע לא סיימתי בהצטיינות...״<br><br>״את דומה למשפחה של אבא, לא לי. קבלת את השוקיים של הדודות שלך״<br>״מגיל צעיר ניסתה ללמד אותי להקיא ( ואחר כך ניסתה בהיחבא ללמד את בני) אחרי ארוחות גדולות..״<br>וכך, בתחושה של השתאות, פרק אחר פרק במסעה הפרטי של הסופרת, עקבתי אחר מודל אימהי זר וחדש לי.<br>במהלך הקריאה גם עמדתי על טיבו של ההבדל הניכר בין ׳מריבות מערכות יחסים טעונות׳ אך בעלות גוון הגיוני מסויים בין אם לילדתה, לבין מערכת היחסים שמגיעה ממחוזות נרקיסיסטיים אותה מנתחת הסופרת.<br>ההדגמות המפורטות בדיוק במידה הראויה , התיאור המלא והריאלי של הסצנות , ותהליך ההכרה וההשלמה שחוותה הסופרת ( אותו היא מקבילה באופן מאוד ייחודי לתהליכים החווים אנשים שנמצאים באבל) , הם שהבהירו לי את ההבדל.<br><br>איך יכול ילד להתמודד עם התופעה, איך הוא יכול לבחור אם לספוג ולשתוק תמיד או להתריס, להתנגד לשאול מדוע<br>ואז לקבל את התשובה:<br>זה רק בראש שלך, ״את מדמיינת״ , לא היה ולא נברא...<br>ואיך יכול ילד, עם התבגרותו, לצאת לסוג של מסע אישי ותובנות, להבין, לקבל, להשלים ולעצב את חייו שלו - קשריו החברתיים, זוגיותו והיותו הורה בעצמו , לאור החוויה שחווה וכעת הוא יכול לכנותה בשם- כבן או בת לאם נרקיסיסטית?<br><br>ולאן יתעל את אותן תובנות?<br>הסופרת מספרת בגילוי לב ובאורח שמצאתי מרגש , איך בחרה או יותר נכון יועדה, ללכת עם הדימיון אל מחוזות הכתיבה.<br>לא בכדי היא סופרת, זהו יעוד מרפא עבורה.<br>את כוחו של הדמיון, אליו ברחה ועל כנפיו עפה בימים הסער של ההשפלות ההן, היא הפכה לנתיב מרכזי בחייה .<br>כשם שידעה לחלום על משפחות אחרות ועל קשרי אמהות/ בנות אחרים , כך היא שיכללה את הדימיון לכלי אישי על מנת לספר, לתאר ולהביא עולמות חדשים אלינו ואל עצמה.<br>באומץ, בחדות, בלי שמץ של נסיון התנחמדות, מניחה הסופרת לפנינו את הסוגיות השורשיות שעימם היא מתמודדת:<br>מהי חברות?<br>האם באמת ייתכן שיש לי חברים שפשוט אוהבים אותי כי אני, אני?<br>האם מערכות יחסים יכולות להיות חפות מאינטרסים תמידיים?<br>כיצד אוכל לשבור את ׳שושלת הנרקיסיסטיות׳ ( תופעת העברת מודל האימהות הנרקיסיסטית מאם לבת ברצף, שגם אותה מנתחת הסופרת באורח מרתק)<br>כיצד אבנה זוגיות נטולת חשד ובנויה מיסודות של אהבה שיש בה אמת?<br>איך אהיה אם קשובה לילדי שלי, איך אמנע מצל צילן של התנהגויות מהן כה סבלתי?<br><br>מילה על אומץ פרוזאי:<br><br>סופרת ישראלית שספריה עבורי היו ועדיין השראה גדולה של אומץ כתיבתי, אמרה לי כשיצא האומן הראשון שלי לאור, משפטים שתובנותיהם שנחקקו בי:<br>סופר/ת יכול/ה לבחור להישאר ״נעים/ה וקולח/ת״, וכוווולם יאהבו את המילים שלו/ה וימהרו לרכוש את ספריו/ה , וזה בסדר גמור. אבל זהו לא אומץ כתיבתי, זו בחירה להישאר בעורף המוגן. האומץ מצוי כאשר בוחרים לחצות את ׳קווי האוייב׳ בכתיבתך, לכתוב בלי לחשוב איך יתקבלו הדברים, מי יאהב ומי יכעס, ומי יגיד מה, פשוט לכתוב את כל כולך״<br><br>בספרה ״את מדמיינת״ הסופרת רויטל שירי הורוביץ חוצה גם חוצה את אותם ׳קווי אוייב׳.<br>היא לא עוצרת לרגע בתחושה או פחד של ״אולי יהיו רבים, כולל אימא שלי , שלא יאהבו את אמירותי?״<br>היא אינה מבקשת לפגוע באיש, היא מצהירה על כך פעמים לא מעטות בספר, והיא גם משתדלת באופן שיש להעריכו, לנסות לשקף מצבים גם מהיבטים שנראים כחיוביים ונכחו ביחסיה עם אמה, וכתיבתה אינה בבחינת שחור ולבן. הסופרת בהחלט יודעת להצביע גם על גוונים.<br>אך באותה נשימה, היא משרטטת מערכת יחסים מורכבת ביותר, קשה לעיכול ...<br>ניכר, לפחות לתחושתי, שכאשר כתבה את הדברים, חשבה הסופרת פחות על עצמה כמי שעוברת ריפוי פרטי דרך הכתיבה ( אם כי בהחלט חשתי שעצם הכתיבה היה בה צעד תראפויטי עבור הסופרת וזה לגיטימי מאוד) אלא חשבה יותר על גברים ונשים אחרים שחוו וחווים את אותם מצבים, אך אינם יודעים לכנות זאת במונחים המתאימים ולצאת מההכרה במצב לשלב התובנות מהמצב.<br>ניכר היה עוד, שאת תהליך הטיפול וההכרה בכל אשר שעברה ( ותמיד תעבור, אני מניח) הסופרת, ואת הצלחתה לנתב את חייה למחוזות שנבנו היטב בתוכן ועשייה הממלאים אותה כיום בחדווה, היא מבקשת לשתף עימנו בבחינת העברת מסר אופטימי :<br>יש תהליך שאפשר לעבור, יש עתיד שעוד אפשר ליצור.<br>וכעת אידרש לתהייה שהשארתי פתוחה בראשית סקירתי.<br>״את מדמיינת״ הוא ספר אחר.<br>הוא לא רומן- אך הוא מסע חיים.<br>הוא לא ספר תיעודי או מסמך פסיכולוגי - אך הוא מנומק ומוסבר ברמה המכבדת מאוד מסמך חוקר<br>אלו מילים שנכתבו באותיות של הלב.<br>שנים ארוכות שהו המילים בפינות רבות של נשמת הסופרת.<br>כמו מעיין ניסתר בסלע שמגיע יומו לראות אור, כך פרצו הסיפורים, התחושות, התהליך,התובנות ..<br>והיצירה שלפנינו היא שילוב מיוחד במינו, נגיעות של סוגות.<br>היצירה הזו היא התהוות חדשנית,עבורי, של מדריך ספרותי עמוק שפהמגיע מה״בפנוכו” של חיי הסופרת, מדריך ספרותי שמטרתו למקם עבורנו תופעה של אימהות נרקיסיסטית, לכנות אותה בשם ברור עד מחקרי, לצלול לקרביה ולהציע על סמך נסיון חיים, נפילות וקימות, כיצד להיבנות ולחיות עימה.<br>זהו ספר חשוב שיכול להכיר ולהתוות לרבים ורבות דרך.<br>שולח ברכת ׳חזק ואמץ׳ לסופרת על בחירה אמיצה, כתיבה מיוחדת, מבט מפוקח וחד על הנושא עליו בחרה לכתוב ועל העובדה שהעניקה כאן ספר שהוא מניפסט של שליחות מטעמה.<br>אין ספק שעריכת ספר שכזה הנע בין סוגות, היא אתגר הדורש תבונה ויכולות מאוד מהותיות, ואני שולח גם לעורכת שלומית ליקה את התרשמותי הרבה מעריכתה הספרותית.<br><br>מצפה לספרה הבא של הסופרת רויטל שירי- הורוביץ.</p>\n                </div>\n            </div>\n        </div>\n    </div>\n</div></section>",
-          "_customCSS": "P {\n  text-align: right;\n}\nH3 {\n  text-align: right;\n  font-size: 20px;\n}",
-          "_customTemplate": true,
-          "_JSplaceholders": [],
-          "_PHPplaceholders": [],
-          "_anchor": "text1-cu"
-        },
-        {
           "alias": "facebook-comments",
           "_tags": [
             "Extension"
@@ -559,7 +336,7 @@
             "showMedia": true,
             "parallax": false,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
             "bgColorRadio": true,
             "bgColor": "#212121",
             "bgVideoRadio": false,
@@ -688,7 +465,7 @@
       "settings": {
         "title": "Revital Shiri-Horowitz | biography",
         "meta_descr": "Revital Shiri-Horowitz biography",
-        "order": 17
+        "order": 16
       },
       "components": [
         {
@@ -806,7 +583,7 @@
             "showButtons": false,
             "parallax": false,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
             "bgColorRadio": true,
             "bgColor": "#fff",
             "bgVideoRadio": false,
@@ -819,7 +596,7 @@
           },
           "subtitle": "Subtitle",
           "title": "<span style=\"font-weight: normal;\"><i>&nbsp;ביוגרפיה - רויטל שירי-הורוביץ</i></span>",
-          "text": "רויטל שירי-הורוביץ, סופרת, בלוגרית ומשוררת, המכנה עצמה \"כותבת סדרתית\", מיום שהיא זוכרת את עצמה כתבה שירים וסיפורים קצרים. ספרה הראשון, \"בת עיראק\", רומן היסטורי העוסק ביהדות עיראק זכה בפרס עידוד מטעם מורשת יהדות בבל (2008); ספרה השני \"להתראות בקרוב\" עוסק במהגרים החצויים בין עולמות (2014), ספרה השלישי \"את מדמיינת\"  עוסק בבנות לאימהות נרקיסיסטיות (2018). כתיבתו של ספרה הרביעי \"איך לצוד דוב\", רומן הסטורי המבוסס על סיפור אמיתי, מחפש בית בימים אלה. כל ספריה תורגמו לאנגלית ונמכרים ברחבי העולם. שירי-הורוביץ פירסמה שירים וסיפורים קצרים בכתבי עת שונים ברחבי העולם.שירי הורוביץ היא דוקטורנטית באוניברסיטת אריאל, בעלת שני תארים שניים בספרות עברית (תל-אביב) וגיאוגרפיה (חיפה) וסטודנטית לאימון במכון אדלר. היא מאמנת אישית ומנחת סדנאות לבנות לאימהות נרקיסיסטיות. <br><br>",
+          "text": "רויטל שירי-הורוביץ, סופרת, בלוגרית ומשוררת, המכנה עצמה \"כותבת סדרתית\". מיום שהיא זוכרת את עצמה כתבה שירים וסיפורים קצרים. ספרה הראשון, \"בת עיראק\", רומן היסטורי העוסק ביהדות עיראק זכה בפרס עידוד מטעם מורשת יהדות בבל (2008).ספרה השני \"להתראות בקרוב\" עוסק במהגרים החצויים בין עולמות (2014), ספרה השלישי \"את מדמיינת\" עוסק בבנות לאימהות נרקיסיסטיות (2018). שירי-הורוביץ נשואה ואם לארבעה בנים, חיה בסיאטל וחולמת בעברית. ספריה תורגמו לאנגלית ונמכרים ברחבי העולם. שירי-הורוביץ בעלת טור פופולרי בדה-מארקר, פירסמה שירים וסיפורים קצרים בכתבי עת שונים.\n<br>\n<br>לאינפורמציה נוספת, אנא היכנסו לאתר: www.revita-sh.com",
           "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-black\" role=\"button\">learn more</a>"
         },
         {
@@ -875,7 +652,7 @@
             "showMedia": true,
             "parallax": false,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
             "bgColorRadio": true,
             "bgColor": "#212121",
             "bgVideoRadio": false,
@@ -1004,7 +781,7 @@
       "settings": {
         "title": "events",
         "meta_descr": "",
-        "order": 8
+        "order": 7
       },
       "components": [
         {
@@ -1032,84 +809,6 @@
             }
           },
           "text": "Special Panel: The Sephardic Novel"
-        },
-        {
-          "_params": {
-            "showText": true,
-            "paddingTop": 4,
-            "paddingBottom": 4,
-            "bgColor": "#fff"
-          },
-          "media": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/image2.jpg"
-            },
-            "video": {
-              "src": "https://youtu.be/iFBUq0XgARA",
-              "autoplay": false,
-              "loop": false,
-              "active": true
-            }
-          },
-          "text": "",
-          "alias": "spacem/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image2",
-          "_anchor": "image2-d5"
-        },
-        {
-          "_params": {
-            "showText": true,
-            "paddingTop": 4,
-            "paddingBottom": 4,
-            "bgColor": "#fff"
-          },
-          "media": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/image2.jpg"
-            },
-            "video": {
-              "src": "https://youtu.be/RB4IQLxQttc",
-              "autoplay": false,
-              "loop": false,
-              "active": true
-            }
-          },
-          "text": "",
-          "alias": "spacem/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image2",
-          "_anchor": "image2-cr"
-        },
-        {
-          "_params": {
-            "showText": true,
-            "paddingTop": 4,
-            "paddingBottom": 4,
-            "bgColor": "#fff"
-          },
-          "media": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/image2.jpg"
-            },
-            "video": {
-              "src": "https://youtu.be/lK_rwThHGYw",
-              "autoplay": false,
-              "loop": false,
-              "active": true
-            }
-          },
-          "text": "",
-          "alias": "spacem/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image2",
-          "_anchor": "image2-cp"
         },
         {
           "_params": {
@@ -1437,7 +1136,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/2-500x357.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-2-500x357.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/2-500x357-500x357.jpg",
                 "alt": "",
                 "title": "",
@@ -1495,7 +1194,7 @@
             "showMedia": true,
             "parallax": false,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
             "bgColorRadio": true,
             "bgColor": "#212121",
             "bgVideoRadio": false,
@@ -1721,7 +1420,7 @@
       "settings": {
         "title": "revital shiri horovitz contact",
         "meta_descr": "Revital shiri horovitz contact",
-        "order": 9
+        "order": 8
       },
       "components": [
         {
@@ -1849,7 +1548,7 @@
             "showText": true,
             "parallax": false,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
             "bgColorRadio": true,
             "bgColor": "#fff",
             "bgVideoRadio": false,
@@ -1902,12 +1601,155 @@
           "text2": "<a href=\"mailto:sample@sample.com\">revital@revital-sh.com</a>",
           "title3": "",
           "text3": "",
-          "_customHTML": "<section class=\"mbr-section mbr-section--bg-adapted mbr-section--relative mbr-after-navbar\" style=\"background-color: rgb(255, 255, 255);\">\n        \n    <div id=\"contact-info\" style=\"padding-top: 150px; padding-bottom: 100px;\">\n        <div class=\"container\">\n            <div class=\"row\">\n                 \n                <div class=\"col-lg-offset-2 col-lg-5 col-md-12 col-sm-12 col-xs-12\">\n                   <div class=\"page_head text-left title-block\">\n                      <h1 class=\"styled mbr-editable-content\" style=\"text-align: right;\" code-editable-id=\"70\">צור קשר</h1>\n                      <div class=\"separator\"></div>\n                      <p class=\"mbr-editable-content\" style=\"text-align: right;\" code-editable-id=\"71\">לקבלת מידע על אירועים הרצאות ומפגשים\n                          <br>רויטל שירי־הורוביץ<br></p>\n\n                      <div data-form-type=\"formoid\">\n                          <div data-form-alert=\"true\">\n                              <div hidden=\"\" data-form-alert-success=\"true\">Thanks for filling out form!</div>\n                          </div>\n\n                          <form action=\"#\" method=\"post\" data-form-title=\"Lectures and readings:\">\n\n                              <input type=\"hidden\" value=\"U6ObLLNT73nDShq/sXT9KErHYIcdOWVELLBj00quH1TM6uRur6Ho1UKXFXtTwF95vImr1J+NHEKSdOPtdDHo2grvtSiqj/PZ8yJoVCmMGnD4/Eixiquc3yiVJTkinO43\" data-form-email=\"true\">\n\n                              <div class=\"form-group\">\n                                  <label class=\"form-control-label\">שם*</label>\n                                  <input type=\"text\" class=\"form-control input-sm input-inverse\" name=\"name\" required=\"\" data-form-field=\"Name\" placeholder=\"שם*\">\n                              </div>\n\n                              <div class=\"form-group\">\n                                  <label class=\"form-control-label\">דואר אלקטרוני*</label>\n                                  <input type=\"email\" class=\"form-control input-sm input-inverse\" name=\"email\" required=\"\" data-form-field=\"Email\" placeholder=\"דואר אלקטרוני*\">\n                              </div>\n\n                              \n\n                              <div class=\"form-group\">\n                                  <label class=\"form-control-label\">הודעה</label>\n                                  <textarea class=\"form-control input-sm input-inverse\" name=\"message\" data-form-field=\"Message\" rows=\"3\" placeholder=\"הודעה\"></textarea>\n                              </div>\n\n                              <div class=\"buttons-wrap\"><button href=\"http://mobirise.com\" class=\"btn btn-black mbr-editable-button\" type=\"submit\" role=\"button\" code-editable-id=\"72\">שלח הודעה</button></div>\n\n                          </form>\n\n                      </div>\n\n                    </div>\n                </div>\n\n                <div class=\"col-lg-5 col-md-12 col-sm-12 col-xs-12\">\n                    \n                    <div class=\"row clear-md\">\n                        \n                        <div class=\"col-lg-12 col-md-12 col-sm-6 col-xs-12\">\n                            <div class=\"c-info contacts\">\n                                <h4 class=\"mbr-editable-content\" code-editable-id=\"73\"><span class=\"etl-icon icon-envelope mbr-iconfont mbr-iconfont-btn\"></span>e-mail</h4>\n                                <p class=\"mbr-editable-content\" code-editable-id=\"74\"><a href=\"mailto:revital@revital-sh.com\">revital@revital-sh.com</a></p>\n                            </div>\n                        </div>\n\n                    </div>\n\n                    <div class=\"row clear-md\">\n                        \n                        <div class=\"col-xs-12\">\n                             <img src=\"@PROJECT_PATH@/assets/images/img-2000x1333.jpg\" class=\"mbr-figure__img\">\n                        </div>\n\n                    </div>\n\n                </div>\n\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section mbr-section--bg-adapted mbr-section--relative mbr-after-navbar\" style=\"background-color: rgb(255, 255, 255);\">\n        \n    <div id=\"contact-info\" style=\"padding-top: 150px; padding-bottom: 100px;\">\n        <div class=\"container\">\n            <div class=\"row\">\n                 \n                <div class=\"col-lg-offset-2 col-lg-5 col-md-12 col-sm-12 col-xs-12\">\n                   <div class=\"page_head text-left title-block\">\n                      <h1 class=\"styled mbr-editable-content\" style=\"text-align: right;\" code-editable-id=\"16\">צור קשר</h1>\n                      <div class=\"separator\"></div>\n                      <p class=\"mbr-editable-content\" style=\"text-align: right;\" code-editable-id=\"17\">לקבלת מידע על אירועים הרצאות ומפגשים\n                          <br>רויטל שירי־הורוביץ<br></p>\n\n                      <div data-form-type=\"formoid\">\n                          <div data-form-alert=\"true\">\n                              <div hidden=\"\" data-form-alert-success=\"true\">Thanks for filling out form!</div>\n                          </div>\n\n                          <form action=\"#\" method=\"post\" data-form-title=\"Lectures and readings:\">\n\n                              <input type=\"hidden\" value=\"U6ObLLNT73nDShq/sXT9KErHYIcdOWVELLBj00quH1TM6uRur6Ho1UKXFXtTwF95vImr1J+NHEKSdOPtdDHo2grvtSiqj/PZ8yJoVCmMGnD4/Eixiquc3yiVJTkinO43\" data-form-email=\"true\">\n\n                              <div class=\"form-group\">\n                                  <label class=\"form-control-label\">שם*</label>\n                                  <input type=\"text\" class=\"form-control input-sm input-inverse\" name=\"name\" required=\"\" data-form-field=\"Name\" placeholder=\"שם*\">\n                              </div>\n\n                              <div class=\"form-group\">\n                                  <label class=\"form-control-label\">דואר אלקטרוני*</label>\n                                  <input type=\"email\" class=\"form-control input-sm input-inverse\" name=\"email\" required=\"\" data-form-field=\"Email\" placeholder=\"דואר אלקטרוני*\">\n                              </div>\n\n                              \n\n                              <div class=\"form-group\">\n                                  <label class=\"form-control-label\">הודעה</label>\n                                  <textarea class=\"form-control input-sm input-inverse\" name=\"message\" data-form-field=\"Message\" rows=\"3\" placeholder=\"הודעה\"></textarea>\n                              </div>\n\n                              <div class=\"buttons-wrap\"><button href=\"http://mobirise.com\" class=\"btn btn-black mbr-editable-button\" type=\"submit\" role=\"button\" code-editable-id=\"18\">שלח הודעה</button></div>\n\n                          </form>\n\n                      </div>\n\n                    </div>\n                </div>\n\n                <div class=\"col-lg-5 col-md-12 col-sm-12 col-xs-12\">\n                    \n                    <div class=\"row clear-md\">\n                        \n                        <div class=\"col-lg-12 col-md-12 col-sm-6 col-xs-12\">\n                            <div class=\"c-info contacts\">\n                                <h4 class=\"mbr-editable-content\" code-editable-id=\"19\"><span class=\"etl-icon icon-envelope mbr-iconfont mbr-iconfont-btn\"></span>e-mail</h4>\n                                <p class=\"mbr-editable-content\" code-editable-id=\"20\"><a href=\"mailto:revital@revital-sh.com\">revital@revital-sh.com</a></p>\n                            </div>\n                        </div>\n\n                    </div>\n\n                    <div class=\"row clear-md\">\n                        \n                        <div class=\"col-xs-12\">\n                             <img src=\"@PROJECT_PATH@/assets/images/img-2000x1333.jpg\" class=\"mbr-figure__img\">\n                        </div>\n\n                    </div>\n\n                </div>\n\n            </div>\n        </div>\n    </div>\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": "@import url(undefined);\ndirection:rtl;",
           "_customTemplate": true,
           "_anchor": "contacts1-u"
+        },
+        {
+          "alias": "spacem/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "title3",
+          "_anchor": "title3-8k",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "showTitle": true,
+            "showSeparator": false,
+            "showSubtitle": false,
+            "showText": false,
+            "showButtons": false,
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
+            "bgColorRadio": true,
+            "bgColor": "#e5e5e5",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.75
+          },
+          "subtitle": "Subtitle",
+          "title": "<span style=\"font-weight: normal;\"><i>אירועים</i></span>",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione quis quidem laboriosam, enim rem nobis ab laudantium. Aliquam, ipsum, impedit accusantium ex cum facilis ut tempora vero nesciunt mollitia ullam, quisquam quia cupiditate esse repudiandae. Vero nisi velit sint minima et adipisci culpa iusto ea obcaecati! Voluptatibus consectetur nulla, asperiores.",
+          "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-black\" role=\"button\">learn more</a>"
+        },
+        {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/5e018a65-82ea-4012-aeeb-e4ee7edb0f5e-960x720.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "alias": "spacem/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-9x",
+          "_customCSS": "background-color:#e5e5e5;"
+        },
+        {
+          "title4": "<a href=\"http://mobirise.com\">mitchel jobs</a>",
+          "subtitle4": "<a href=\"http://mobirise.com\">application</a>",
+          "text4": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum dolorem quo in, animi iste magnam, saepe accusantium veritatis vitae perferendis delectus eligendi officia nulla pariatur incidunt culpa vel doloribus rem.",
+          "media4": {
+            "image": {
+              "class": "mbr-figure__img",
+              "src": "file:///C:/Users/Aviv/AppData/Local/Mobirise.com/Mobirise/projectData/news_item_4.jpg"
+            }
+          },
+          "date4": "09/09/2016",
+          "alias": "spacem/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "news2",
+          "_styles": {
+            "H3": {
+              "font-size": "25px",
+              "text-align": "left"
+            },
+            "P": {
+              "text-align": "left"
+            },
+            "SPAN": {
+              "text-align": "right"
+            }
+          },
+          "_anchor": "news2-8i",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "3",
+            "showTitle": true,
+            "showSubtitle": false,
+            "showText": true,
+            "showDate": true,
+            "showImages": false,
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "file:///C:/Users/Aviv/AppData/Local/Mobirise.com/Mobirise/projectData/2_2.jpg",
+            "bgColorRadio": true,
+            "bgColor": "#e5e5e5",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.75
+          },
+          "media1": {
+            "image": {
+              "class": "mbr-figure__img",
+              "src": "file:///C:/Users/Aviv/AppData/Local/Mobirise.com/Mobirise/projectData/news_item_4.jpg",
+              "active": true
+            }
+          },
+          "subtitle1": "June 10,2015 12:00 pm",
+          "title1": "תל אביב",
+          "text1": "<br>  השקת הספר “להתראות בקרוב”: בתולעת ספרים ברחוב מאזה 7, תל אביב<br>",
+          "date1": "May 27,2014 7:00 pm",
+          "media2": {
+            "image": {
+              "class": "mbr-figure__img",
+              "src": "file:///C:/Users/Aviv/AppData/Local/Mobirise.com/Mobirise/projectData/news_item_4.jpg",
+              "active": true
+            }
+          },
+          "subtitle2": "<a href=\"http://mobirise.com\">application</a>",
+          "title2": "Vancouver",
+          "text2": "Vancouver Jewish Book Festival<br><br><br>",
+          "date2": "November 27,2011 3:30 pm",
+          "media3": {
+            "image": {
+              "class": "mbr-figure__img",
+              "src": "file:///C:/Users/Aviv/AppData/Local/Mobirise.com/Mobirise/projectData/news_item_4.jpg",
+              "active": true
+            }
+          },
+          "subtitle3": "<a href=\"http://mobirise.com\">application</a>",
+          "title3": "Mercer Island",
+          "text3": "SJCC click to register<br><br><br>",
+          "date3": "May 12,2011 7:00 pm"
         },
         {
           "alias": "spacem/components",
@@ -1935,7 +1777,7 @@
             "showMedia": true,
             "parallax": false,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
             "bgColorRadio": true,
             "bgColor": "#212121",
             "bgVideoRadio": false,
@@ -2064,9 +1906,54 @@
       "settings": {
         "title": "Revital Shiri-Hotovitz | Interviews ",
         "meta_descr": "Revital Shiri-Hotovitz Interviews",
-        "order": 10
+        "order": 9
       },
       "components": [
+        {
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "0",
+            "showTitle": false,
+            "showSubtitle": true,
+            "showButtons": true,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/header1.jpg",
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.35
+          },
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "src": "@THEME_PATH@/components/_images/info.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=CluVGS25Kb0",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "<em>SpaceM</em> Page Builder",
+          "text": "רויטל שירי-הורוביץ&nbsp;<br>מתארחת בתוכנית הרדיו משפחה גרעינית - 21.03.18\n<br>תוכנית המוקדשת למשפחה, לילדים ולבחירות שאנו עושים בהקשרים אלו בכל יום, שעה ורגע.\n<br>",
+          "buttons": "<a data-app-btn=\"true\" href=\"https://glz.co.il/%D7%92%D7%9C%D7%A6/%D7%AA%D7%95%D7%9B%D7%A0%D7%99%D7%95%D7%AA/%D7%9E%D7%A9%D7%A4%D7%97%D7%94-%D7%92%D7%A8%D7%A2%D7%99%D7%A0%D7%99%D7%AA/%D7%9E%D7%A9%D7%A4%D7%97%D7%94-%D7%92%D7%A8%D7%A2%D7%99%D7%A0%D7%99%D7%AA21-03-2018-1401\" class=\"btn btn-primary\" role=\"button\" target=\"_blank\">לשמיעת הראיון המלא</a>",
+          "alias": "spacem/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-9s",
+          "_customCSS": "direction:rtl;"
+        },
         {
           "title4": "mitchel jobs",
           "subtitle4": "Programmer",
@@ -2142,7 +2029,7 @@
           "subtitle3": "יולי 2017",
           "text3": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum dolorem quo in, animi iste magnam, saepe accusantium veritatis vitae perferendis delectus eligendi officia nulla pariatur incidunt culpa vel doloribus rem.",
           "icons3": "<a data-app-btn=\"true\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><span class=\"socicon socicon-google mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" title=\"Youtube\" target=\"_blank\" href=\"http://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\"></span></a> ",
-          "_customHTML": "<section class=\"mbr-section--bg-adapted mbr-section--relative mbr-after-navbar\" style=\"background-color: rgb(255, 255, 255);\">\n        \n    <div id=\"contact-info\" style=\"padding-top: 150px; padding-bottom: 0px;\">\n        <div class=\"container\">\n            <div class=\"row\">\n                                      \n                        <div class=\"mbr-cards-col col-md-6 col-sm-6 col-xs-12\">\n                            <div class=\"team-item c-info\">\n                                <div class=\"image\">\n                                    <figure class=\"mbr-figure mbr-figure--adapted mbr-figure--caption-inside-bottom mbr-figure--full-width \"><a href=\"interview-with-author-balfurh.html\"><img src=\"@PROJECT_PATH@/assets/images/bl-481x591.jpg\" class=\"mbr-figure__img\"></a></figure>\n                                </div>\n                                <h4 class=\"mbr-editable-content\" code-editable-id=\"126\"><p><a href=\"interview-with-author-balfurh.html\">ראיון עם המשורר פרופסור בלפור חקק</a><a href=\"interview-with-author-balfurh.html\"></a></p></h4>\n                                <h5 class=\"mbr-section-subtitle mbr-editable-content\" code-editable-id=\"127\">אלול תשע\"א, ספטמבר 2011</h5>\n                                \n                                \n                            </div>\n                        </div>\n\n                        <div class=\"mbr-cards-col col-md-6 col-sm-6 col-xs-12\">\n                            <div class=\"team-item c-info\">\n                                <div class=\"image\">\n                                    <figure class=\"mbr-figure mbr-figure--adapted mbr-figure--caption-inside-bottom mbr-figure--full-width \"><a href=\"interview-with-author-zohar-menashas.html\"><img src=\"@PROJECT_PATH@/assets/images/fullsizerender-1-523x520.jpg\" class=\"mbr-figure__img\"></a></figure>\n                                </div>\n                                <h4 class=\"mbr-editable-content\" code-editable-id=\"128\"><a href=\"interview-with-author-zohar-menashas.html\" style=\"font-weight: normal;\">ראיון עם הסופר זהר מנשס</a></h4>\n                                <h5 class=\"mbr-section-subtitle mbr-editable-content\" code-editable-id=\"129\">יולי 2017</h5>\n                                \n                                \n                            </div>\n                        </div>\n\n                    </div>\n\n                </div>\n\n            </div>\n        \n    \n</section>",
+          "_customHTML": "<section class=\"mbr-section--bg-adapted mbr-section--relative mbr-after-navbar\" style=\"background-color: rgb(255, 255, 255);\">\n        \n    <div id=\"contact-info\" style=\"padding-top: 150px; padding-bottom: 0px;\">\n        <div class=\"container\">\n            <div class=\"row\">\n                                      \n                        <div class=\"mbr-cards-col col-md-4 col-sm-6 col-xs-12\">\n                           <div class=\"team-item c-info\">\n                                <div class=\"image\">\n                                    <figure class=\"mbr-figure mbr-figure--adapted mbr-figure--caption-inside-bottom mbr-figure--full-width \"><iframe style=\"background-color:#1A1A1A;width:200px;height: 230px\" src=\"https://player.kan.org.il/player/?stream=vod&amp;account=ipbc&amp;is_mms=true&amp;medias[0]=ipbc-um86Q1-XYGI&amp;width=100%25&amp;height=0px&amp;font_size=10&amp;style_schema=ipbc&amp;fullScreen=false&amp;audio_tag&amp;showEmbedded&amp;qualityChange&amp;autoplay=false\">\n  &amp;amp;amp;amp;amp;amp;amp;lt;p&amp;amp;amp;amp;amp;amp;amp;gt;Your browser does not support iframes.&amp;amp;amp;amp;amp;amp;amp;lt;/p&amp;amp;amp;amp;amp;amp;amp;gt;\n</iframe></figure>\n                                </div>\n                                <h4 class=\"mbr-editable-content\" code-editable-id=\"264\"><p><a href=\"interview-with-author-zohar-menashas.html\" style=\"font-weight: normal;\">רויטל שירי הורוביץ מתארחת בתוכנית הרדיו גם כן תרבות - גואל פינטו</a><a href=\"interview-with-author-balfurh.html\"></a></p></h4>\n                                <h5 class=\"mbr-section-subtitle mbr-editable-content\" code-editable-id=\"265\">הראיון מתחיל בערך בדקה ה 90</h5>\n                                \n                                \n                            </div>\n                        </div>\n\n                        <div class=\"mbr-cards-col col-md-4 col-sm-6 col-xs-12\">\n                            <div class=\"team-item c-info\">\n                                <div class=\"image\">\n                                    <figure class=\"mbr-figure mbr-figure--adapted mbr-figure--caption-inside-bottom mbr-figure--full-width \"><a href=\"interview-with-author-balfurh.html\"><img src=\"@PROJECT_PATH@/assets/images/bl-481x591.jpg\" class=\"mbr-figure__img\"></a></figure>\n                                </div>\n                                <h4 class=\"mbr-editable-content\" code-editable-id=\"266\"><p><a href=\"interview-with-author-balfurh.html\">ראיון עם המשורר פרופסור בלפור חקק</a><a href=\"interview-with-author-balfurh.html\"></a></p></h4>\n                                <h5 class=\"mbr-section-subtitle mbr-editable-content\" code-editable-id=\"267\">אלול תשע\"א, ספטמבר 2011</h5>\n                                \n                                \n                            </div>\n                        </div>\n\n                        <div class=\"mbr-cards-col col-md-4 col-sm-6 col-xs-12\">\n                            <div class=\"team-item c-info\">\n                                <div class=\"image\">\n                                    <figure class=\"mbr-figure mbr-figure--adapted mbr-figure--caption-inside-bottom mbr-figure--full-width \"><a href=\"interview-with-author-zohar-menashas.html\"><img src=\"@PROJECT_PATH@/assets/images/fullsizerender-1-523x520.jpg\" class=\"mbr-figure__img\"></a></figure>\n                                </div>\n                                <h4 class=\"mbr-editable-content\" code-editable-id=\"268\"><a href=\"interview-with-author-zohar-menashas.html\" style=\"font-weight: normal;\">ראיון עם הסופר זהר מנשס</a></h4>\n                                <h5 class=\"mbr-section-subtitle mbr-editable-content\" code-editable-id=\"269\">יולי 2017</h5>\n                                \n                                \n                            </div>\n                        </div>\n\n                    </div>\n\n                </div>\n\n            </div>\n        \n    \n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customTemplate": true,
@@ -2537,7 +2424,7 @@
             "showMedia": true,
             "parallax": false,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
             "bgColorRadio": true,
             "bgColor": "#212121",
             "bgVideoRadio": false,
@@ -2759,7 +2646,7 @@
       "settings": {
         "title": "Revital Shiri-Horovitz | Articles",
         "meta_descr": "Revital Shiri-Horovitz  Articles",
-        "order": 11
+        "order": 10
       },
       "components": [
         {
@@ -2876,7 +2763,7 @@
             "showButtons": false,
             "parallax": false,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
             "bgColorRadio": true,
             "bgColor": "#fff",
             "bgVideoRadio": false,
@@ -2891,51 +2778,6 @@
           "title": "<span style=\"font-weight: normal;\"><i>ראיונות</i></span>",
           "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione quis quidem laboriosam, enim rem nobis ab laudantium. Aliquam, ipsum, impedit accusantium ex cum facilis ut tempora vero nesciunt mollitia ullam, quisquam quia cupiditate esse repudiandae. Vero nisi velit sint minima et adipisci culpa iusto ea obcaecati! Voluptatibus consectetur nulla, asperiores.",
           "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-black\" role=\"button\">learn more</a>"
-        },
-        {
-          "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "0",
-            "showTitle": false,
-            "showSubtitle": true,
-            "showButtons": true,
-            "parallax": true,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#000000",
-            "overlayOpacity": "0.5"
-          },
-          "media": {
-            "image": {
-              "class": "mbr-figure__img",
-              "src": "@THEME_PATH@/components/_images/info.jpg"
-            },
-            "video": {
-              "active": true,
-              "src": "https://www.youtube.com/watch?v=CluVGS25Kb0",
-              "class": "mbr-figure__img",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            }
-          },
-          "title": "<em>SpaceM</em> Page Builder",
-          "text": "רויטל שירי-הורוביץ&nbsp;<br>מתארחת בתוכנית הרדיו משפחה גרעינית - 21.03.18\n<br>תוכנית המוקדשת למשפחה, לילדים ולבחירות שאנו עושים בהקשרים אלו בכל יום, שעה ורגע.\n<br>",
-          "buttons": "<a data-app-btn=\"true\" href=\"https://glz.co.il/%D7%92%D7%9C%D7%A6/%D7%AA%D7%95%D7%9B%D7%A0%D7%99%D7%95%D7%AA/%D7%9E%D7%A9%D7%A4%D7%97%D7%94-%D7%92%D7%A8%D7%A2%D7%99%D7%A0%D7%99%D7%AA/%D7%9E%D7%A9%D7%A4%D7%97%D7%94-%D7%92%D7%A8%D7%A2%D7%99%D7%A0%D7%99%D7%AA21-03-2018-1401\" class=\"btn btn-primary\" role=\"button\" target=\"_blank\">לשמיעת הראיון המלא</a>",
-          "alias": "spacem/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header1",
-          "_customCSS": "direction:rtl;",
-          "_anchor": "header1-d3"
         },
         {
           "_params": {
@@ -2993,87 +2835,6 @@
           "text": "Create awesome mobile-friendly websites. No coding and free."
         },
         {
-          "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "0",
-            "showTitle": true,
-            "showSubtitle": true,
-            "showText": false,
-            "showImages": true,
-            "showButtons": false,
-            "parallax": false,
-            "bgImageRadio": false,
-            "bgImage": "file:///C:/Users/Aviv/AppData/Local/Mobirise.com/Mobirise/projectData/2_3.jpg",
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#151515",
-            "overlayOpacity": 0.75
-          },
-          "title1": "Anjelin Sparks",
-          "subtitle1": "Project manager",
-          "text1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum dolorem quo in, animi iste magnam, saepe accusantium veritatis vitae perferendis delectus eligendi officia nulla pariatur incidunt culpa vel doloribus rem.",
-          "media1": {
-            "image": {
-              "class": "mbr-figure__img",
-              "src": "file:///C:/Users/Aviv/AppData/Local/Mobirise.com/Mobirise/projectData/team_item_1.jpg",
-              "active": true
-            }
-          },
-          "icons1": "<a data-app-btn=\"true\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><span class=\"socicon socicon-google mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" title=\"Youtube\" target=\"_blank\" href=\"http://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\"></span></a> ",
-          "title2": "Jenny Nixon",
-          "subtitle2": "Web-designer",
-          "text2": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum dolorem quo in, animi iste magnam, saepe accusantium veritatis vitae perferendis delectus eligendi officia nulla pariatur incidunt culpa vel doloribus rem.",
-          "media2": {
-            "image": {
-              "class": "mbr-figure__img",
-              "src": "file:///C:/Users/Aviv/AppData/Local/Mobirise.com/Mobirise/projectData/team_item_2.jpg",
-              "active": true
-            }
-          },
-          "icons2": "<a data-app-btn=\"true\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><span class=\"socicon socicon-google mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" title=\"Youtube\" target=\"_blank\" href=\"http://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\"></span></a> ",
-          "title3": "<a href=\"interview-with-author-zohar-menashas.html\" style=\"font-weight: normal;\">ראיון עם הסופר זהר מנשס</a>",
-          "subtitle3": "יולי 2017",
-          "text3": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum dolorem quo in, animi iste magnam, saepe accusantium veritatis vitae perferendis delectus eligendi officia nulla pariatur incidunt culpa vel doloribus rem.",
-          "media3": {
-            "image": {
-              "class": "mbr-figure__img",
-              "src": "@PROJECT_PATH@/assets/images/fullsizerender-1-523x520.jpg",
-              "active": true,
-              "link": "interview-with-author-zohar-menashas.html",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "icons3": "<a data-app-btn=\"true\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><span class=\"socicon socicon-google mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" title=\"Youtube\" target=\"_blank\" href=\"http://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\"></span></a> ",
-          "title4": "mitchel jobs",
-          "subtitle4": "Programmer",
-          "text4": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum dolorem quo in, animi iste magnam, saepe accusantium veritatis vitae perferendis delectus eligendi officia nulla pariatur incidunt culpa vel doloribus rem.",
-          "media4": {
-            "image": {
-              "class": "mbr-figure__img",
-              "src": "file:///C:/Users/Aviv/AppData/Local/Mobirise.com/Mobirise/projectData/team_item_1.jpg"
-            }
-          },
-          "icons4": "<a data-app-btn=\"true\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><span class=\"socicon socicon-google mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" title=\"Youtube\" target=\"_blank\" href=\"http://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\"></span></a> ",
-          "alias": "spacem/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content4",
-          "_customHTML": "<section class=\"mbr-section--bg-adapted mbr-section--relative mbr-after-navbar\" style=\"background-color: rgb(255, 255, 255);\">\n        \n    <div id=\"contact-info\" style=\"\">\n        <div class=\"container\">\n            <div class=\"row\">\n                                      \n                        <div class=\"mbr-cards-col col-xs-12\">\n                           <div class=\"team-item c-info\">\n                                <div class=\"image\">\n                                    <figure class=\"mbr-figure mbr-figure--adapted mbr-figure--caption-inside-bottom mbr-figure--full-width \"><iframe style=\"background-color:#1A1A1A;width:200px;height: 230px\" src=\"https://player.kan.org.il/player/?stream=vod&amp;account=ipbc&amp;is_mms=true&amp;medias[0]=ipbc-um86Q1-XYGI&amp;width=100%25&amp;height=0px&amp;font_size=10&amp;style_schema=ipbc&amp;fullScreen=false&amp;audio_tag&amp;showEmbedded&amp;qualityChange&amp;autoplay=false\">\n  &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;p&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;Your browser does not support iframes.&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;/p&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;\n</iframe></figure>\n                                </div>\n                                <h4 class=\"mbr-editable-content\" code-editable-id=\"120\"><p><a href=\"interview-with-author-zohar-menashas.html\" style=\"font-weight: normal;\">רויטל שירי הורוביץ מתארחת בתוכנית הרדיו גם כן תרבות - גואל פינטו</a><a href=\"interview-with-author-balfurh.html\"></a></p></h4>\n                                <h5 class=\"mbr-section-subtitle mbr-editable-content\" code-editable-id=\"121\">הראיון מתחיל בערך בדקה ה 90</h5>\n                                \n                                \n                            </div>\n                        </div>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_customCSS": "H4 {\n\tfont-size: 16px;\n}\ndirection:rtl;\n.team-item > .image .mbr-figure__img {\n    width: 200px;\n    height: 230px;\n}",
-          "_customTemplate": true,
-          "_JSplaceholders": [],
-          "_PHPplaceholders": [],
-          "_anchor": "content4-d4"
-        },
-        {
           "alias": "facebook-comments",
           "_tags": [
             "Extension"
@@ -3126,7 +2887,7 @@
             "showMedia": true,
             "parallax": false,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
             "bgColorRadio": true,
             "bgColor": "#212121",
             "bgVideoRadio": false,
@@ -3263,7 +3024,7 @@
       "settings": {
         "meta_descr": "Revital shiri-horovitz | interview with author David",
         "title": "Revital shiri-horovitz | interview with author David",
-        "order": 15
+        "order": 14
       },
       "components": [
         {
@@ -3289,7 +3050,7 @@
             "showButtons": false,
             "parallax": false,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
             "bgColorRadio": true,
             "bgColor": "#fff",
             "bgVideoRadio": false,
@@ -3374,7 +3135,7 @@
             "paddingTop": 1,
             "paddingBottom": 2,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
             "parallax": false,
             "bgColorRadio": true,
             "bgColor": "#fff",
@@ -3441,7 +3202,7 @@
             "showMedia": true,
             "parallax": false,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
             "bgColorRadio": true,
             "bgColor": "#212121",
             "bgVideoRadio": false,
@@ -3667,7 +3428,7 @@
       "settings": {
         "meta_descr": "Revital shiri-horovitz | Interview with author Revital",
         "title": "Revital shiri-horovitz | Interview with author Revital",
-        "order": 16
+        "order": 15
       },
       "components": [
         {
@@ -3693,7 +3454,7 @@
             "showButtons": false,
             "parallax": false,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
             "bgColorRadio": true,
             "bgColor": "#fff",
             "bgVideoRadio": false,
@@ -3736,7 +3497,7 @@
             "showTitle": true,
             "showText": true,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
             "parallax": false,
             "bgColorRadio": true,
             "bgColor": "#fff",
@@ -3885,7 +3646,7 @@
             "showMedia": true,
             "parallax": false,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
             "bgColorRadio": true,
             "bgColor": "#212121",
             "bgVideoRadio": false,
@@ -4107,7 +3868,7 @@
       "settings": {
         "meta_descr": "Revital shiri-horovitz | Interview with author sharit",
         "title": "Revital shiri-horovitz | Interview with author sharit",
-        "order": 30
+        "order": 29
       },
       "components": [
         {
@@ -4133,7 +3894,7 @@
             "showButtons": false,
             "parallax": false,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
             "bgColorRadio": true,
             "bgColor": "#fff",
             "bgVideoRadio": false,
@@ -4176,7 +3937,7 @@
             "showTitle": true,
             "showText": true,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
             "parallax": false,
             "bgColorRadio": true,
             "bgColor": "#fff",
@@ -4337,7 +4098,7 @@
             "showMedia": true,
             "parallax": false,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
             "bgColorRadio": true,
             "bgColor": "#212121",
             "bgVideoRadio": false,
@@ -4559,7 +4320,7 @@
       "settings": {
         "meta_descr": "Revital shiri-horovitz | Interview with author Racheli Avraham Eitan",
         "title": "Revital shiri-horovitz | Interview with author Racheli Avraham Eitan",
-        "order": 18
+        "order": 17
       },
       "components": [
         {
@@ -4585,7 +4346,7 @@
             "showButtons": false,
             "parallax": false,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
             "bgColorRadio": true,
             "bgColor": "#fff",
             "bgVideoRadio": false,
@@ -4628,7 +4389,7 @@
             "showTitle": true,
             "showText": true,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
             "parallax": false,
             "bgColorRadio": true,
             "bgColor": "#fff",
@@ -4786,7 +4547,7 @@
             "showMedia": true,
             "parallax": false,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
             "bgColorRadio": true,
             "bgColor": "#212121",
             "bgVideoRadio": false,
@@ -5008,7 +4769,7 @@
       "settings": {
         "meta_descr": "Revital shiri-horovitz | Interview with author Yaffa Wagner",
         "title": "Revital shiri-horovitz | Interview with author Yaffa Wagner",
-        "order": 19
+        "order": 18
       },
       "components": [
         {
@@ -5034,7 +4795,7 @@
             "showButtons": false,
             "parallax": false,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
             "bgColorRadio": true,
             "bgColor": "#fff",
             "bgVideoRadio": false,
@@ -5077,7 +4838,7 @@
             "showTitle": true,
             "showText": true,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
             "parallax": false,
             "bgColorRadio": true,
             "bgColor": "#fff",
@@ -5235,7 +4996,7 @@
             "showMedia": true,
             "parallax": false,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
             "bgColorRadio": true,
             "bgColor": "#212121",
             "bgVideoRadio": false,
@@ -5457,7 +5218,7 @@
       "settings": {
         "meta_descr": "Revital shiri-horovitz | Interview with author Yamit Armbrister.",
         "title": "Revital shiri-horovitz | Interview with author Yamit Armbrister.",
-        "order": 20
+        "order": 19
       },
       "components": [
         {
@@ -5483,7 +5244,7 @@
             "showButtons": false,
             "parallax": false,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
             "bgColorRadio": true,
             "bgColor": "#fff",
             "bgVideoRadio": false,
@@ -5526,7 +5287,7 @@
             "showTitle": true,
             "showText": true,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
             "parallax": false,
             "bgColorRadio": true,
             "bgColor": "#fff",
@@ -5684,7 +5445,7 @@
             "showMedia": true,
             "parallax": false,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
             "bgColorRadio": true,
             "bgColor": "#212121",
             "bgVideoRadio": false,
@@ -5906,7 +5667,7 @@
       "settings": {
         "meta_descr": "Revital shiri-horovitz | Interview with author Dorit Kedar.",
         "title": "Revital shiri-horovitz | Interview with author Dorit Kedar",
-        "order": 21
+        "order": 20
       },
       "components": [
         {
@@ -5932,7 +5693,7 @@
             "showButtons": false,
             "parallax": false,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
             "bgColorRadio": true,
             "bgColor": "#fff",
             "bgVideoRadio": false,
@@ -5975,7 +5736,7 @@
             "showTitle": true,
             "showText": true,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
             "parallax": false,
             "bgColorRadio": true,
             "bgColor": "#fff",
@@ -6133,7 +5894,7 @@
             "showMedia": true,
             "parallax": false,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
             "bgColorRadio": true,
             "bgColor": "#212121",
             "bgVideoRadio": false,
@@ -6355,7 +6116,7 @@
       "settings": {
         "meta_descr": "Revital shiri-horovitz | Interview with author Anat Aderet",
         "title": "Revital shiri-horovitz | Interview with author Anat Aderet",
-        "order": 22
+        "order": 21
       },
       "components": [
         {
@@ -6381,7 +6142,7 @@
             "showButtons": false,
             "parallax": false,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
             "bgColorRadio": true,
             "bgColor": "#fff",
             "bgVideoRadio": false,
@@ -6424,7 +6185,7 @@
             "showTitle": true,
             "showText": true,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
             "parallax": false,
             "bgColorRadio": true,
             "bgColor": "#fff",
@@ -6492,7 +6253,7 @@
             "showMedia": true,
             "parallax": false,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
             "bgColorRadio": true,
             "bgColor": "#212121",
             "bgVideoRadio": false,
@@ -6714,7 +6475,7 @@
       "settings": {
         "meta_descr": "רויטל שירי הורוביץ ראיון עם המשורר איתמר זהר ",
         "title": "רויטל שירי הורוביץ | ראיון עם המשורר איתמר זהר",
-        "order": 23
+        "order": 22
       },
       "components": [
         {
@@ -6740,7 +6501,7 @@
             "showButtons": false,
             "parallax": false,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
             "bgColorRadio": true,
             "bgColor": "#fff",
             "bgVideoRadio": false,
@@ -6783,7 +6544,7 @@
             "showTitle": true,
             "showText": true,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
             "parallax": false,
             "bgColorRadio": true,
             "bgColor": "#fff",
@@ -6851,7 +6612,7 @@
             "showMedia": true,
             "parallax": false,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
             "bgColorRadio": true,
             "bgColor": "#212121",
             "bgVideoRadio": false,
@@ -7073,7 +6834,7 @@
       "settings": {
         "meta_descr": "רויטל שירי הורוביץ ראיון עם המשורר חיים ספטי ",
         "title": "רויטל שירי הורוביץ | ראיון עם המשורר חיים ספטי",
-        "order": 24
+        "order": 23
       },
       "components": [
         {
@@ -7099,7 +6860,7 @@
             "showButtons": false,
             "parallax": false,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
             "bgColorRadio": true,
             "bgColor": "#fff",
             "bgVideoRadio": false,
@@ -7142,7 +6903,7 @@
             "showTitle": true,
             "showText": true,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
             "parallax": false,
             "bgColorRadio": true,
             "bgColor": "#fff",
@@ -7210,7 +6971,7 @@
             "showMedia": true,
             "parallax": false,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
             "bgColorRadio": true,
             "bgColor": "#212121",
             "bgVideoRadio": false,
@@ -7432,7 +7193,7 @@
       "settings": {
         "meta_descr": "רויטל שירי הורוביץ ראיון עם המשורר דוד יקותיאל",
         "title": "רויטל שירי הורוביץ | ראיון עם המשורר דוד יקותיאל",
-        "order": 25
+        "order": 24
       },
       "components": [
         {
@@ -7458,7 +7219,7 @@
             "showButtons": false,
             "parallax": false,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
             "bgColorRadio": true,
             "bgColor": "#fff",
             "bgVideoRadio": false,
@@ -7501,7 +7262,7 @@
             "showTitle": true,
             "showText": true,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
             "parallax": false,
             "bgColorRadio": true,
             "bgColor": "#fff",
@@ -7535,7 +7296,7 @@
             "paddingTop": "0",
             "paddingBottom": 2,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
             "parallax": false,
             "bgColorRadio": true,
             "bgColor": "#fff",
@@ -7692,7 +7453,7 @@
             "showMedia": true,
             "parallax": false,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
             "bgColorRadio": true,
             "bgColor": "#212121",
             "bgVideoRadio": false,
@@ -7914,7 +7675,7 @@
       "settings": {
         "meta_descr": "רויטל שירי הורוביץ ראיון עם המשורר שלומי חסקי",
         "title": "רויטל שירי הורוביץ | ראיון עם המשורר שלומי חסקי",
-        "order": 26
+        "order": 25
       },
       "components": [
         {
@@ -7940,7 +7701,7 @@
             "showButtons": false,
             "parallax": false,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
             "bgColorRadio": true,
             "bgColor": "#fff",
             "bgVideoRadio": false,
@@ -7983,7 +7744,7 @@
             "showTitle": true,
             "showText": true,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
             "parallax": false,
             "bgColorRadio": true,
             "bgColor": "#fff",
@@ -8051,7 +7812,7 @@
             "showMedia": true,
             "parallax": false,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
             "bgColorRadio": true,
             "bgColor": "#212121",
             "bgVideoRadio": false,
@@ -8273,7 +8034,7 @@
       "settings": {
         "meta_descr": "רויטל שירי הורוביץ ראיון עם המשורר בלפור חקק",
         "title": "רויטל שירי הורוביץ | ראיון עם המשורר  בלפור חקק",
-        "order": 27
+        "order": 26
       },
       "components": [
         {
@@ -8299,7 +8060,7 @@
             "showButtons": false,
             "parallax": false,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
             "bgColorRadio": true,
             "bgColor": "#fff",
             "bgVideoRadio": false,
@@ -8342,7 +8103,7 @@
             "showTitle": true,
             "showText": true,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
             "parallax": false,
             "bgColorRadio": true,
             "bgColor": "#fff",
@@ -8500,7 +8261,7 @@
             "showMedia": true,
             "parallax": false,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
             "bgColorRadio": true,
             "bgColor": "#212121",
             "bgVideoRadio": false,
@@ -8725,7 +8486,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 28
+        "order": 27
       },
       "components": [
         {
@@ -8908,7 +8669,7 @@
             "showMedia": true,
             "parallax": false,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
             "bgColorRadio": true,
             "bgColor": "#212121",
             "bgVideoRadio": false,
@@ -9037,7 +8798,7 @@
       "settings": {
         "meta_descr": "רויטל שירי הורוביץ ראיון עם הסופר זהר מנשס",
         "title": "רויטל שירי הורוביץ | ראיון עם הסופר זהר מנשס",
-        "order": 29
+        "order": 28
       },
       "components": [
         {
@@ -9063,7 +8824,7 @@
             "showButtons": false,
             "parallax": false,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
             "bgColorRadio": true,
             "bgColor": "#fff",
             "bgVideoRadio": false,
@@ -9106,7 +8867,7 @@
             "showTitle": true,
             "showText": true,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
             "parallax": false,
             "bgColorRadio": true,
             "bgColor": "#fff",
@@ -9263,7 +9024,7 @@
             "showMedia": true,
             "parallax": false,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
             "bgColorRadio": true,
             "bgColor": "#212121",
             "bgVideoRadio": false,
@@ -9485,7 +9246,7 @@
       "settings": {
         "meta_descr": "Buy revital books directly",
         "title": "Buy revital books directly",
-        "order": 7
+        "order": 6
       },
       "components": [
         {
@@ -9602,7 +9363,7 @@
             "showButtons": false,
             "parallax": false,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
             "bgColorRadio": true,
             "bgColor": "#fff",
             "bgVideoRadio": false,
@@ -9635,7 +9396,7 @@
             "showButtons": false,
             "parallax": false,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
             "bgColorRadio": true,
             "bgColor": "#fff",
             "bgVideoRadio": false,
@@ -9838,7 +9599,7 @@
             "showMedia": true,
             "parallax": false,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
             "bgColorRadio": true,
             "bgColor": "#212121",
             "bgVideoRadio": false,
@@ -9970,7 +9731,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 12
+        "order": 11
       },
       "components": [
         {
@@ -10142,7 +9903,7 @@
             "showButtons": false,
             "parallax": false,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
             "bgColorRadio": true,
             "bgColor": "#e5e5e5",
             "bgVideoRadio": false,
@@ -10171,7 +9932,7 @@
             "showTitle": true,
             "showText": true,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
             "parallax": false,
             "bgColorRadio": true,
             "bgColor": "#fff",
@@ -10210,7 +9971,7 @@
             "showTitle": true,
             "showText": true,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
             "parallax": false,
             "bgColorRadio": true,
             "bgColor": "#fffcfc",
@@ -10249,7 +10010,7 @@
             "showTitle": true,
             "showText": true,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
             "parallax": false,
             "bgColorRadio": true,
             "bgColor": "#fff",
@@ -10288,7 +10049,7 @@
             "showTitle": true,
             "showText": true,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
             "parallax": false,
             "bgColorRadio": true,
             "bgColor": "#fffcfc",
@@ -10327,7 +10088,7 @@
             "showTitle": true,
             "showText": true,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
             "parallax": false,
             "bgColorRadio": true,
             "bgColor": "#fff9f9",
@@ -10366,7 +10127,7 @@
             "showTitle": true,
             "showText": true,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
             "parallax": false,
             "bgColorRadio": true,
             "bgColor": "#fff",
@@ -10405,7 +10166,7 @@
             "showTitle": true,
             "showText": true,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
             "parallax": false,
             "bgColorRadio": true,
             "bgColor": "#fffcfc",
@@ -10444,7 +10205,7 @@
             "showTitle": true,
             "showText": true,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
             "parallax": false,
             "bgColorRadio": true,
             "bgColor": "#fff",
@@ -10483,7 +10244,7 @@
             "showTitle": true,
             "showText": true,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
             "parallax": false,
             "bgColorRadio": true,
             "bgColor": "#fffcfc",
@@ -10569,7 +10330,7 @@
             "showMedia": true,
             "parallax": false,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
             "bgColorRadio": true,
             "bgColor": "#212121",
             "bgVideoRadio": false,
@@ -10697,7 +10458,7 @@
     "index.html": {
       "settings": {
         "title": "רויטל שירי הורביץ ספרים",
-        "order": 5,
+        "order": 4,
         "meta_descr": "הספרים שנכתבו על ידי הסופרת והבלוגרית רויטל שירי הורוביץ"
       },
       "components": [
@@ -10814,7 +10575,15 @@
             "Theme"
           ],
           "_name": "news1",
-          "_customCSS": "@import url(undefined);\nP {\n  text-align: right;\n}\nH3 {\n  text-align: right;\n}\ndirection:rtl;\nimg{\n width: 350px;\n  height: 550px;   \n}\n.separator:before {\n    content: '';\n    position: absolute;\n    height: 2px;\n    width: 100%;\n    top: 1px;\n    right: 0;\n}",
+          "_customCSS": "direction:rtl;\nimg{\n width: 350px;\n  height: 550px;   \n}\n.separator:before {\n    content: '';\n    position: absolute;\n    height: 2px;\n    width: 100%;\n    top: 1px;\n    right: 0;\n}",
+          "_styles": {
+            "P": {
+              "text-align": "right"
+            },
+            "H3": {
+              "text-align": "right"
+            }
+          },
           "_anchor": "news1-9i",
           "_params": {
             "paddingTop": "3",
@@ -10878,11 +10647,7 @@
           "subtitle3": "<a href=\"http://mobirise.com\">application</a>",
           "title3": "בת עיראק",
           "text3": "בת עיראק הוא רומן משפחתי מרתק, המספר על שלוש נשים בנות משפחה אחת. זהו סיפורה של הגירה מעיראק לישראל בתחילת שנות החמישים, כפי שהיא נחווית על ידי שתי אחיות: ויולט, הנחשפת בפנינו דרך יומן חיים שכתבה כשלקתה במחלה קשה, ואחותה פרידה, אליה אנו מתוודעים דרך יחסיה עם הסביבה ועם עצמה. הצלע השלישית היא נועה, בתה של ויולט, סטודנטית בשנות העשרים, המחפשת משמעות לחייה. נועה יוצאת למסע רוחני אל העבר כדי שתוכל לבנות את חייה בהווה ובעתיד.\n<br><a href=\"books.html\">להמשך קריאה</a>",
-          "date3": "08/09/2016",
-          "_customHTML": "<section class=\"mbr-section--bg-adapted mbr-section--relative mbr-after-navbar\" data-rv-view=\"2\" style=\"background-color: rgb(255, 255, 255);\">\n\n    <div id=\"contact-info\" style=\"padding-top: 150px; padding-bottom: 0px;\">\n        <div class=\"container\">\n            <div class=\"row\">\n                    \n                   <div class=\"mbr-cards-col col-md-3 col-sm-6 col-xs-12\">\n                            <div class=\"team-item news c-info\">\n                                <div class=\"image\">\n                                    <figure class=\"mbr-figure mbr-figure--adapted mbr-figure--caption-inside-bottom mbr-figure--full-width \"><img src=\"@PROJECT_PATH@/assets/images/how-to-hunt-a-bear-266x415.png\" class=\"mbr-figure__img\"></figure>\n                                </div>\n\n                                <h3 class=\"styled mbr-editable-content\" style=\"text-align: right;\" code-editable-id=\"277\">איך לצוד דוב</h3>\n                                <div class=\"separator\"></div>\n                                <p class=\"mbr-editable-content\" code-editable-id=\"278\">\"איך לצוד דוב\" הוא רומן היסטורי המתאר את קורותיה של משפחה יהודית מ-1939, עת נכנסו הנאצים אל העיירה ושינו את גורלם של תושביה לעד, ועד עלייתה ארצה ב-1949.<br><a href=\"how-to-hunt-a-bear.html\">להמשך קריאה&nbsp;וקניה</a><br></p>\n\n                            </div>\n                        </div>\n                        <div class=\"mbr-cards-col col-md-3 col-sm-6 col-xs-12\">\n                            <div class=\"team-item news c-info\">\n                                <div class=\"image\">\n                                    <figure class=\"mbr-figure mbr-figure--adapted mbr-figure--caption-inside-bottom mbr-figure--full-width \"><img src=\"@PROJECT_PATH@/assets/images/319x499.jpg\" class=\"mbr-figure__img\"></figure>\n                                </div>\n\n                                <h3 class=\"styled mbr-editable-content\" style=\"text-align: right;\" code-editable-id=\"279\">את מדמיינת</h3>\n                                <div class=\"separator\"></div>\n                                <p class=\"mbr-editable-content\" code-editable-id=\"280\">\"באחת מהשיחות הלא פשוטות עם אמי היא צעקה לעברי: 'אבל את שלי'. זה היה כבר בשנות החמישים שלי, הייתי אישה בוגרת, והבנתי שאני ישות נפרדת ועצמאית. עצרתי לרגע, ומכיוון שלא רציתי להעליב אותה אמרתי: \"אני לא שלך ולא של אף אחד, אני של עצמי.\" מאז היא חזרה על האמירה הזאת פעמים רבות, בכל פעם שחשה שאינני מבינה שאני צריכה להיות איתה, לעשות למענה או להיות לישות אחת עמה. קשה לתאר את הרגש שעולה בי בכל פעם שהיא אומרת משפט כזה\".&nbsp;<br><a href=\"Its-just-your-imagination.html\">להמשך קריאה</a><br></p>\n\n                            </div>\n                        </div>\n\n                        <div class=\"mbr-cards-col col-md-3 col-sm-6 col-xs-12\">\n                            <div class=\"team-item news c-info\">\n                                <div class=\"image\">\n                                    <figure class=\"mbr-figure mbr-figure--adapted mbr-figure--caption-inside-bottom mbr-figure--full-width \"><img src=\"@PROJECT_PATH@/assets/images/syscover-2000x2966.png\" class=\"mbr-figure__img\"></figure>\n                                </div>\n\n                                <h3 class=\"styled mbr-editable-content\" code-editable-id=\"281\">להתראות בקרוב</h3>\n                                <div class=\"separator\"></div>\n                                <p class=\"mbr-editable-content\" code-editable-id=\"282\">תל -אביב סיאטל, ואשה אחת שעושה מעשה שלא יעשה. שתי חברות הכי טובות שנפער ביניהן פער גדול.האם המרחק גרם לזה? האם הדשא של השכן אכן ירוק יותר? מולדת מול משפחה? ומה משמעותו של האושר האישי? הספר \"להתראות בקרוב\" סוחף את הקוראים לתוך מערבולת רגשית,מציג דילמות הכורכות בחיים במדינה אחרת,ומעורר מחשבות על החיים עצמם:חברות, משפחה, מדינה. הרומן כתוב בשתי וערב, סיפורי עבר הנכרכים בהווה ומכתבים שזורים ביניהם.&nbsp;<br><a href=\"hope-to-see-you-soon.html\">להמשך קריאה</a><br></p>\n\n                            </div>\n                        </div>\n\n                        <div class=\"mbr-cards-col col-md-3 col-sm-6 col-xs-12\">\n                            <div class=\"team-item news c-info\">\n                                <div class=\"image\">\n                                    <figure class=\"mbr-figure mbr-figure--adapted mbr-figure--caption-inside-bottom mbr-figure--full-width \"><img src=\"@PROJECT_PATH@/assets/images/bat-iraq-book-2000x3150.png\" class=\"mbr-figure__img\"></figure>\n                                </div>\n\n                                <h3 class=\"styled mbr-editable-content\" code-editable-id=\"283\">בת עיראק</h3>\n                                <div class=\"separator\"></div>\n                                <p class=\"mbr-editable-content\" code-editable-id=\"284\">בת עיראק הוא רומן משפחתי מרתק, המספר על שלוש נשים בנות משפחה אחת. זהו סיפורה של הגירה מעיראק לישראל בתחילת שנות החמישים, כפי שהיא נחווית על ידי שתי אחיות: ויולט, הנחשפת בפנינו דרך יומן חיים שכתבה כשלקתה במחלה קשה, ואחותה פרידה, אליה אנו מתוודעים דרך יחסיה עם הסביבה ועם עצמה. הצלע השלישית היא נועה, בתה של ויולט, סטודנטית בשנות העשרים, המחפשת משמעות לחייה. נועה יוצאת למסע רוחני אל העבר כדי שתוכל לבנות את חייה בהווה ובעתיד.\n<br><a href=\"books.html\"> להמשך קריאה</a></p>\n\n                            </div>\n                        </div>\n\n                    </div>\n\n                </div>\n\n            </div>\n\n\n</section>\n",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": [],
-          "_customTemplate": true
+          "date3": "08/09/2016"
         },
         {
           "alias": "spacem/components",
@@ -10911,7 +10676,7 @@
             "showMedia": true,
             "parallax": false,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
             "bgColorRadio": true,
             "bgColor": "#212121",
             "bgVideoRadio": false,
@@ -11043,7 +10808,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 14
+        "order": 13
       },
       "components": [
         {
@@ -11211,7 +10976,7 @@
             "showButtons": false,
             "parallax": false,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
             "bgColorRadio": true,
             "bgColor": "#222222",
             "bgVideoRadio": false,
@@ -11237,6 +11002,102 @@
               "color": "#ffffff"
             }
           }
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "showTitle": true,
+            "showSubtitle": true,
+            "showButtons": true,
+            "showMedia": true,
+            "imageSize": "15",
+            "inverse": false,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header5.jpg",
+            "bgColorRadio": true,
+            "bgColor": "#e5e5e5",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.35
+          },
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "src": "@PROJECT_PATH@/assets/images/logo-at.svg",
+              "link": "https://www.atmag.co.il/",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true,
+              "active": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=axMabrSDrI8",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "<span style=\"font-weight: normal;\">לגדול עם אימא נרקיסיסטית: \"הייתי מרעיבה את עצמי כדי לזכות ממנה במילה טובה\"</span>",
+          "text": "הסופרת רויטל שירי־הורוביץ בטוחה שהשתיקה יותר קשה מהחשיפה. זו הסיבה שהספר שלה \"את מדמיינת\", מסע נפשי אישי, אמיץ וכואב של מי שגדלה לאימא נרקיסיסטית, הפך בסופו של דבר לנחלת הכלל. הצורך לפרוק את כובד הקשיים שחוותה לאורך השנים, הוא רק סיבה אחת מבחינתה להוצאת הספר. \"הספר נכתב כדי לדבר על אימהות נרקיסיסטיות ועל בנות לאימהות כאלה ולעזור לאותן בנות להבין שהן בסדר, זה לא אתן – זה האימהות שלכן, ומה שאתן מרגישות וחוות לאורך השנים הוא אמיתי, אתן לא חריגות ואתן לא לבד\".",
+          "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">להמשך קריאה</a>",
+          "alias": "spacem/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-c2",
+          "_customCSS": "direction:rtl;\n.btn-primary {\n    background-color: transparent;\n    border-color: #080808;\n    color: #080808;\n}",
+          "_styles": {
+            "EM": {
+              "font-size": "32px"
+            },
+            "H1": {
+              "font-size": "32px",
+              "text-align": "right"
+            },
+            "SPAN": {
+              "color": "#000000"
+            },
+            "P": {
+              "color": "#000000",
+              "text-align": "right"
+            }
+          }
+        },
+        {
+          "_params": {
+            "autoplay": true,
+            "paddingTop": 3,
+            "paddingBottom": "2",
+            "showBullets": false,
+            "bgColor": "#efecec",
+            "timeout": 5,
+            "slides": [
+              {
+                "active": true,
+                "showText": true,
+                "showTitle": false,
+                "image": "@THEME_PATH@/components/_images/header1.jpg",
+                "title": "",
+                "text": "רויטל קראתי בשבת את הספר והרגשתי שהוא מלווה אותי כמו חברה טובה. כשסיימתי התחלתי עוד פעם לקרוא אותו😊<br>נתת שם וכותרת למשהו שלא ידעתי להגדיר כול חיי ואף שידעתי שהוא לא תקין לא ידעתי איך להגדיר אותו ובכך לעשות הפרדה בינה וביני ולהבין את הפגיעה..<br><br>מרגישה שזו נקודה משמעותית בריפוי שלי."
+              }
+            ]
+          },
+          "articleLayout": false,
+          "alias": "spacem/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials1",
+          "_anchor": "testimonials1-cm",
+          "_customCSS": "direction:rtl;"
         },
         {
           "_params": {
@@ -11823,7 +11684,7 @@
             "showMedia": true,
             "parallax": false,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
             "bgColorRadio": true,
             "bgColor": "#212121",
             "bgVideoRadio": false,
@@ -11956,7 +11817,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 13
+        "order": 12
       },
       "components": [
         {
@@ -12123,7 +11984,7 @@
             "showButtons": false,
             "parallax": false,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
             "bgColorRadio": true,
             "bgColor": "#e5e5e5",
             "bgVideoRadio": false,
@@ -12152,7 +12013,7 @@
             "showTitle": true,
             "showText": true,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
             "parallax": false,
             "bgColorRadio": true,
             "bgColor": "#fff",
@@ -12191,7 +12052,7 @@
             "showTitle": true,
             "showText": true,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
             "parallax": false,
             "bgColorRadio": true,
             "bgColor": "#fffcfc",
@@ -12276,7 +12137,7 @@
             "showMedia": true,
             "parallax": false,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
             "bgColorRadio": true,
             "bgColor": "#212121",
             "bgVideoRadio": false,
@@ -12405,7 +12266,7 @@
     "lecture.html": {
       "settings": {
         "title": "lecture",
-        "order": 2
+        "order": 1
       },
       "components": [
         {
@@ -12571,7 +12432,7 @@
             "showTitle": true,
             "showText": true,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
             "parallax": false,
             "bgColorRadio": true,
             "bgColor": "#fff",
@@ -12683,7 +12544,7 @@
             "showTitle": true,
             "showText": true,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
             "parallax": false,
             "bgColorRadio": true,
             "bgColor": "#fff",
@@ -12759,7 +12620,7 @@
             "showMedia": true,
             "parallax": false,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
             "bgColorRadio": true,
             "bgColor": "#212121",
             "bgVideoRadio": false,
@@ -12887,9 +12748,8 @@
     },
     "workshop-on-the-subject-of-girls-for-narcissistic-mothers.html": {
       "settings": {
-        "title": "סדנת מתחילות",
-        "order": 3,
-        "header_custom": "<meta property=\"og:image\" content=\"https://revital-sh.com/he/assets/images/workshop-on-the-subject-of-girls-for-narcissistic-mothers-meta.jpg\">"
+        "title": "סדנא-למתחילים",
+        "order": 2
       },
       "components": [
         {
@@ -13024,7 +12884,7 @@
             }
           },
           "title": "<span style=\"font-weight: normal;\"><i>את(לא)מדמיינת<br>סדנה לבנות לאימהות נרקיסיסטיות</i></span>",
-          "text": "אם תמיד הרגשת פער בין מה שהיא אמרה ובין מה שהיא עשתה, אם הרגשת שהיא מנסה לשלוט בך,<br> אם גדלת בתוך מסכת של שקרים, עד כדי כך שלא ידעת אם את אכן <br>רואה את מה שאת רואה, או שומעת את מה שאת שומעת, אם אמרו לך באופן קבוע<br> ש\"את מדמיינת\" או \"מגזימה\" והיה פער בין מה שהרגשת ומה שאמרו לך, אם מלאו את<br> ראשך ואת ליבך ברגשות אשמה<br><br>יתכן וגדלת עם אם נרקיסיסטית – ואת לא לבד!<br><br><br><b>הסדנה הזאת היא בדיוק עבורך!</b><br><br>נרקיסיזם אימהי הוא תופעה נרחבת, כלל עולמית, החוצה תרבויות ויבשות<br><br>· בסדנה נשוחח על משמעות המושג נרקיסיזם אימהי, מהם הסימנים המזהים של נרקיסיזם אימהי,<br> ומהן ההשלכות שלו על בנות לאימהות נרקיסיסטיות<br><br>· כיצד ניתן להתמודד עם מציאות שכזו? נלמד את שיטת חמשת שלבי הריפוי על פי ד\"ר קריל מקברייד<br><br>· נלמד איך לחיות בשלום עם עצמנו כי גם אנחנו ראויות לאהבה ללא תנאי<br><br>ניפגש בזום לשני מפגשים בני שעתיים וחצי: <br>יום שני 27.10.2020 בשעה 19:30 שעון ישראל,<br> יום שני 03.11.2020 בשעה 19:30 שעון ישראל<br>עלות: 500 ש\"ח להרשמה:<br>הסדנה מתקיימת בקבוצות קטנות, בסביבה תומכת ובאופן דיסקרטי",
+          "text": "אם תמיד הרגשת פער בין מה שהיא אמרה ובין מה שהיא עשתה, אם הרגשת שהיא מנסה לשלוט בך,<br> אם גדלת בתוך מסכת של שקרים, עד כדי כך שלא ידעת אם את אכן <br>רואה את מה שאת רואה, או שומעת את מה שאת שומעת, אם אמרו לך באופן קבוע<br> ש\"את מדמיינת\" או \"מגזימה\" והיה פער בין מה שהרגשת ומה שאמרו לך, אם מלאו את<br> ראשך ואת ליבך ברגשות אשמה<br><br>יתכן וגדלת עם אם נרקיסיסטית – ואת לא לבד!<br><br><b>הסדנה הזאת היא בדיוק עבורך!</b><br><br>נרקיסיזם אימהי הוא תופעה נרחבת, כלל עולמית, החוצה תרבויות ויבשות<br><br>· בסדנה נשוחח על משמעות המושג נרקיסיזם אימהי, מהם הסימנים המזהים של נרקיסיזם אימהי,<br> ומהן ההשלכות שלו על בנות לאימהות נרקיסיסטיות<br><br>· כיצד ניתן להתמודד עם מציאות שכזו? נלמד את שיטת חמשת שלבי הריפוי על פי ד\"ר קריל מקברייד<br><br>· נלמד איך לחיות בשלום עם עצמנו כי גם אנחנו ראויות לאהבה ללא תנאי<br><br>ניפגש ביום ששי בבוקר 14.2.2020, 9:00-12:30 בתל אביב<br>עלות: 300 ש\"ח להרשמה:<br>הסדנה מתקיימת בקבוצות קטנות, בסביבה תומכת ובאופן דיסקרטי",
           "buttons": "<a data-app-btn=\"true\" href=\"workshop-on-the-subject-of-girls-for-narcissistic-mothers.html#pricing-table1-b1\" class=\"btn btn-primary\" role=\"button\">להרשמה<br></a>",
           "alias": "spacem/components",
           "_tags": [
@@ -13044,7 +12904,7 @@
             "paddingTop": "1",
             "paddingBottom": "0",
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
             "parallax": false,
             "bgColorRadio": true,
             "bgColor": "#222222",
@@ -13076,10 +12936,10 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "0",
-            "showTitle": false,
+            "showTitle": true,
             "showText": false,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
             "parallax": false,
             "bgColorRadio": true,
             "bgColor": "#222222",
@@ -13186,7 +13046,7 @@
           "_name": "content4",
           "_anchor": "content4-bx",
           "_customCSS": "direction:rtl;\n.mbr-figure--full-width iframe, .mbr-figure--full-width .mbr-figure__img, .mbr-figure--full-width .mbr-figure__map {\n    width: auto;\n    height: 200px;\n}",
-          "_customHTML": "<section class=\"mbr-section--bg-adapted mbr-section--relative mbr-after-navbar\" data-rv-view=\"14\" style=\"background-color: rgb(255, 255, 255);\">\n        \n    <div id=\"contact-info\" style=\"padding-top: 0px; padding-bottom: 0px;\">\n        <div class=\"container\">\n            <div class=\"row\">\n                                      \n                 \n\n                        <div class=\"mbr-cards-col col-md-12 col-sm-12 col-xs-12\">\n                            <div class=\"team-item c-info\">\n                                <div class=\"image\">\n                                    <figure class=\"mbr-figure mbr-figure--adapted mbr-figure--caption-inside-bottom mbr-figure--full-width \"><img src=\"@PROJECT_PATH@/assets/images/rrrr-634-634x423.jpg\" class=\"mbr-figure__img\"></figure>\n                                </div>\n                                <h4 class=\"mbr-editable-content\" code-editable-id=\"206\">רויטל שירי-הורוביץ</h4>\n                                <h5 class=\"mbr-section-subtitle mbr-editable-content\" code-editable-id=\"207\">&nbsp;מנחת סדנאות ומלווה בתהליכי החלמה מנרקיסיזם אימהי</h5>\n                                <p class=\"mbr-editable-content\" code-editable-id=\"208\">רויטל שירי-הורוביץ היא מחברת הספר \"את מדמיינת – לגדול עם אמא נרקיסיסטית – מסע בין תובנות\" שיצא לאור ב 2018, ועוסק בתהליכי זיהוי, תובנות והחלמה של בנות לאימהות נרקיסיסטיות. שירי-הורוביץ היא דוקטורנטית באוניברסיטת אריאל המתמחה בתחום של נרקיסיזם אימהי. היא נשואה ואם לארבעה בנים.</p>\n                                \n                            </div>\n                        </div>\n\n                    </div>\n\n                </div>\n\n            </div>\n        \n    \n</section>",
+          "_customHTML": "<section class=\"mbr-section--bg-adapted mbr-section--relative mbr-after-navbar\" data-rv-view=\"14\" style=\"background-color: rgb(255, 255, 255);\">\n        \n    <div id=\"contact-info\" style=\"padding-top: 0px; padding-bottom: 0px;\">\n        <div class=\"container\">\n            <div class=\"row\">\n                                      \n                 \n\n                        <div class=\"mbr-cards-col col-md-12 col-sm-12 col-xs-12\">\n                            <div class=\"team-item c-info\">\n                                <div class=\"image\">\n                                    <figure class=\"mbr-figure mbr-figure--adapted mbr-figure--caption-inside-bottom mbr-figure--full-width \"><img src=\"@PROJECT_PATH@/assets/images/rrrr-634-634x423.jpg\" class=\"mbr-figure__img\"></figure>\n                                </div>\n                                <h4 class=\"mbr-editable-content\" code-editable-id=\"46\">רויטל שירי-הורוביץ</h4>\n                                <h5 class=\"mbr-section-subtitle mbr-editable-content\" code-editable-id=\"47\">סופרת, בלוגרית ומשוררת</h5>\n                                <p class=\"mbr-editable-content\" code-editable-id=\"48\">רויטל שירי-הורוביץ היא מחברת הספר \"את מדמיינת – לגדול עם אמא נרקיסיסטית – מסע בין תובנות\" שיצא לאור ב 2018, ועוסק בתהליכי זיהוי, תובנות והחלמה של בנות לאימהות נרקיסיסטיות. שירי-הורוביץ היא דוקטורנטית באוניברסיטת אריאל המתמחה בתחום של נרקיסיזם אימהי. היא נשואה ואם לארבעה בנים.</p>\n                                \n                            </div>\n                        </div>\n\n                    </div>\n\n                </div>\n\n            </div>\n        \n    \n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customTemplate": true
@@ -13198,7 +13058,7 @@
             "showTitle": true,
             "showText": false,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
             "parallax": false,
             "bgColorRadio": true,
             "bgColor": "#222222",
@@ -13234,7 +13094,7 @@
             "paddingBottom": "1",
             "showBullets": true,
             "bgColor": "#e0e0e0",
-            "timeout": "10",
+            "timeout": 5,
             "slides": [
               {
                 "active": true,
@@ -13251,7 +13111,7 @@
                 "showTitle": true,
                 "image": "@THEME_PATH@/components/_images/header1.jpg",
                 "title": "",
-                "text": "\" רויטל היקרה, תודה לך שחשבת על כל זה ותודה להזדמנות המדהימה הזו שהינו שותפות בה אתמול! זו חוויה שלא ניתן להסביר במילים! אני יכולה להגיד היום שאני לא שונה ואני לא לבד!\" 💗🌸🙏🏻"
+                "text": "\"לילך ורויטל יקרות! תודה לכן שחשבתן על כל זה ותודה להזדמנות המדהימה הזו שהינו שותפות בה אתמול! זו חוויה שלא ניתן להסביר במילים! אני יכולה להגיד היום שאני לא שונה ואני לא לבד!\" 💗🌸🙏🏻"
               },
               {
                 "active": false,
@@ -13305,7 +13165,7 @@
             "showTitle": true,
             "showText": false,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
             "parallax": false,
             "bgColorRadio": true,
             "bgColor": "#222222",
@@ -13373,8 +13233,8 @@
             "overlayOpacity": 0.5
           },
           "title1": "תשלום PayPal למתקדמות",
-          "title2": "תשלום PayPal",
-          "title3": "תשלום PAYBOX",
+          "title2": "תשלום PayPal למתחילות",
+          "title3": "תשלום PAYBOX למתקדמות",
           "title4": "תשלום PAYBOX למתחילות",
           "subtitle1": "Description",
           "subtitle2": "Description",
@@ -13389,8 +13249,8 @@
           "currency3": "₪",
           "currency4": "₪",
           "price1": "300",
-          "price2": "500",
-          "price3": "500",
+          "price2": "300",
+          "price3": "300",
           "price4": "300",
           "period1": "PayPal",
           "period2": "PayPal",
@@ -13405,7 +13265,7 @@
           "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"></li></ul>",
           "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"></li></ul>",
           "button1": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=400&amp;item_name=%D7%AA%D7%A9%D7%9C%D7%95%D7%9D+%D7%A1%D7%93%D7%A0%D7%90+%D7%9C%D7%9E%D7%AA%D7%A7%D7%93%D7%9E%D7%95%D7%AA&amp;currency_code=ILS\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd\" target=\"_blank\">&nbsp;הרשמה</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=500&amp;item_name=%D7%A1%D7%93%D7%A0%D7%90-%D7%9C%D7%9E%D7%AA%D7%97%D7%99%D7%9C%D7%99%D7%9D-21-06-2019&amp;currency_code=ILS\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd\" target=\"_blank\">הרשמה</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=300&amp;item_name=%D7%A1%D7%93%D7%A0%D7%90-%D7%9C%D7%9E%D7%AA%D7%97%D7%99%D7%9C%D7%99%D7%9D-21-06-2019&amp;currency_code=ILS\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd\" target=\"_blank\">הרשמה</a>",
           "button3": "<a data-app-btn=\"true\" href=\"http://pbme.co/pbj?v=j&amp;g=5ccdac46ed191b00152a7c2c\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd\" target=\"_blank\">הרשמה</a>",
           "button4": "<a data-app-btn=\"true\" href=\"http://pbme.co/pbj?v=j&amp;g=5ccdac46ed191b00152a7c2c\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd\" target=\"_blank\">הרשמה</a>",
           "alias": "spacem/components",
@@ -13423,7 +13283,7 @@
             "showTitle": false,
             "showText": true,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
             "parallax": false,
             "bgColorRadio": true,
             "bgColor": "#fff",
@@ -13499,7 +13359,7 @@
             "showMedia": true,
             "parallax": false,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
             "bgColorRadio": true,
             "bgColor": "#212121",
             "bgVideoRadio": false,
@@ -13628,7 +13488,7 @@
     "page29.html": {
       "settings": {
         "title": "sadna-2",
-        "order": 4
+        "order": 3
       },
       "components": [
         {
@@ -13783,7 +13643,7 @@
             "paddingTop": "1",
             "paddingBottom": "0",
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
             "parallax": false,
             "bgColorRadio": true,
             "bgColor": "#222222",
@@ -13818,7 +13678,7 @@
             "showTitle": true,
             "showText": false,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
             "parallax": false,
             "bgColorRadio": true,
             "bgColor": "#fff",
@@ -13857,7 +13717,7 @@
             "showTitle": true,
             "showText": false,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
             "parallax": false,
             "bgColorRadio": true,
             "bgColor": "#222222",
@@ -13976,7 +13836,7 @@
             "showTitle": true,
             "showText": false,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
             "parallax": false,
             "bgColorRadio": true,
             "bgColor": "#222222",
@@ -14056,7 +13916,7 @@
             "showTitle": true,
             "showText": true,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
             "parallax": false,
             "bgColorRadio": true,
             "bgColor": "#222222",
@@ -14173,7 +14033,7 @@
             "showTitle": false,
             "showText": true,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
             "parallax": false,
             "bgColorRadio": true,
             "bgColor": "#fff",
@@ -14249,7 +14109,7 @@
             "showMedia": true,
             "parallax": false,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
             "bgColorRadio": true,
             "bgColor": "#212121",
             "bgVideoRadio": false,
@@ -14372,398 +14232,6 @@
           },
           "copyright": "<i>2016 All rights reserved. Development by</i> Aviv Yeshua",
           "_anchor": "footer1-ck"
-        }
-      ]
-    },
-    "how-to-hunt-a-bear.html": {
-      "settings": {
-        "title": "איך לצוד דוב",
-        "order": 1,
-        "meta_descr": "\"איך לצוד דוב\" הוא רומן היסטורי המתאר את קורותיה של משפחה יהודית מ-1939, עת נכנסו הנאצים אל העיירה ושינו את גורלם של תושביה לעד, ועד עלייתה ארצה ב-1949.\n\nסיפורה של משפחת האוזר מסופר דרך שלוש נקודות מבט: יצחק, בן 87, המתגורר בבית אבות בירושלים ומבקש לתעד את סיפורה של משפחתו; איצ'ו הילד (יצחק בילדותו, בן שבע בתחילת המלחמה); ומאיה, במקצועה מתעדת סיפורי משפחה, שסיפורה המופלא של משפחת האוזר משנה את חייה ואת תפיסת עולמה.",
-        "header_custom": ""
-      },
-      "components": [
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
-              "font-family": "'Lato', sans-serif"
-            },
-            ".link": {
-              "font-size": "0.9rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.975rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "#fff"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#080808"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#1a1a1a!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#222"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".navbar-toggler i, .navbar-toggler em, .navbar-toggler i:before, .navbar-toggler em:before, .navbar-toggler i:after, .navbar-toggler em:after": {
-              "background": "#ffffff"
-            },
-            ".navbar-toggler[aria-expanded=\"true\"] i, .navbar-toggler[aria-expanded=\"true\"] em": {
-              "background": "transparent"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "#fff"
-            },
-            ".link[aria-expanded=\"true\"]": {
-              "color": "#fff!important"
-            },
-            ".dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#222!important"
-            }
-          },
-          "alias": "spacem/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "menu2",
-          "_params": {
-            "logo": true,
-            "sticky": true,
-            "transparent": false,
-            "bgColor": "#222",
-            "fontSize": "0.9",
-            "fontName": {
-              "name": "Lato",
-              "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
-              "css": "'Lato', sans-serif"
-            },
-            "fontColor": "#ffffff",
-            "fontHoverColor": "#fff",
-            "fontActiveColor": "#222"
-          },
-          "contacts": "<a data-app-btn=\"true\" href=\"mailto:revital@revital-sh.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\" class=\"\"><span class=\"fa fa-envelope-o mbr-iconfont mbr-iconfont-btn\"></span>revital@revital-sh.com</a>",
-          "icons": " <a data-app-btn=\"true\" title=\"Facebook\" target=\"_blank\" href=\"https://m.facebook.com/Revital-Shiri-Horowitz-108002329286503/\" data-toolbar=\"-mbrFonts,-mbrFontSize\" class=\"\"><span class=\"fa fa-facebook-square mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(9, 96, 244);\"></span></a> <a data-app-btn=\"true\" title=\"Facebook\" target=\"_blank\" href=\"https://twitter.com/RevitalHorowitz\" data-toolbar=\"-mbrFonts,-mbrFontSize\" class=\"\"><span class=\"fa fa-twitter-square mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(9, 96, 244);\"></span></a>     ",
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/revital-logo-1243x128.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "index.html",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://revital-sh.com/index.html\">english</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"workshop-on-the-subject-of-girls-for-narcissistic-mothers.html\">סדנאות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"articles.html\">ראיונות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"interviews.html\">אחד על אחד</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://cafe.themarker.com/blog/353435/\" target=\"_blank\">בלוג</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">צור קשר</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Reviews.html\">ביקורות</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"events.html\">גלריה</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"biography.html\">ביוגרפיה</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ספרים</a></li>",
-          "_customCSS": "@media (max-width: 480px){\n .menu2 .navbar-nav {\n    padding: 10px 0px;\n    overflow: auto;\n    display: block !important;\n    position: fixed;\n    top: 0;\n    bottom: 0;\n    }\n    \n.menu2 .navbar-nav .nav-item {\n    margin: 0 0 0px;\n }\n.menu2 .link {\n    font-size: 15px !important;\n    line-height: 2px;\n }\n}\n",
-          "_anchor": "menu2-d8"
-        },
-        {
-          "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "4",
-            "showTitle": true,
-            "showSubtitle": true,
-            "showButtons": true,
-            "showMedia": true,
-            "imageSize": "24",
-            "inverse": false,
-            "parallax": true,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-1920x1280.jpg",
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#000000",
-            "overlayOpacity": "0.7"
-          },
-          "media": {
-            "image": {
-              "class": "mbr-figure__img",
-              "src": "@PROJECT_PATH@/assets/images/how-to-hunt-a-bear-266x415.png",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "active": true
-            },
-            "video": {
-              "src": "https://www.youtube.com/watch?v=axMabrSDrI8",
-              "class": "mbr-figure__img",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            }
-          },
-          "title": "<span style=\"font-weight: normal;\"><i>איך לצוד דוב</i></span>",
-          "text": "\"בתוך המהומה הזאת, ראיתי ששמעון ארז את האולר שלו, שליווה אותו לכל מקום שהלך. 'הנאצים האלה, אני שונא אותם', מלמל. 'אף אחד לא יתקרב אלינו, ואם כן, אני לא יודע מה אני אעשה לו', ככה אמר אחי החזק והגיבור, לא פלא שאני מעריץ אותו. כשאני איתו, שום דבר רע לא יכול לקרות לי\".<br>ככה מרגיש איצ'ו הקטן בן השבע כשמשפחתו מגורשת על ידי הנאצים מהכפר בפולין אל מעבר לגבול לרוסיה, שם מתחיל מסעם הלא ייאמן לאורך ולרוחב ברית המועצות.<br><br>\"איך לצוד דוב\" הוא רומן היסטורי המתאר את קורותיה של משפחה יהודית מ-1939, עת נכנסו הנאצים אל העיירה ושינו את גורלם של תושביה לעד, ועד עלייתה ארצה ב-1949.<br><br>סיפורה של משפחת האוזר מסופר דרך שלוש נקודות מבט: יצחק, בן 87, המתגורר בבית אבות בירושלים ומבקש לתעד את סיפורה של משפחתו; איצ'ו הילד (יצחק בילדותו, בן שבע בתחילת המלחמה); ומאיה, במקצועה מתעדת סיפורי משפחה, שסיפורה המופלא של משפחת האוזר משנה את חייה ואת תפיסת עולמה.<br>רויטל שירי-הורוביץ, סופרת ומשוררת. על כתיבתה אמר פרופסור לב חקק(UCLA) ש\"היא טווה סיפורי חיים ביד נאמנה\". מחברת הספרים \"בת עיראק\", שזכה בפרס אח\"י (2008), \"להתראות בקרוב\" (2014) ו\"את מדמיינת\", שזכה בפרס פינאקל (2018). ספריה של שירי-הורוביץ תורגמו לאנגלית ונמכרים ברחבי העולם.",
-          "buttons": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=96&amp;item_name=%D7%A1%D7%A4%D7%A8+%D7%9C%D7%A6%D7%95%D7%93+%D7%93%D7%95%D7%91+%D7%91%D7%A2%D7%91%D7%A8%D7%99%D7%AA&amp;currency_code=ILS\" class=\"btn btn-primary\" role=\"button\" target=\"_blank\">לקניה ישירה 96שח</a>",
-          "alias": "spacem/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-da",
-          "_styles": {
-            "EM": {
-              "font-size": "48px"
-            },
-            "H1": {
-              "font-size": "48px"
-            },
-            "P": {
-              "text-align": "right"
-            }
-          },
-          "_customCSS": "direction:rtl;"
-        },
-        {
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "showTitle": true,
-            "showSeparator": true,
-            "showSubtitle": false,
-            "showText": false,
-            "showButtons": false,
-            "parallax": false,
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-1920x1280.jpg",
-            "bgColorRadio": true,
-            "bgColor": "#e5e5e5",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#ffffff",
-            "overlayOpacity": "0.6"
-          },
-          "title": "<span style=\"font-weight: normal;\"><i>ביקורות</i></span>",
-          "subtitle": "Subtitle",
-          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione quis quidem laboriosam, enim rem nobis ab laudantium. Aliquam, ipsum, impedit accusantium ex cum facilis ut tempora vero nesciunt mollitia ullam, quisquam quia cupiditate esse repudiandae. Vero nisi velit sint minima et adipisci culpa iusto ea obcaecati! Voluptatibus consectetur nulla, asperiores.",
-          "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-black\" role=\"button\">learn more</a>",
-          "alias": "spacem/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "title4",
-          "_anchor": "title4-dc"
-        },
-        {
-          "_params": {
-            "autoplay": true,
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "showBullets": false,
-            "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1440.jpg",
-            "bgColorRadio": true,
-            "bgColor": "#e5e5e5",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#eee",
-            "overlayOpacity": 0.75,
-            "timeout": 5,
-            "slides": [
-              {
-                "active": true,
-                "showText": true,
-                "showTitle": true,
-                "image": "@THEME_PATH@/components/_images/header1.jpg",
-                "title": "ע.א.",
-                "text": "תודה רבה רויטל,<br>תודה רבה רויטל, סיימתי שוב לקרוא את הספר בערב יום השואה הבינלאומי 27 בינואר 2021 שוב בכיתי כשהודיעו בספר שהמלחמה נגמרה תודה לך שסיפרת את סיפורה של משפחתי.<br>"
-              }
-            ]
-          },
-          "articleLayout": false,
-          "alias": "spacem/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "testimonials2",
-          "_anchor": "testimonials2-db",
-          "_customCSS": "direction:rtl;"
-        },
-        {
-          "alias": "spacem/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_styles": {
-            "SPAN": {
-              "color": "#ffffff",
-              "font-size": "12px"
-            },
-            "P": {
-              "color": "#ffffff",
-              "text-align": "right"
-            },
-            "H4": {
-              "text-align": "right"
-            }
-          },
-          "_customCSS": "",
-          "_params": {
-            "paddingTop": 0,
-            "paddingBottom": 0,
-            "showMedia": true,
-            "parallax": false,
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
-            "bgColorRadio": true,
-            "bgColor": "#212121",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#151515",
-            "overlayOpacity": 0.75
-          },
-          "media": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/revital-logo-1243x128.png",
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "adress": "",
-          "phone": "",
-          "email": "<p><b>Email:&nbsp;</b><a href=\"mailto:revital@revital-sh.com\" style=\"display: inline !important;\">revital@revital-sh.com</a><a href=\"http://\"><b></b></a></p>",
-          "titleNews": "Coming Events",
-          "mediaNews1": {
-            "image": {
-              "class": "resp-img",
-              "src": "@PROJECT_PATH@/assets/images/1446369666-1203x803.jpg",
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "textNews1": "<span class=\"date\">Las Vegas<br>November 14,2015 7:30 pm</span>",
-          "mediaNews2": {
-            "image": {
-              "class": "resp-img",
-              "src": "@PROJECT_PATH@/assets/images/5e018a65-82ea-4012-aeeb-e4ee7edb0f5e-960x720.jpg",
-              "active": true,
-              "link": "contact.html",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "textNews2": "<a href=\"http://mobirise.com\"><span style=\"font-size: 16px; font-weight: 400; background-color: inherit;\"></span></a><a href=\"contact.html\">השקת הספר \"את מדמיינת\" מאת רויטל שירי-הורוביץ</a><span style=\"font-size: 16px; font-weight: 400; background-color: inherit;\">23 לאפריל בשעה 19:00</span><br>",
-          "titleTweet": "<p>&nbsp;&nbsp;<span style=\"background-color: inherit;\">&nbsp;&nbsp;</span><span style=\"background-color: inherit; font-family: Arapey, sans-serif; font-weight: bold; line-height: 1.6em;\">ספרים</span></p>",
-          "tweet1": "<a href=\"http://mobirise.com\" class=\"adr-link\"></a>",
-          "tweet2": "<p>:להתראות בקרוב&nbsp;&nbsp; &nbsp;<a href=\"https://www.amazon.com/Hope-See-You-Soon-Hebrew/dp/1495108260/ref=asap_bc?ie=UTF8\" target=\"_blank\">Amazon לרכישת הספר<span style=\"font-size: 16px; line-height: 26px; background-color: inherit;\">&nbsp;</span></a><a href=\"http://mobirise.com\" class=\"adr-link\"></a><a href=\"http://www.amazon.com/Hope-See-Soon-Revital-Horowitz-ebook/dp/B00M29HQPE/ref=asap_bc?ie=UTF8\" target=\"_blank\">לרכישת הספר בפורמט דיגיטלי &nbsp;</a></p><p>בת עיראק<br><a href=\"http://www.booknet.co.il/prodtxt.asp?id=40916&amp;perur=4\" target=\"_blank\">לרכישת הספר בצומת ספרים</a></p><p><a href=\"http://www.booknet.co.il/prodtxt.asp?id=40916&amp;perur=4\" target=\"_blank\"></a><a href=\"http://bookme.co.il/Books/Item_Details.aspx?Barcode=86-423\" target=\"_blank\" style=\"display: inline !important;\">Bookme.co.il - לרכישת הספר ב</a></p><p><a href=\"http://bookme.co.il/Books/Item_Details.aspx?Barcode=86-423\" target=\"_blank\"></a><a href=\"http://bookme.co.il/Books/Item_Details.aspx?Barcode=86-423\" target=\"_blank\"></a><a href=\"http://www.booknet.co.il/prodtxt.asp?id=40916&amp;perur=4\" target=\"_blank\"></a></p>",
-          "tweet3": "<p></p><p><a href=\"http://mobirise.com\"><b></b></a><a href=\"http://mobirise.com\" class=\"adr-link\"><b></b></a></p>",
-          "tweet4": "",
-          "titleInst": "תמונות מאירועים",
-          "mediaInst1": {
-            "image": {
-              "class": "resp-img",
-              "src": "@PROJECT_PATH@/assets/images/1446369666-1203x803.jpg",
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "mediaInst2": {
-            "image": {
-              "class": "resp-img",
-              "src": "@PROJECT_PATH@/assets/images/dsc-1203x803.jpg",
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "mediaInst3": {
-            "image": {
-              "class": "resp-img",
-              "src": "@PROJECT_PATH@/assets/images/dsc-1-1203x803.jpg",
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "mediaInst4": {
-            "image": {
-              "class": "resp-img",
-              "src": "@PROJECT_PATH@/assets/images/dsc-2-1203x803.jpg",
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "mediaInst5": {
-            "image": {
-              "class": "resp-img",
-              "src": "@PROJECT_PATH@/assets/images/dsc-4-1203x803.jpg",
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "mediaInst6": {
-            "image": {
-              "class": "resp-img",
-              "src": "@PROJECT_PATH@/assets/images/dsc-3-1203x803.jpg",
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "copyright": "<i>2016 All rights reserved. Development by</i> Aviv Yeshua",
-          "_anchor": "footer1-d9"
         }
       ]
     }
