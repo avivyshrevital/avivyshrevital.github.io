@@ -28,7 +28,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 484,
+    "uniqCompNum": 486,
     "versionPublish": "4.12.4",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -14563,8 +14563,8 @@
             ]
           },
           "articleLayout": false,
-          "arrowLeft": "@PROJECT_PATH@/assets/images/arrow-left12.svg",
-          "arrowRight": "@PROJECT_PATH@/assets/images/arrow-right13.svg",
+          "arrowLeft": "@PROJECT_PATH@/assets/images/arrow-left20.svg",
+          "arrowRight": "@PROJECT_PATH@/assets/images/arrow-right21.svg",
           "allItem": "All",
           "_tags": [
             "Theme"
@@ -14573,18 +14573,34 @@
           "_anchor": "gallery2-dd"
         },
         {
-          "_customTemplate": true,
-          "_afterNavbarItem": false,
-          "_customHTML": "<!-- Type valid HTML here -->\n\n<div>\n    <p class=\"display-1\">שרים בעקבות השואה\nגבי זהר בתכנית מיוחדת ליום השואה 2021</p>\n    \n<iframe src=\"https://1045fm.maariv.co.il/programs/media.aspx?ZrqvnVq=HLIKKG&amp;c41t4nzVQ=EFFL\" title=\"שרים בעקבות השואה\nגבי זהר בתכנית מיוחדת ליום השואה 2021\"></iframe>\n</div>",
-          "_customCSS": "/* Type valid CSS here */\n\ndiv {\n  padding: 40px 0;\n  color: #777;\n  text-align: center;\n}\np {\n  font-size: 20px;\n  color: #777;\n}",
-          "alias": "code-editor",
+          "_params": {
+            "showText": true,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "media": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/image2.jpg"
+            },
+            "video": {
+              "src": "https://1045fm.streamgates.net/1045/gabi080421-full.mp3?nimblesessionid=1140369",
+              "autoplay": false,
+              "loop": false,
+              "active": true
+            }
+          },
+          "text": "שרים בעקבות השואה<div>גבי זהר בתכנית מיוחדת ליום השואה 2021</div>",
           "_tags": [
-            "Extension"
+            "Theme"
           ],
-          "_name": "pro.custom-html",
-          "_anchor": "custom-html-de",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": []
+          "_name": "image2",
+          "_anchor": "image2-dh",
+          "_styles": {
+            "DIV": {
+              "text-align": "right"
+            }
+          }
         },
         {
           "_params": {
