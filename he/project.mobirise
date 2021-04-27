@@ -28,7 +28,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 486,
+    "uniqCompNum": 487,
     "versionPublish": "4.12.4",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -14563,41 +14563,137 @@
             ]
           },
           "articleLayout": false,
-          "arrowLeft": "@PROJECT_PATH@/assets/images/arrow-left20.svg",
-          "arrowRight": "@PROJECT_PATH@/assets/images/arrow-right21.svg",
+          "arrowLeft": "@PROJECT_PATH@/assets/images/arrow-left0.svg",
+          "arrowRight": "@PROJECT_PATH@/assets/images/arrow-right1.svg",
           "allItem": "All",
           "_tags": [
             "Theme"
           ],
           "_name": "gallery2",
-          "_anchor": "gallery2-dd"
+          "_anchor": "gallery2-dd",
+          "_customCSS": "direction:rtl;"
         },
         {
           "_params": {
-            "showText": true,
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgColor": "#fff"
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "showTitle": false,
+            "showImages": true,
+            "columns": "3",
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.75
           },
           "media": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/image2.jpg"
+              "class": "mbr-figure__img",
+              "width": 320,
+              "src": "@THEME_PATH@/components/_images/about.jpg"
             },
             "video": {
-              "src": "https://1045fm.streamgates.net/1045/gabi080421-full.mp3?nimblesessionid=1140369",
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=CluVGS25Kb0",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
               "autoplay": false,
-              "loop": false,
-              "active": true
+              "loop": false
             }
           },
-          "text": "שרים בעקבות השואה<div>גבי זהר בתכנית מיוחדת ליום השואה 2021</div>",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont",
+              "linkInNewWindow": false,
+              "name": "radio-1",
+              "family": "icon54",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont",
+              "linkInNewWindow": false,
+              "name": "radio-1",
+              "family": "icon54",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont",
+              "linkInNewWindow": false,
+              "name": "radio-1",
+              "family": "icon54",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "trophy",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "lightbulb",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "presentation",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "title": "<em>Our</em> Design",
+          "subtitle": "Subtitle",
+          "text": "Lorem ipsum dolor sit amet consectetur adipiscing elit quisque elementum volutpat massa ac interdum velit imperdiet vel lacinia massa viverra dolor quis congue pellentesque.",
+          "title1": "target market",
+          "title2": "start up projects",
+          "title3": "ראיון ברדיו צפון  עם גבי זוהר. הראיון איתי הוא בשעה השניה: 1:08",
+          "title4": "creative compaings",
+          "title5": "innovation ideas",
+          "title6": "business analysis",
+          "text1": "<a href=\"https://www.kan.org.il/radio/program.aspx/?progid=1185\" target=\"_blank\">מעבירים לראשון ליאת רגב, ראיון בתוכנית בדקה ה 2:20&nbsp;</a>",
+          "text2": "<a href=\"http://www.fm1.co.il/kan-bet.html\" target=\"_blank\">היום, בין 6:30-7:00 אתארח ברשת ב׳ בתוכנית של ליאת רגש</a><br><a href=\"http://www.fm1.co.il/kan-bet.html\" target=\"_blank\"> ״עוברים לראשון״ .</a> ",
+          "text3": "<a href=\"https://1045fm.maariv.co.il/programs/media.aspx?ZrqvnVq=HLIKKG&amp;c41t4nzVQ=EFFL\" target=\"_blank\">ראיון ברדיו צפון  עם גבי זוהר. הראיון איתי הוא בשעה השניה: 1:08</a>",
+          "text4": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut, cupiditate, debitis! Laborum maiores autem totam aliquid nemo beatae possimus rem?",
+          "text5": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ducimus saepe illum, ipsa voluptas animi laborum? Veniam delectus totam, voluptatem maxime!",
+          "text6": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores similique itaque possimus hic. Saepe et deleniti fugit qui, odit tenetur?",
           "_tags": [
             "Theme"
           ],
-          "_name": "image2",
-          "_anchor": "image2-dh",
+          "_name": "content2",
+          "_anchor": "content2-di",
+          "_customCSS": "direction:rtl;",
           "_styles": {
-            "DIV": {
+            "P": {
               "text-align": "right"
             }
           }

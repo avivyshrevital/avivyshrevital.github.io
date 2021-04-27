@@ -4210,7 +4210,13 @@ section.form .container {
 #header3-da P {
   text-align: right;
 }
-#image2-dh DIV {
+#gallery2-dd {
+  direction: rtl;
+}
+#content2-di {
+  direction: rtl;
+}
+#content2-di P {
   text-align: right;
 }
 #testimonials1-df {
