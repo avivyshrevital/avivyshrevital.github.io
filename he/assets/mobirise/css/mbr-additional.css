@@ -4219,6 +4219,12 @@ section.form .container {
 #content2-di P {
   text-align: right;
 }
+#content2-di H4 {
+  text-align: center;
+}
+#content2-di .c-info {
+  text-align: right;
+}
 #testimonials1-df {
   direction: rtl;
 }

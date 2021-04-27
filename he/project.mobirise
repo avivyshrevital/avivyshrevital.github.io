@@ -14563,8 +14563,8 @@
             ]
           },
           "articleLayout": false,
-          "arrowLeft": "@PROJECT_PATH@/assets/images/arrow-left0.svg",
-          "arrowRight": "@PROJECT_PATH@/assets/images/arrow-right1.svg",
+          "arrowLeft": "@PROJECT_PATH@/assets/images/arrow-left4.svg",
+          "arrowRight": "@PROJECT_PATH@/assets/images/arrow-right5.svg",
           "allItem": "All",
           "_tags": [
             "Theme"
@@ -14691,10 +14691,13 @@
           ],
           "_name": "content2",
           "_anchor": "content2-di",
-          "_customCSS": "direction:rtl;",
+          "_customCSS": "direction:rtl;\n.c-info {\n    text-align: right;\n}",
           "_styles": {
             "P": {
               "text-align": "right"
+            },
+            "H4": {
+              "text-align": "center"
             }
           }
         },
