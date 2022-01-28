@@ -13389,7 +13389,7 @@
           "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"></li></ul>",
           "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"></li></ul>",
           "button1": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=400&amp;item_name=%D7%AA%D7%A9%D7%9C%D7%95%D7%9D+%D7%A1%D7%93%D7%A0%D7%90+%D7%9C%D7%9E%D7%AA%D7%A7%D7%93%D7%9E%D7%95%D7%AA&amp;currency_code=ILS\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd\" target=\"_blank\">&nbsp;הרשמה</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=500&amp;item_name=%D7%A1%D7%93%D7%A0%D7%90-%D7%9C%D7%9E%D7%AA%D7%97%D7%99%D7%9C%D7%99%D7%9D-21-06-2019&amp;currency_code=ILS\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd\" target=\"_blank\">הרשמה</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=500&amp;item_name=%D7%A1%D7%93%D7%A0%D7%90-%D7%9C%D7%9E%D7%AA%D7%97%D7%99%D7%9C%D7%99%D7%9D-21-06-2019&amp;currency_code=ILS&amp;add=1\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd\" target=\"_blank\">הרשמה</a>",
           "button3": "<a data-app-btn=\"true\" href=\"http://pbme.co/pbj?v=j&amp;g=5ccdac46ed191b00152a7c2c\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd\" target=\"_blank\">הרשמה</a>",
           "button4": "<a data-app-btn=\"true\" href=\"http://pbme.co/pbj?v=j&amp;g=5ccdac46ed191b00152a7c2c\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd\" target=\"_blank\">הרשמה</a>",
           "alias": "spacem/components",
@@ -14364,7 +14364,7 @@
         "title": "איך לצוד דוב",
         "order": 1,
         "meta_descr": "\"איך לצוד דוב\" הוא רומן היסטורי המתאר את קורותיה של משפחה יהודית מ-1939, עת נכנסו הנאצים אל העיירה ושינו את גורלם של תושביה לעד, ועד עלייתה ארצה ב-1949.\n\nסיפורה של משפחת האוזר מסופר דרך שלוש נקודות מבט: יצחק, בן 87, המתגורר בבית אבות בירושלים ומבקש לתעד את סיפורה של משפחתו; איצ'ו הילד (יצחק בילדותו, בן שבע בתחילת המלחמה); ומאיה, במקצועה מתעדת סיפורי משפחה, שסיפורה המופלא של משפחת האוזר משנה את חייה ואת תפיסת עולמה.",
-        "header_custom": ""
+        "header_custom": "<meta property='og:type' content='website' />\n<meta property='og:title' content='איך לצוד דוב' />\n<meta property='og:url' content='https://revital-sh.com/he/how-to-hunt-a-bear.html' />\n<meta property=״og:description״ content=״איך לצוד דוב הוא רומן היסטורי המתאר את קורותיה של משפחה יהודית מ-1939, עת נכנסו הנאצים אל העיירה ושינו את גורלם של תושביה לעד, ועד עלייתה ארצה ב-1949.״ />\n<meta property='og:image' content='https://revital-sh.com/he/assets/images/how-to-hunt-a-bear-266x415.png' />"
       },
       "components": [
         {
