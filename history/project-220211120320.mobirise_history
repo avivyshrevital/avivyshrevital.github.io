@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Revital-English",
-    "currentPage": "index-old.html",
+    "currentPage": "buy-daughters-of-Iraq-book.html",
     "theme": {
       "name": "spacem",
       "title": "SpaceM",
@@ -23,7 +23,7 @@
     },
     "versionFirst": "3.12.1",
     "uniqCompNum": 264,
-    "versionPublish": "5.2.0",
+    "versionPublish": "4.12.4",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/hopetoseeyousooncoverfront-128x197-1.png",
