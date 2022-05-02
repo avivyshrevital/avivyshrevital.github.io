@@ -14583,8 +14583,8 @@
             ]
           },
           "articleLayout": false,
-          "arrowLeft": "@PROJECT_PATH@/assets/images/arrow-left4.svg",
-          "arrowRight": "@PROJECT_PATH@/assets/images/arrow-right5.svg",
+          "arrowLeft": "@PROJECT_PATH@/assets/images/arrow-left6.svg",
+          "arrowRight": "@PROJECT_PATH@/assets/images/arrow-right7.svg",
           "allItem": "All",
           "_tags": [
             "Theme"
