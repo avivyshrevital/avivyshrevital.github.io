@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Revital-Hebrew",
-    "currentPage": "how-to-hunt-a-bear.html",
+    "currentPage": "Its-just-your-imagination.html",
     "theme": {
       "name": "spacem",
       "title": "SpaceM",
@@ -11190,7 +11190,7 @@
           },
           "title": "<span style=\"font-weight: normal;\"><i>את מדמיינת</i></span>",
           "text": "\"באחת מהשיחות הלא פשוטות עם אמי היא צעקה לעברי: 'אבל את שלי'. זה היה כבר בשנות החמישים שלי, הייתי אישה בוגרת, והבנתי שאני ישות נפרדת ועצמאית. עצרתי לרגע, ומכיוון שלא רציתי להעליב אותה אמרתי: \"אני לא שלך ולא של אף אחד, אני של עצמי.\" מאז היא חזרה על האמירה הזאת פעמים רבות, בכל פעם שחשה שאינני מבינה שאני צריכה להיות איתה, לעשות למענה או להיות לישות אחת עמה. קשה לתאר את הרגש שעולה בי בכל פעם שהיא אומרת משפט כזה\".\n<br>\n<br>בספרה את מדמיינת יוצאת הסופרת למסע של גילוי ותובנות, לאחר שהגיעה לנקודת שפל בחייה האישיים. כאשר היא מגלה שיש שם לרגשות שלה - \"בת לאם נרקיסיסטית\", היא קוראת כל ספרות אפשרית בנושא, ומתעדת את המסע האישי שלה. המסע שלה סוחף, מערבל ומלא בתובנות שייקחו אתכם למקומות שבהם, בניגוד לאגדות, אימהות הן לאו דווקא מעצימות ומגוננות. אימהות פגועות מגדלות לעיתים ילדות פגועות, אז איך שוברים את השרשרת הזאת?\n<br>\n<br>רויטל שירי-הורוביץ, סופרת, בלוגרית ומשוררת, המכנה עצמה \"כותבת סדרתית\", כתבה את \"בת עיראק\", רומן היסטורי, שזכה בפרס עידוד מטעם מורשת יהדות בבל (2008); ספרה השני \"להתראות בקרוב\" עוסק במהגרים החצויים בין עולמות (2014). \"את מדמיינת\" הוא ספרה השלישי. שירי-הורוביץ נשואה ואם לארבעה בנים, חיה בסיאטל וחולמת בעברית. ספריה תורגמו לאנגלית ונמכרים ברחבי העולם.<br>",
-          "buttons": "<a data-app-btn=\"true\" href=\"https://www.amazon.com/Its-Just-Your-Imagination-Narcissistic/dp/9659259239/ref=sr_1_1?s=digital-text&amp;ie=UTF8&amp;qid=1516579258&amp;sr=8-1&amp;keywords=its+just+your+imagination+hebrew\" class=\"btn btn-white\" role=\"button\" target=\"_blank\">לרכישה באתר Amazon</a> <a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=80&amp;item_name=Hebrew+It's+just+your+imagination&amp;currency_code=ILS\" class=\"btn btn-white\" role=\"button\" target=\"_blank\">קניה ישירה 80 שח</a>",
+          "buttons": "<a data-app-btn=\"true\" href=\"https://www.amazon.com/Its-Just-Your-Imagination-Narcissistic/dp/9659259239/ref=sr_1_1?s=digital-text&amp;ie=UTF8&amp;qid=1516579258&amp;sr=8-1&amp;keywords=its+just+your+imagination+hebrew\" class=\"btn btn-white\" role=\"button\" target=\"_blank\">לרכישה באתר Amazon</a> <a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=80.00&amp;item_name=Hebrew+It's+just+your+imagination&amp;currency_code=ILS&amp;add=1\" class=\"btn btn-white\" role=\"button\" target=\"_blank\">קניה ישירה 80 שח</a>",
           "alias": "spacem/components",
           "_tags": [
             "Theme"
@@ -14583,8 +14583,8 @@
             ]
           },
           "articleLayout": false,
-          "arrowLeft": "@PROJECT_PATH@/assets/images/arrow-left6.svg",
-          "arrowRight": "@PROJECT_PATH@/assets/images/arrow-right7.svg",
+          "arrowLeft": "@PROJECT_PATH@/assets/images/arrow-left2.svg",
+          "arrowRight": "@PROJECT_PATH@/assets/images/arrow-right3.svg",
           "allItem": "All",
           "_tags": [
             "Theme"
