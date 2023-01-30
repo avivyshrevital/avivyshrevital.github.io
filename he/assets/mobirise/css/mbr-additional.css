@@ -992,8 +992,8 @@ section.form .container {
 #menu2-s .dropdown-item[aria-expanded="true"] {
   color: #222!important;
 }
-#contacts1-u {
-  direction: rtl;
+#subscribe2-do H1 {
+  text-align: center;
 }
 #footer1-18 SPAN {
   color: #ffffff;
